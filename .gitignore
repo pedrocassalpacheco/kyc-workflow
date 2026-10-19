@@ -33,3 +33,6 @@ Thumbs.db
 # The original data pack archive: its contents are unzipped in data/
 data/*.zip
 
+
+# The bank's data pack: unzip it here, never commit it
+data/

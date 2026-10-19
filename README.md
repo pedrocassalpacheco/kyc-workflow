@@ -40,6 +40,7 @@ pack. It runs on a laptop with one API key.
 git clone https://github.com/pedrocassalpacheco/kyc-workflow.git && cd kyc-workflow
 uv sync                                   # installs everything from uv.lock
 cp .env.example .env                      # then put your ANTHROPIC_API_KEY in .env
+unzip /path/to/vgb_kyc_pack.zip && mv vgb_kyc_pack/vgb_data_export_final_v2/* data/   # the bank's data pack (not in the repo)
 make test                                 # 151 offline tests, no key needed (one live test is opt-in)
 make up                                   # bank API :8000, MCP server :8001, UI :8002
 open http://127.0.0.1:8002                # the UI
@@ -51,9 +52,12 @@ make down
 `make` with no target lists every target. `make status` tells you whether
 the three services answer. `make restart` after changing server code.
 
-The bank's data pack is already unzipped in `data/` (13 CSV files, 1,032
-document texts, the review worklist, POL-042 v4.2). It is synthetic; nothing
-in it is real customer data.
+The bank's data pack is not committed. Unzip it so that its CSV files sit
+directly in `data/` (13 CSV files, 1,032 document texts, the review
+worklist). The services and the workflow need it; the offline tests do not,
+they use a small fixture export. POL-042 v4.2 is in the repo at
+`docs/risk-rating-policy-v4.2.md`. The data is synthetic; nothing in it is
+real customer data.
 
 ## 2. What the bank asked for and what was promised
 
@@ -418,7 +422,7 @@ file before the checker does; and the bank's own QA log is the test.
 kyc-workflow/
 ├── README.md, CLAUDE.md, Makefile, pyproject.toml, uv.lock, .env.example
 ├── docs/                 plan, proposal, gap report, glossary, discovery deck and tracker, interviews/
-├── data/                 the bank's data pack, unzipped (synthetic)
+├── data/                 the bank's data pack, unzipped here by you; gitignored
 ├── bank_api/             the bank's reference HTTP API, as delivered
 ├── src/kyc_workflow/
 │   ├── config.py         settings from .env

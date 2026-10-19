@@ -1,7 +1,7 @@
 """POL-042 v4.2 as code can use it.
 
-The clause text is read from the data pack (`data/risk-rating-policy-v4.2.md`),
-never paraphrased into code. What this module adds is the parts a check needs
+The clause text is read from the policy file (`docs/risk-rating-policy-v4.2.md`,
+the same text as in the bank's data pack), never paraphrased into code. What this module adds is the parts a check needs
 as numbers and tables: the thresholds the policy states, Appendix B industry
 baselines, Appendix C jurisdiction groups, and the two rules Compliance has
 not settled, kept configurable with their defaults visible in the pack.
@@ -15,7 +15,8 @@ from pathlib import Path
 
 from kyc_workflow.config import PROJECT_ROOT
 
-POLICY_PATH = PROJECT_ROOT / "data" / "risk-rating-policy-v4.2.md"
+# The policy text ships with the repo in docs/ (the data pack holds the same file); data/ is not committed.
+POLICY_PATH = PROJECT_ROOT / "docs" / "risk-rating-policy-v4.2.md"
 
 
 @dataclass(frozen=True)

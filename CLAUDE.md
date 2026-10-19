@@ -139,8 +139,9 @@ never exposes `qa_sample.csv`, which is evaluation ground truth.
 
 ## Policy
 
-POL-042 v4.2 is in the data pack at `data/risk-rating-policy-v4.2.md`; read
-the clause text from there, do not paraphrase it into code. Two rules are
+POL-042 v4.2 is in the repo at `docs/risk-rating-policy-v4.2.md` (the same
+file the data pack carries); read the clause text from there, do not
+paraphrase it into code. `data/` itself is not committed. Two rules are
 unsettled with Compliance and must stay configurable, with the default
 flagged in the pack output:
 

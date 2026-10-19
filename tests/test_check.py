@@ -84,8 +84,10 @@ async def test_rationale_is_read_by_the_model_through_build_check(records, setti
 
 
 def test_qa_case_kinds_and_scoring():
-    from evals.pack.cases import QACase, load_cases, overturn_surfaced
+    from evals.pack.cases import QA_PATH, QACase, load_cases, overturn_surfaced
 
+    if not QA_PATH.exists():
+        pytest.skip("the bank's data pack is not unzipped in data/")
     cases = load_cases()
     assert len(cases) == 75 and sum(1 for c in cases if not c.concurs) == 15
     kinds = {c.kind for c in cases if not c.concurs}
