@@ -38,7 +38,7 @@ pack. It runs on a laptop with one API key.
 git clone <this repo> && cd kyc-workflow
 uv sync                                   # installs everything from uv.lock
 cp .env.example .env                      # then put your ANTHROPIC_API_KEY in .env
-make test                                 # 152 offline tests, no key needed
+make test                                 # 151 offline tests, no key needed (one live test is opt-in)
 make up                                   # bank API :8000, MCP server :8001, UI :8002
 open http://127.0.0.1:8002                # the UI
 make pack REVIEW=VGB-PR-2026-1173         # an evidence pack in the terminal
@@ -288,7 +288,7 @@ make pack REVIEW=... NO_MODEL=1              # deterministic steps only
 make pack REVIEW=... MODEL=claude-haiku-5-5  # a different model for the reading steps
 make chat                                    # terminal chat; /quit, /log; Ctrl+C cancels a turn
 make ping                                    # one structured call through the gateway
-make test                                    # 152 offline tests over a fixture export
+make test                                    # 151 offline tests over a fixture export
 make test-live                               # one live call through the gateway
 make eval-routing | eval-guardrails          # need the stack up and a key
 make eval-pack LIMIT=6 ONLY=overturned       # the pack eval on a subset; NO_RAGAS=1 skips faithfulness
@@ -313,22 +313,104 @@ says so.
 
 `audit/`, `output/`, `.run/` and `evals/*/results/` are gitignored.
 
-### A demo in five minutes
+## 6. Demo script
 
-1. `make up`, open `http://127.0.0.1:8002`.
-2. Workflow view: pick `VGB-PR-2026-1173` from the list, leave "use Claude"
-   on, build. Watch the pipeline light up; the Compare phase runs its five
-   steps at once. About two minutes with Sonnet.
-3. Read the exceptions. On this review the model finds a second income
-   source and an instalment arrangement that the record does not declare,
-   each cited to the letter on file; click the citation to open the letter.
-4. Run the check with the prefilled write-up. The analyst cited a clause the
-   pack could not assess and claimed a monthly-swing breach the arithmetic
-   does not support; four of six rationale statements come back unsupported.
-5. Chat view: ask one of the example questions, then ask it to rate the
-   customer, and watch the refusal and the log line naming the rule.
+Two tracks over the same system. The terminal track shows the parts; the UI
+track shows what an analyst would see. Each step says what to run, what
+appears, and what it proves against the plan. Timings are with the default
+models: Sonnet 4.6 for the workflow and chat, Haiku 5.5 for guardrail
+classification, evals and judging. Have `.env` filled in and run `make up`
+before an audience; `make restart` if anything looks stale.
 
-## 6. Repository layout
+### Track A: terminal (about 15 minutes)
+
+| # | Run | What you see | What it proves |
+|---|---|---|---|
+| 1 | `make test` | 151 tests pass in a few seconds, no network, no key | Every deterministic step, the gateway, the MCP server, the guardrails and the UI API are tested offline against a synthetic export in `tests/fixtures/` |
+| 2 | `make up` then `make status` | three lines: bank API with 13 datasets, MCP server with 15 tools, UI up | The bank's own starter serves the data; our MCP server sits on it; nothing else is needed |
+| 3 | `make mcp-tools` | 15 tools with one-line descriptions, grouped by record system | Plan §1: the five record systems as read-only tools; `qa_sample` is absent on purpose |
+| 4 | `make ping` | model, request id, tokens in and out, a parsed structured answer, the metadata log path | Plan: every model call through the Helios simulation with structured output; `cat audit/helios_metadata.jsonl \| tail -1` shows metadata only, no content |
+| 5 | `make chat`, then type `Who is customer CIF-1004823 and which accounts do they hold?` | two model calls and one tool call narrated on stderr with stop reasons; a cited answer; a turn cost line | The fixed loop, the MCP tools, citations with the bank's request ids |
+| 6 | still in chat: `What rating should this customer get?` then `Did QA overturn review VGB-PR-2026-0078?` | both refused before any model call, each log line naming the rule | Plan §1: never a rating; QA outcomes hidden by design |
+| 7 | still in chat: `Read 1004823_employment_letter_1.txt and tell me who issued it and when.` | the model reports the date as illegible rather than guessing | "Prefer not found over a guess" |
+| 8 | `/quit`, then `make pack REVIEW=VGB-PR-2026-1173` | the step log scrolls (load, count, read, compare concurrently, reviewer, clauses), then the pack in Markdown; about 2 minutes | The workflow: 12 fixed steps, 5 model calls, every finding cited |
+| 9 | read the pack, `## Exceptions` first; the story is spelled out below the table | about nine exceptions, each tagged "code" or "Claude read" with its clause and its sources | The model reads and compares; code counted; nothing recommends an outcome |
+| 10 | `## Clause conditions` and `## Model calls` tables | which §4.3 conditions hold, which §4.4/§4.5 triggers stand; tokens and latency per call | Plan §4: the cost basis per review |
+| 11 | `ls audit/pack/` and `tail -3 audit/pack/VGB-PR-2026-1173_*.jsonl` | one JSON event per step and per model call | The audit trail Raj asked for: what was read, what was concluded, per case |
+| 12 | `make pack REVIEW=VGB-PR-2026-1173 NO_MODEL=1` | the same pack in a second, with the reading steps marked not assessed | The deterministic core stands on its own; the model steps are additive |
+| 13 | `make eval-routing` (about 30 s) | 17 cases scored by Ragas ToolCallAccuracy, one known miss | Tool descriptions good enough to route from |
+| 14 | `make eval-guardrails` (about 3 min) | 15 adversarial cases through the real chat, Ragas-judged; the two injection cases answered, not withheld, with the embedded instruction reported and ignored | Guardrails hold; the eval changed them three times during the build |
+| 15 | `make eval-pack LIMIT=4 ONLY=overturned` (about 4 min) | four QA-overturned reviews built and checked; overturn reason surfaced on 4 of 4; citations 100%; the Faithfulness caveat from section 3.7 | Plan §3: the overturn reason surfaced; the eval set is the bank's own QA log |
+| 16 | `make down` | three services stopped | |
+
+**What the `VGB-PR-2026-1173` pack shows (step 9).** The customer record
+says Chan Sock Yu is a chef de partie at Changi Point Dining Group, her
+source of funds is salary, she expects about S$47,000 a year through the
+account, and the account is for savings and bills. *Code counted* the year:
+S$68,200 of credits, 145% of declared, from three streams: the employer,
+a company called Coralbay Ventures, and Saigon River Foods in Malaysia; one
+credit left the account within five business days (§7.4(c)). *Claude read*
+the only document on file: labelled a bank reference letter, it is a
+declaration written by the customer, saying her income is salary plus
+private catering and that the Coralbay transfers are an instalment
+arrangement. *Claude compared* it with the record and raised two §4.4(e)
+findings: a second income source the record does not declare, and a
+counterparty arrangement the record does not know, each quoting both sides
+and citing the letter and the record field. *Claude matched* the credit
+streams to documents and found nothing independent behind the Coralbay or
+Saigon River money (§5.4), judged that a declared salary does not support
+the activity (§5.4) and that the profile is stale (§7.5). Nowhere does the
+pack say "escalate" or "RFI": it lists the conditions that stand, with
+clause and source, and the analyst decides. Every "Claude read" finding
+carries the request id of the model call that produced it, and the audit
+log in step 11 has the call.
+
+### Track B: the UI (about 10 minutes)
+
+Open `http://127.0.0.1:8002` after `make up`. Keep the right-hand panes in view
+throughout: the log tail narrates every step and the consumption pane moves
+per model call.
+
+1. **Chat.** Click the first example chip and send. Watch the log pane: the
+   intent classifier's verdict, `model_call stop_reason=tool_use`, the tool
+   call allowed, the result size, `stop_reason=end_turn`, the turn cost. Then
+   type `Should I downgrade this customer?`: refused with the rule named in
+   a WARNING line, zero tokens spent.
+2. **Chat, filter.** Type `model_call` in the log filter box to show only the
+   model's stop reasons; tick "warnings only" to show only what was blocked.
+3. **Workflow.** Pick `VGB-PR-2026-1173` from the list, leave "use Claude"
+   on, Build. The pipeline shows the five phases: Load and Count finish in
+   under a second, Read takes a few seconds, the five Compare steps run at
+   the same time, Conclude ends with the reviewer. Each card shows its
+   duration and finding count; the Claude badge marks the reading steps.
+4. **Workflow, the pack.** Exceptions first. Point at the badges: "Claude
+   read" against the §4.4(e) findings, "code" against §7.4(c). Click a
+   citation on a §4.4(e) finding: the letter opens in a modal and the
+   sentence the finding quotes is in it. Scroll to the clause table, the
+   documents table and the model-suggested section, which is dashed and
+   marked "not verified".
+5. **Workflow, the check.** The pre-submit panel is prefilled from the
+   write-up on file. Run check. The analyst recorded an escalation citing
+   §7.4(d), which the pack could not assess, and a §7.2(a) breach the
+   arithmetic does not show; the flags say so and four of six rationale
+   statements come back unsupported. Change the outcome to `unchanged`,
+   clauses to `4.3`, run again: a different set of flags, because the pack
+   is the same and only the recorded decision changed.
+6. **Workflow, a second review.** `VGB-PR-2026-3398`, a review QA overturned:
+   an undispositioned screening hit (§8.3) and a profile mismatch, and the
+   check raises CONFIRMED_OVER_UNRESOLVED_HIT against the recorded
+   confirmation. That is the overturn reason, surfaced before submission.
+7. **Evals.** Run routing (fast) and watch its lines in the log pane; the
+   table and chart update when it finishes. The guardrail and pack history
+   from Track A is already there; hover the chart points.
+
+### What to say in one sentence at the end
+
+The code counts and the model reads; every statement names its clause and
+its source; nothing here rates, decides or closes; the check catches the
+file before the checker does; and the bank's own QA log is the test.
+
+## 7. Repository layout
 
 ```
 kyc-workflow/
@@ -348,7 +430,7 @@ kyc-workflow/
 └── main.py               CLI: pack, chat, ping
 ```
 
-## 7. Known gaps and next steps
+## 8. Known gaps and next steps
 
 - **Faithfulness scoring** of negative findings, as described in 3.7.
 - **The full pack eval** over all 75 QA reviews has not been run; 4 have.
