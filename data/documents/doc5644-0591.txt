@@ -1,8 +1,0 @@
-PAYSLIP EXTRACT
---- Page 1 of 1 ---
-Employer   : Veridian East Pharmacy Group Pte. Ltd.
-Employee   : Siti Zubaidah binte Nasir
-Designation: Retail pharmacist
-Pay period : [illegible]
-Net pay credited by GIR0 : [illegible]
-Remarks    : [illegible]

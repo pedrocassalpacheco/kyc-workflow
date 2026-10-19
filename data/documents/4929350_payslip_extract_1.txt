@@ -1,9 +1,0 @@
-PAYSLIP EXTRACT
---- Page 1 of 1 ---
-Employer     : [illegible]
-Employee     : SNG ZHI HERNG
-Pay period   : [illegible]
-Basic salary ............ [illegible]
-CPF (employee) .......... [illegible]
-Net pay ................. [illegible]
-Legacy payroll record retained on custorner file.

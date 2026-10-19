@@ -1,9 +1,0 @@
-REMITTANCE C0VER NOTE
---- Page 1 of 1 ---
-Beneficiary : Riverstone Store Group Pte. Ltd.
-Remitter    : Orchid Vale Store Group Pte. Ltd.
-Method      : FAST transfer
-Amount      : [illegible]
-Value date  : [illegible]
-Details of payrnent : Settlement of trade balances as advised between the
-parties. Supporting invoice reference [illegible].

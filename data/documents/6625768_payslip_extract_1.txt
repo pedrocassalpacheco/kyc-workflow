@@ -1,8 +1,0 @@
-PAYSLIP EXTRACT
---- Page 1 of 1 ---
-Employer   : Sunway Peak Restaurant Group Pte. Ltd.
-Employee   : Toh Kok Juan
-Designation: Chef de partie
-Pay period : [illegible]
-Net pay credited by GIR0 : [illegible]
-Remarks    : [illegible]

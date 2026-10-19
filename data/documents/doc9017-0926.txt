@@ -1,8 +1,0 @@
-PAYSLIP EXTRACT
---- Page 1 of 1 ---
-Employer   : Coralbay Design Studio Pte. Ltd.
-Employee   : Wong Yen Hui
-Designation: Interior designer
-Pay period : [illegible]
-Net pay credited by GIR0 : [illegible]
-Remarks    : [illegible]

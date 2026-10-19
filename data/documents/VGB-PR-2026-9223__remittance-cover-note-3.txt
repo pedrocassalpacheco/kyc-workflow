@@ -1,9 +1,0 @@
-REMITTANCE C0VER NOTE
---- Page 1 of 1 ---
-Beneficiary : Highpoint Toy Trading Pte. Ltd.
-Remitter    : Coralbay Toy Trading Pte. Ltd.
-Method      : Telegraphic transfer (wire)
-Amount      : [illegible]
-Value date  : [illegible]
-Details of payrnent : Settlement of trade balances as advised between the
-parties. Supporting invoice reference [illegible].
