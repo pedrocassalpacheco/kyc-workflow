@@ -36,13 +36,20 @@ pack. It runs on a laptop with one API key.
 
 ### Steps
 
+1. Clone and install.
+2. Put your API key in `.env`.
+3. Recreate the bank's data pack in `data/` at the root of the project (see
+   the next subsection). The repository does not carry it.
+4. Run the offline tests, then start the services.
+
 ```bash
 git clone https://github.com/pedrocassalpacheco/kyc-workflow.git && cd kyc-workflow
 uv sync                                   # installs everything from uv.lock
 cp .env.example .env                      # then put your ANTHROPIC_API_KEY in .env
-unzip /path/to/vgb_kyc_pack.zip && mv vgb_kyc_pack/vgb_data_export_final_v2/* data/   # the bank's data pack (not in the repo)
-make test                                 # 151 offline tests, no key needed (one live test is opt-in)
-make up                                   # bank API :8000, MCP server :8001, UI :8002
+unzip /path/to/vgb_kyc_pack.zip           # the bank's data pack, supplied separately
+mkdir -p data && cp -R vgb_kyc_pack/vgb_data_export_final_v2/* data/   # CSVs directly inside data/
+make test                                 # 151 offline tests, no key and no data pack needed
+make up                                   # bank API :8000, MCP server :8001, UI :8002; needs data/
 open http://127.0.0.1:8002                # the UI
 make pack REVIEW=VGB-PR-2026-1173         # an evidence pack in the terminal
 make chat                                 # chat over the records in the terminal
@@ -52,12 +59,33 @@ make down
 `make` with no target lists every target. `make status` tells you whether
 the three services answer. `make restart` after changing server code.
 
-The bank's data pack is not committed. Unzip it so that its CSV files sit
-directly in `data/` (13 CSV files, 1,032 document texts, the review
-worklist). The services and the workflow need it; the offline tests do not,
-they use a small fixture export. POL-042 v4.2 is in the repo at
-`docs/risk-rating-policy-v4.2.md`. The data is synthetic; nothing in it is
-real customer data.
+### The data pack is not in the repository
+
+The submission rules do not allow the data files to be included, so the
+bank's data pack (`vgb_kyc_pack.zip`, the export from Data Ops) must be
+recreated in the `data/` folder at the root of the project before anything
+but the offline tests will run. Unzip the pack and copy the contents of its
+`vgb_data_export_final_v2/` folder so that the CSV files sit directly in
+`data/`:
+
+```
+kyc-workflow/
+└── data/
+    ├── customers.csv, accounts.csv, beneficial_owners.csv, officers.csv
+    ├── case_history.csv, case_notes.csv, screening_hits.csv, doc_index.csv, qa_sample.csv
+    ├── transactions_2024H2.csv ... transactions_2026H1.csv
+    ├── reviews_due.xlsx, codes_master.xlsx, branch_nps_survey_2019.xlsx
+    ├── risk-rating-policy-v4.2.md, README.txt
+    └── documents/            1,032 .txt files
+```
+
+`make status` reports "13 datasets" when the layout is right; the bank API
+prints a setup hint if it finds nothing. `data/` is gitignored, so nothing
+placed there can be committed by accident. The services, the workflow, the
+chat and the evals need the pack; the offline tests do not, they run on a
+small fixture export in `tests/fixtures/`. POL-042 v4.2 is also carried in
+the repo at `docs/risk-rating-policy-v4.2.md` so the policy module works
+without the pack. The data is synthetic; nothing in it is real customer data.
 
 ## 2. What the bank asked for and what was promised
 
@@ -266,6 +294,10 @@ traceability guarantee.
 | MCP server | 8001 (`/mcp`) | `vgb-records`, 15 tools, delegating to the bank API | `.run/mcp.log` |
 | UI | 8002 | the page and its API | `.run/ui.log` |
 
+All three need the bank's data pack recreated in `data/` at the project
+root (section 1); the bank API serves it, the MCP server reads through the
+bank API, and the UI reads through the MCP server.
+
 `make up` starts the three in order and checks each; `make status` re-checks;
 `make down` stops them; `make restart` after changing server code. Each can
 also run in the foreground: `make bank-api`, `make mcp` (stdio, for an MCP
@@ -325,8 +357,9 @@ Two tracks over the same system. The terminal track shows the parts; the UI
 track shows what an analyst would see. Each step says what to run, what
 appears, and what it proves against the plan. Timings are with the default
 models: Sonnet 4.6 for the workflow and chat, Haiku 5.5 for guardrail
-classification, evals and judging. Have `.env` filled in and run `make up`
-before an audience; `make restart` if anything looks stale.
+classification, evals and judging. Before an audience: the data pack
+recreated in `data/` (section 1), `.env` filled in, and `make up` run;
+`make restart` if anything looks stale.
 
 ### Track A: terminal (about 15 minutes)
 
