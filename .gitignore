@@ -23,3 +23,12 @@ output/
 evals/routing/results/
 evals/guardrails/results/
 evals/pack/results/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# The original data pack archive: its contents are unzipped in data/
+data/*.zip
