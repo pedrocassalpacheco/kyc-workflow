@@ -1,0 +1,581 @@
+Who you are talking to
+
+Nora Senior KYC analyst, FCC ops floor (17 yrs). Department: Operations floor. Reports to Grace Lim. Introduced to you by Grace Lim.
+Nora
+
+Hey. Grab the chair, give me one sec, just finishing this line.
+
+You
+
+"Grace and Raj both pointed me to you. What I've heard so far: the backlog is the pressure, but what MAS actually flagged was rationales that didn't name the clause relied on. I'd rather see how a review really goes than guess. Can you walk me through one you closed recently, on screen?"
+
+Nora
+
+Yeah, fair enough. Easier to show you than talk at you anyway, one sec.
+
+From the system: Nora shares a screen with you: Castellan, the case tool, with one of her own cases open.
+
+Nora
+
+Right. I'll work her start to finish and talk as I go; it comes up on your side a screen at a time, so read at your own speed and go back over any of it. Keep your questions till she's in, there's one more under her, then ask me the lot.
+
+Nora
+
+So. This is Castellan (the bank's case tool), the tool every review is done in. Each customer gets looked at again every one to three years, depending on risk: do we still know who she is, does the money through her account still make sense. That's a periodic review; hers are these rows, 2020, 2022, 2024. The backlog Grace worries about is a queue of these.
+
+Nora
+
+This one is Madam Tan: two food stalls, Toa Payoh and Bishan, with us over twenty years, rated medium only because stalls are a cash business. About an hour's work on a normal day, most of it reading and typing rather than deciding anything; you'll see where it goes. The tabs along the top are the job, left to right; the last one just keeps the log.
+
+Nora
+
+First tab is who the bank thinks she is. This line is the one that matters today: it still says sole proprietor, a one-woman business. Since November she's been a proper company with her son in it. Nobody updated this when it happened, so a good part of today is catching the file up with her life.
+
+On the shared screen: Nora opens Documents.
+
+Nora
+
+Documents. Before I read anything I check that I have the paper I need, and how old it is. Two weeks ago I asked the branch for one thing: the lawyer's statement from when she sold her flat, because a large sum had landed in her account. They uploaded it last week.
+
+On the shared screen: Nora opens Completion account · Loh & Selvam LLP · 24 July · PDF p.1 of 2.
+
+Nora
+
+Here it is. Date first, always: twenty-fourth of July. The rule gives me ninety days between the document's date and the day I sign, and today is day fifty-three, so it counts. Past ninety I would have to ask again, and she would sit in the queue another fortnight.
+
+On the shared screen:
+
+Nora closes Completion account · Loh & Selvam LLP · 24 July · PDF p.1 of 2
+opens Screening
+Nora
+
+Screening. Overnight the system ran her name against the watchlists again and, same as every cycle, found three people who share her name and are not her. This button would accept last year's answers for all three in one click. QA, the team that re-checks our closed files, sends files back for exactly that.
+
+On the shared screen:
+
+Nora opens Alert W-240904-118 · TAN MEI LING · adverse media
+clicks False positive on TAN MEI LING · F · DOB 1964 · MY
+types into Reason this review (required) (15 words)
+Nora
+
+So I open each one and write today's reason in today's words. This one is a moneylending case from 2017: born 1964, lives in Johor Bahru. Our Madam Tan was born in 1971 and has been in Toa Payoh since before this system existed. Not her, and now the file says why.
+
+On the shared screen:
+
+Nora closes Alert W-240904-118 · TAN MEI LING · adverse media
+clicks False positive on TAN MEI LING · F · DOB 1979 · MY
+types into Reason this review (required) (14 words)
+clicks False positive on TAN M L TRADING · entity · Penang MY
+types into Reason this review (required) (12 words)
+Nora
+
+Second is flagged as a municipal councillor's wife in Malaysia: wrong birth year, and our Madam Tan's husband is Mr Lim, who is on this file. Third is a Penang trading company with an old court debt; nothing of hers has ever touched Penang. Her son, new on the file, came back clean. That's screening: three names that aren't her, answered in today's words.
+
+On the shared screen: Nora opens Source of funds.
+
+Nora
+
+Source of funds: does the money through her account match what we know about her. The system raised an alert because this year's credits came to more than five times her declared income. Sounds dramatic; it rarely is, but I have to show why, credit by credit. These six are salary from her own new company, small and regular.
+
+Nora
+
+And this one: three hundred and eighty-eight thousand from a law firm's client account. The flat sale. The lawyer's statement I showed you a minute ago matches it to the dollar, and it's inside its ninety days. That is the alert explained, on paper, which is the only way it counts here.
+
+On the shared screen: Nora opens KYC Assist · draft narrative · generated when the case opened.
+
+Nora
+
+This panel is the vendor's AI helper. It wrote me a paragraph the moment the case opened: 'stable business activity, no anomalies noted'. Next to a three hundred and eighty-eight thousand dollar credit. Paste that in and the checker learns nothing, and QA sends it back. Most of us collapsed it after a month. Sam still uses it. Hold that thought.
+
+On the shared screen:
+
+Nora closes KYC Assist · draft narrative · generated when the case opened
+types into Analyst narrative: source of funds, source of wealth (72 words)
+Nora
+
+So I write my own, and this is where the time goes. Each large credit: how much, when, which document proves it, and how old that document is today. Then where her money comes from at all: twenty years of food stalls and a flat. Written so that Janet, who checks it tomorrow, or QA next month, can follow it without ringing me. This box is most of the hour.
+
+On the shared screen: Nora opens Ownership.
+
+Nora
+
+Ownership. She's a company now, so two things. The policy wants the company's official registry record on the file, and it wants me to notice that control of her business changed: she holds seventy per cent, her son thirty. That change is the real news in this review, and the first tab didn't know it.
+
+On the shared screen: Nora clicks Buy ACRA business profile (SGD 5.50).
+
+Nora
+
+There is a registry record on file from November, which is arguably recent enough. I spend the five dollars fifty and pull today's anyway, because 'arguably' is the word that comes back from QA. Thirty seconds, and nothing in it I didn't expect.
+
+On the shared screen:
+
+Nora closes ACRA business profile · MEI HENG FOOD PTE. LTD. · retrieved today
+opens Rationale
+types into Review rationale (61 words)
+types into Recommendation (13 words)
+Nora
+
+Rationale: the summary the checker reads first, and the regulator too if it ever comes to that. Four things, in order: what changed since last time, what I looked at, which policy clauses I applied, and what I recommend. Keep her at medium; update her occupation and income to match the company.
+
+On the shared screen: Nora types into POL-042 clauses relied on (optional) (7 words).
+
+Nora
+
+See this box: 'clauses relied on, optional'. The regulator's letter this year was about closed files that never named the clause the decision rested on. So it is not optional any more, whatever the screen says, and I type them in every time. Sam's screen says optional too.
+
+On the shared screen:
+
+Nora opens Submit
+clicks Confirm A1 to A6
+closes Analyst checklist v3.2 · Financial Crime QA · confirm before submit
+Nora
+
+Last tab. A six-point checklist I confirm on every file, seventeen years in or not. Then Submit sends her to Janet's queue: Janet is the second pair of eyes on every low and medium, and QA pulls about one in ten afterwards and does them again from scratch, without asking me anything.
+
+On the shared screen: Nora clicks Submit for checking.
+
+Nora
+
+Time on this one, since people always ask: an hour and nineteen minutes of actual work, spread over thirteen days on the calendar, seven of them waiting for that one document from the branch. That's a clean medium with a customer I know. In she goes.
+
+On the shared screen: Nora opens PR-88214 · returned by QA 16/09 08:12 · analyst SAM · checker W. TEO.
+
+Nora
+
+And that's my queue underneath: eleven due this week, and one that came back from QA at eight this morning. Not mine, Sam's; it shows here because I check his work. He closed it in fourteen minutes. Evidence for the money: the customer's own payslips, which is the customer vouching for themselves. Rationale: the panel's paragraph, pasted. No clause.
+
+On the shared screen: Nora closes PR-88214 · returned by QA 16/09 08:12 · analyst SAM · checker W. TEO.
+
+Nora
+
+He isn't careless. He's five months in, the queue wants forty files a week from him, and the screen offers him a paragraph that sounds finished. Fourteen minutes, his; an hour and nineteen, mine. I'm sitting with him after this to redo it. So: that's hers done properly, and that's his. What do you want to ask me?
+
+You
+
+Which screen or source did you go to next, and how did you know that was the one to trust?
+
+Nora
+
+Documents, for the sale proceeds. The credit extract just shows a number landed in her account, it doesn't say where from. The completion account is the solicitor's own paper, dated, originals sighted by the branch. That's what 5.4 means by independent, it isn't coming from her.
+
+You
+
+On that file, how long were you actually working on it, and how long was it just waiting?
+
+Nora
+
+Eighteen minutes on the fourth when I opened her and spotted the credit, sixty one today to finish it. Hour nineteen hands on keys. The case was open thirteen days on the calendar, and seven of those were just sitting there waiting on the branch to send me that completion account.
+
+You
+
+So the spotting of issues is really visual? Doesn't Castelan have rules to point out potential problems?
+
+Nora
+
+It does, that's what opened the case at all, the 4.7(b) alert fired because the credits came to five times declared. That's the rule doing its job, it tells me something is off. It doesn't tell me what it is or whether it's fine, that part's mine: reading the completion account, matching the number, deciding it's her flat and not something else.
+
+You
+
+Show me the rationale you wrote on that file. How did you decide which clause to cite?
+
+On the shared screen: Nora opens Rationale.
+
+Nora
+
+Here it is. Four clauses: 5.4 because the big credit needed source-of-funds evidence, 6.5 and 6.6 because the ownership changed, 8.4 because there were screening hits to dispose of. I don't pick from a list, I work the file and whatever I actually did, I name.
+
+You
+
+So castelan raises alerts, but you make a human decision if the risk needs to increase or descrease?
+
+Nora
+
+Yes. The score on the customer tab, fifty two, that's the vendor's number and it suggested medium and I kept it. But on her I could've recommended raising her, say if that flat money had gone somewhere odd, or dropped her to low if the business had wound down clean. The tool flags, I rate.
+
+You
+
+Is there a formula for the risk calculation? What types of alerts raise or lower the risk, is every risk worth the same, etc
+
+Nora
+
+That I can't give you, the scoring model itself isn't mine, that's the vendor's and whatever Grace's team configured with Raj on weightings. I just see the output, fifty two, medium, and what moved it. I'd ask Grace or Raj for the formula, I've never needed it to do the file.
+
+You
+
+I could be wrong, but I think both told me they don't know the formula either
+
+Nora
+
+Wouldn't surprise me. It's the vendor's scoring, lives on their side, Grace's team just gets the number back same as I do. Ben's lot might know more, they run the system. But nobody on this floor has ever needed the formula to work a file, only the output.
+
+You
+
+Can you show me one that QA overturned? What did the slip say?
+
+Nora
+
+That's the one I just showed you, Sam's, PR-88214. Payslips for source of funds, no clause named, and the panel's paragraph pasted in whole. Want me to pull it back up?
+
+You
+
+If you have time, yes please
+
+On the shared screen:
+
+Nora opens Submit
+opens PR-88214 · returned by QA 16/09 08:12 · analyst SAM · checker W. TEO
+Nora
+
+Sure, here it is.
+
+You
+
+Raj said ownership cases are the hard ones. Can you show me one where the owner on paper didn't match the documents?
+
+On the shared screen: Nora closes PR-88214 · returned by QA 16/09 08:12 · analyst SAM · checker W. TEO.
+
+Nora
+
+Not one like that to hand, that's a different flavour of problem, it's about evidence missing or dates slipping, not the registry contradicting the file. Madam Tan's ownership was clean today, no change on the extract. I don't have a mismatch case open right now, that's not an everyday thing.
+
+You
+
+Raj said nobody really uses the KYC Assist score. Why not?
+
+Nora
+
+Because it writes the same paragraph for everyone, it doesn't know her flat from anyone else's. First month it went out, files came back, so I turned it off and typed my own, most of the floor followed. Sam still uses it to save typing, and you saw where that got him this morning.
+
+You
+
+The policy rates customers 1 to 4, but everyone says low, medium and high. How do the four map to the three?
+
+Nora
+
+One and two both get called low, every 36 months. Three is medium, every 24, that's her. Four is high, every 12, and goes to Raj's team as well as a checker. The number on screen, fifty two, that's just the vendor's score behind the band.
+
+You
+
+If something had prepared this file for you before you opened it, what would you have to see before you'd trust it? What would make you ignore it?
+
+Nora
+
+I'd want to see the document it read, not just a line it wrote, so I can check the date and the number myself. I'd ignore it the moment it tells me something the file doesn't actually show, like that panel calling her file clean with a 388 thousand dollar credit sitting right there unexplained.
+
+You
+
+Where would these documents come from?
+
+Nora
+
+The document store, that's where I pulled the completion account from, the branch uploads it there. Everything on her file came from there or the registry pull I ran myself. If a tool's reading documents, it'd have to be those, same ones I use, not some separate feed nobody's checked.
+
+You
+
+Can you show me the source documents from the document store?
+
+On the shared screen: Nora opens Documents.
+
+Nora
+
+Sure, let's go to Documents, that's the tab for it.
+
+You
+
+Can I have these documents as examples?
+
+Nora
+
+No, sorry, I can't send these out, that's a real customer's name and bank statements. If you want something to build against, ask Grace about getting sample or test files set up properly, that's not something I can just hand over from here.
+
+You
+
+Are these document computer generated or does a human writes them?
+
+Nora
+
+Mix. The completion account's the solicitor's own letter, a person at the law firm wrote that. The credits extract is a system pull, nobody typed that, it's straight off core banking. The RFI's a template that fills itself from the case fields, I just added one line.
+
+You
+
+For this AI solution, would you expect the current case tool be used, and we just gather the outputs of the tool to generate the artifacts, or would we replace the case tool?
+
+Nora
+
+That's not mine to answer, that's Grace's side and Ben's, whether it sits on top of Castellan or replaces bits of it. From where I sit I'd just want whatever it is reading the same documents I read and not touching what I sign. Ask Grace, that's her call.
+
+You
+
+Is there anything else you can provide that will help me design this solution? Like in your perfect world, what would AI bring to job to make it easier faster and more accurat and accountable?
+
+Nora
+
+I don't really do perfect worlds, sorry. If it pulled the dates and numbers up for me so I'm not hunting across eleven documents, that'd help, the ACRA pull, the credits total, that kind of fetching. The judging part, whether it's plausible, whether it's really her, that stays mine.
+
+You
+
+What is ACRA?
+
+Nora
+
+Singapore's company registry, Accounting and Corporate Regulatory Authority. Any company gets a profile there, directors, shareholders, when it was set up. That's what I pull for the company on her file, Mei Heng Food, to check who owns it hasn't changed since onboarding.
+
+You
+
+Anything else we should discuss? I may need to ask you questions later
+
+Nora
+
+Nothing from me, I think you've seen the shape of it. Come find me if you want to sit again, I'm here most days, and Sam's three desks along if you want the five-month view of the job. That's me now though, queue's calling.
+
+From Nora
+
+Case file VGB-C-088410 (dormant holding company)
+Periodic review · LOW risk · due 14 days ago · assembled from customer master, ACRA (company registry) extract and transaction summary
+
+Customer	Pelican Ridge Holdings Pte Ltd · VGB-C-088410
+Segment	SME, investment holding. Risk rating LOW (2023 review).
+Customer master	Directors: Tan K. H.; Lim S. · Shareholders: Tan K. H. 70%, Lim S. 30% · Beneficial owners (UBO) on record: Tan K. H., Lim S.
+ACRA extract (8 months ago)	Directors: Tan K. H.; R. Varga · Shareholders: Tan K. H. 70%, Corvin Capital Ltd (BVI) 30%
+Transactions, 12 months	3 credits, SGD 41,200 in total; 1 debit of SGD 40,000 to Corvin Capital Ltd
+Screening	No hits on the entity. R. Varga not screened (not in customer master).
+Prior cases	None.
+Ownership last refreshed	2023 review (6.5). Not refreshed this cycle.
+Last analyst	Closed as "unchanged, dormant, low activity" (analyst of 5 months' tenure). QA overturned it.
+
+Who you talked to
+
+Nora Senior KYC analyst, FCC ops floor (17 yrs). Department: Operations floor. Reports to Grace Lim. Introduced to you by Grace Lim.
+Documents Nora has shared with you
+
+Case file VGB-C-088410 (dormant holding company)
+Your note on the previous conversation
+
+I was chatting with the wrong person
+
+Nora
+
+Hey, you're back. Pull the chair up, I've got the importer one open next if you want to see a messier one.
+
+You
+
+Could we use your QA overturn spreadsheet, redacted, to build the evaluation set?
+
+Nora
+
+My what? I don't keep anything like that, overturns just sit in Castellan as a second event on the case. If you want numbers on that, QA's the one, Dan runs it.
+
+You
+
+What are the most common reasons in it, and have they changed since the MAS letter?
+
+Nora
+
+Like I said, I don't have a log. You'd want Dan for the actual pattern, he samples ten percent and re-performs them. It's mostly source of funds and ownership changes from what I've seen, but I haven't counted them.
+
+You
+
+Would you accept a pre-submit check as a gate for your team? Sam said that's your and Grace's call.
+
+Nora
+
+Sounds about right, that's Grace's call for the floor though. For me, if it just checks the file's got the right documents before I open it, sure. If it tries to tell me the outcome, I'm not using it.
+
+You
+
+Is there written guidance on 5.4, 6.5 and 6.6, or does it pass by word of mouth?
+
+Nora
+
+There's the policy wording, and there's the training deck that gives examples. Mostly you learn it watching someone senior do a few, and then you develop a feel for it. The deck helps but it doesn't cover every case.
+
+You
+
+if an ownership mismatch case comes up (registry contradicts the file), can you show it to us?
+
+Nora
+
+Yeah, actually I've got one right here, a holding company QA kicked back last month.
+
+From the system: Nora shares a screen with you: Castellan, the case tool, with one of her own cases open.
+
+Nora
+
+Madam Tan again, then. Same as before: it comes up a screen at a time, read it as you like, and ask me once she's in.
+
+Document: Case file VGB-C-088410 (dormant holding company)
+
+Nora
+
+So. This is Castellan, the tool every review is done in. Each customer gets looked at again every one to three years, depending on risk: do we still know who she is, does the money through her account still make sense. That's a periodic review; hers are these rows, 2020, 2022, 2024. The backlog Grace worries about is a queue of these.
+
+Nora
+
+This one is Madam Tan: two food stalls, Toa Payoh and Bishan, with us over twenty years, rated medium only because stalls are a cash business. About an hour's work on a normal day, most of it reading and typing rather than deciding anything; you'll see where it goes. The tabs along the top are the job, left to right; the last one just keeps the log.
+
+Nora
+
+First tab is who the bank thinks she is. This line is the one that matters today: it still says sole proprietor, a one-woman business. Since November she's been a proper company with her son in it. Nobody updated this when it happened, so a good part of today is catching the file up with her life.
+
+On the shared screen: Nora opens Documents.
+
+Nora
+
+Documents. Before I read anything I check that I have the paper I need, and how old it is. Two weeks ago I asked the branch for one thing: the lawyer's statement from when she sold her flat, because a large sum had landed in her account. They uploaded it last week.
+
+On the shared screen: Nora opens Completion account · Loh & Selvam LLP · 24 July · PDF p.1 of 2.
+
+Nora
+
+Here it is. Date first, always: twenty-fourth of July. The rule gives me ninety days between the document's date and the day I sign, and today is day fifty-three, so it counts. Past ninety I would have to ask again, and she would sit in the queue another fortnight.
+
+On the shared screen:
+
+Nora closes Completion account · Loh & Selvam LLP · 24 July · PDF p.1 of 2
+opens Screening
+Nora
+
+Screening. Overnight the system ran her name against the watchlists again and, same as every cycle, found three people who share her name and are not her. This button would accept last year's answers for all three in one click. QA, the team that re-checks our closed files, sends files back for exactly that.
+
+On the shared screen:
+
+Nora opens Alert W-240904-118 · TAN MEI LING · adverse media
+clicks False positive on TAN MEI LING · F · DOB 1964 · MY
+types into Reason this review (required) (15 words)
+Nora
+
+So I open each one and write today's reason in today's words. This one is a moneylending case from 2017: born 1964, lives in Johor Bahru. Our Madam Tan was born in 1971 and has been in Toa Payoh since before this system existed. Not her, and now the file says why.
+
+On the shared screen:
+
+Nora closes Alert W-240904-118 · TAN MEI LING · adverse media
+clicks False positive on TAN MEI LING · F · DOB 1979 · MY
+types into Reason this review (required) (14 words)
+clicks False positive on TAN M L TRADING · entity · Penang MY
+types into Reason this review (required) (12 words)
+Nora
+
+Second is flagged as a municipal councillor's wife in Malaysia: wrong birth year, and our Madam Tan's husband is Mr Lim, who is on this file. Third is a Penang trading company with an old court debt; nothing of hers has ever touched Penang. Her son, new on the file, came back clean. That's screening: three names that aren't her, answered in today's words.
+
+On the shared screen: Nora opens Source of funds.
+
+Nora
+
+Source of funds: does the money through her account match what we know about her. The system raised an alert because this year's credits came to more than five times her declared income. Sounds dramatic; it rarely is, but I have to show why, credit by credit. These six are salary from her own new company, small and regular.
+
+Nora
+
+And this one: three hundred and eighty-eight thousand from a law firm's client account. The flat sale. The lawyer's statement I showed you a minute ago matches it to the dollar, and it's inside its ninety days. That is the alert explained, on paper, which is the only way it counts here.
+
+On the shared screen: Nora opens KYC Assist · draft narrative · generated when the case opened.
+
+Nora
+
+This panel is the vendor's AI helper. It wrote me a paragraph the moment the case opened: 'stable business activity, no anomalies noted'. Next to a three hundred and eighty-eight thousand dollar credit. Paste that in and the checker learns nothing, and QA sends it back. Most of us collapsed it after a month. Sam still uses it. Hold that thought.
+
+On the shared screen:
+
+Nora closes KYC Assist · draft narrative · generated when the case opened
+types into Analyst narrative: source of funds, source of wealth (72 words)
+Nora
+
+So I write my own, and this is where the time goes. Each large credit: how much, when, which document proves it, and how old that document is today. Then where her money comes from at all: twenty years of food stalls and a flat. Written so that Janet, who checks it tomorrow, or QA next month, can follow it without ringing me. This box is most of the hour.
+
+On the shared screen: Nora opens Ownership.
+
+Nora
+
+Ownership. She's a company now, so two things. The policy wants the company's official registry record on the file, and it wants me to notice that control of her business changed: she holds seventy per cent, her son thirty. That change is the real news in this review, and the first tab didn't know it.
+
+On the shared screen: Nora clicks Buy ACRA business profile (SGD 5.50).
+
+Nora
+
+There is a registry record on file from November, which is arguably recent enough. I spend the five dollars fifty and pull today's anyway, because 'arguably' is the word that comes back from QA. Thirty seconds, and nothing in it I didn't expect.
+
+On the shared screen:
+
+Nora closes ACRA business profile · MEI HENG FOOD PTE. LTD. · retrieved today
+opens Rationale
+types into Review rationale (61 words)
+types into Recommendation (13 words)
+Nora
+
+Rationale: the summary the checker reads first, and the regulator too if it ever comes to that. Four things, in order: what changed since last time, what I looked at, which policy clauses I applied, and what I recommend. Keep her at medium; update her occupation and income to match the company.
+
+On the shared screen: Nora types into POL-042 clauses relied on (optional) (7 words).
+
+Nora
+
+See this box: 'clauses relied on, optional'. The regulator's letter this year was about closed files that never named the clause the decision rested on. So it is not optional any more, whatever the screen says, and I type them in every time. Sam's screen says optional too.
+
+On the shared screen:
+
+Nora opens Submit
+clicks Confirm A1 to A6
+closes Analyst checklist v3.2 · Financial Crime QA · confirm before submit
+Nora
+
+Last tab. A six-point checklist I confirm on every file, seventeen years in or not. Then Submit sends her to Janet's queue: Janet is the second pair of eyes on every low and medium, and QA pulls about one in ten afterwards and does them again from scratch, without asking me anything.
+
+On the shared screen: Nora clicks Submit for checking.
+
+Nora
+
+Time on this one, since people always ask: an hour and nineteen minutes of actual work, spread over thirteen days on the calendar, seven of them waiting for that one document from the branch. That's a clean medium with a customer I know. In she goes.
+
+On the shared screen: Nora opens PR-88214 · returned by QA 16/09 08:12 · analyst SAM · checker W. TEO.
+
+Nora
+
+And that's my queue underneath: eleven due this week, and one that came back from QA at eight this morning. Not mine, Sam's; it shows here because I check his work. He closed it in fourteen minutes. Evidence for the money: the customer's own payslips, which is the customer vouching for themselves. Rationale: the panel's paragraph, pasted. No clause.
+
+On the shared screen: Nora closes PR-88214 · returned by QA 16/09 08:12 · analyst SAM · checker W. TEO.
+
+Nora
+
+He isn't careless. He's five months in, the queue wants forty files a week from him, and the screen offers him a paragraph that sounds finished. Fourteen minutes, his; an hour and nineteen, mine. I'm sitting with him after this to redo it. So: that's hers done properly, and that's his. What do you want to ask me?
+
+You
+
+Would you review the agent's output on a few test cases before we show it to Grace?
+
+Nora
+
+Depends what you mean by review. If it's me reading an AI's draft rationale and marking it right or wrong, that's the panel again with extra steps, and I'd still need the real file open to check it. What exactly would I be looking at, its clauses, its screening calls, what?
+
+You
+
+If we took the previous case you flagged as an example and provided the potential output of the agent, would that proof the concept for you?
+
+Nora
+
+Not really, no. The hard part wasn't the four lines I typed, it was reading the completion account, deciding fifty three days was fine, buying the ACRA extract, clearing three screening hits properly. If your agent just writes a paragraph that looks like mine after I've already done all that, it's proved nothing I didn't know.
+
+You
+
+can you elaborate a bit more on it - I think this is the crux of what the agent should provide for you
+
+Nora
+
+Fine. What took the time on Madam Tan wasn't typing, it was finding things: the completion account buried in eleven documents, checking fifty three days against ninety, noticing the son's thirty percent meant a change of control. If something pulled those out and put them in front of me with the dates, I'd take that gladly. Writing the sentence after is the easy bit, and it's mine to write.
+
+You
+
+do you have examples - maybe you can show this on the case tool again
+
+On the shared screen: Nora opens Documents.
+
+Nora
+
+Yeah, let me show you rather than talk in the abstract. Documents tab, eleven items on her file. Somewhere in there is the one that matters, the solicitor's completion account. Finding it and checking its date against the ninety days is the actual work. Watch.
+
+You
+
+I am watching but I am not seeing anything
+
+On the shared screen: Nora opens Completion account · Loh & Selvam LLP · 24 July · PDF p.1 of 2.
+
+Nora
+
+Sorry, fair. This row here, the completion account, that's the one I had to find and check. Today's the sixteenth, document's dated the twenty fourth of July, that's fifty three days. Clause gives me ninety. That's the whole check, and it's two numbers in my head, not something written down anywhere.

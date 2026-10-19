@@ -1,0 +1,22 @@
+ACCOUNTING AND CORPORATE REGULATORY AUTHORITY (ACRA)
+BUSINESS PROFILE (COMPANY) - EXTRACT
+Date of Extract : 2026-07-04
+
+--- Page 1 of 2 ---
+
+Entity Narne         : LIONCREST COMPONENTS PTE LTD
+UEN                  : 201408932E
+Entity Type          : PRIVATE COMPANY LIMITED BY SHARES
+Status               : Live
+Principa1 Activity   : WHOLESALE OF ELECTRONIC COMPONENTS (SSIC 46522)
+Registered Office    : [illegible]
+
+--- Page 2 of 2 ---
+
+SHAREHOLDERS
+Narne                                       Ho1ding
+CHEN WEI LIANG                              40%
+VERLANTIS CAPITAL HOLDINGS PTE LTD          34%
+RAJAN S/O KUMARAVEL                         26%
+
+[rernaining particulars illegible]

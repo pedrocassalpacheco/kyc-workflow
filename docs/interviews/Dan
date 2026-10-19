@@ -1,0 +1,67 @@
+Dan Koh
+
+Hey, you're back. Did Grace or Raj sort out the data basis for pulling that sample set, or are you still stuck on that one?
+
+You
+
+What are the most common reasons files get overturned? Nora says overturns sit in Castellan as a second event on the case. Do you track reasons per category and per analyst, and could we pull the overturned cases through the case-history MCP server as an evaluation set?
+
+Dan Koh
+
+We don't break it down by category or analyst. It's pass or fail against the checklist, item by item. Common failures are things like missing evidence date, ownership check not done, a screening hit closed without a reason. I can't pull that out as a set though, that's Grace or Raj's call on the data side.
+
+You
+
+What does a rationale that passes QA look like? Can you show one that passed and one that failed?
+
+Dan Koh
+
+A pass names the clause, has the evidence date, and the screening hit is dispositioned with a reason, so a checker can see it without digging. A fail is usually a conclusion with no clause cited, or the date's missing. I don't have case files to hand you here though, that's not mine to share, Grace or Raj's side holds those.
+
+You
+
+If every file came with a check report (clauses named, evidence valid and independent, alerts addressed, ownership checked), would that change how you review files, and would you accept it as a condition of checking?
+
+Dan Koh
+
+That's closer to something useful, yeah. If I could re-perform off that report instead of digging through the case myself, that saves my checkers time. What I'd want signed is the usual control though, sampled re-performance, overturn rate at or below what we see now, and a named person taking ownership of the file.
+
+You
+
+Does QA check document age against the 90-day rule and the freshness of registry extracts, or only the rationale?
+
+Dan Koh
+
+We check the evidence date is there and makes sense for the review, that's one of my hard items under 5.4. Ninety days specifically, I don't know that number off the top of my head, which part's that under?
+
+You
+
+Sam said "QA never asks" for missing commission statements, and closed a high-risk cross-border file with the RFI still open. Is that acceptable? What counts as sufficient evidence for cross-border income?
+
+Dan Koh
+
+First I'm hearing that one, and a high shouldn't close with an RFI still open, that also needs to go through Raj's side before the rating's confirmed. On cross-border income generally, we want something independent, bank statement or payslip, not just what the customer told the analyst.
+
+You
+
+Does QA data from the auto-rationale pilot 18 months ago still exist? Ben said overturns went up. That would show what "generic" looked like in practice.
+
+Dan Koh
+
+That was before I got on sampling, so I don't have numbers from it. You'd have to ask whoever ran it on Nora's side.
+
+You
+
+How do you sample the files you re-check, roughly one in ten? Has that changed since the MAS letter?
+
+Dan Koh
+
+Random, roughly one in ten of what's closed that month, same as before the letter. The letter didn't change our sampling rate, it was more about the rationale quality, the clause not being named.
+
+You
+
+Which cases would you put in an evaluation set to prove the agent works?
+
+Dan Koh
+
+I'd want a mix, clean lows, the joiners and ownership changes that tend to get overturned, and some of the clear fails we've already caught. But pulling and handing those over is a data question for Grace or Raj.

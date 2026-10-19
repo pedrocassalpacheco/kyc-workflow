@@ -1,0 +1,13 @@
+PAYSLIP EXTRACT
+--- Page 1 of 1 ---
+
+Employer:        [illegible]
+Employee:        Chew Jian Hong
+Pay period:      [illegible]
+
+Basic salary:    [illegible]
+Allowances:      [illegible]
+Net pay:         [illegible]
+
+This extract was produced frorn payro11 records and retained on
+file. [illegible]

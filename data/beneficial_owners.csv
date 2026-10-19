@@ -1,0 +1,1117 @@
+customer_ref,bo_id,bo_name,effective_pct,basis,nationality,birth_date
+CIF900003,BO-1,Yi Xuan Pillai,40.0,direct,IN,1959-08-18
+CIF900003,BO-2,Priya Ong,60.0,direct,CN,1997-08-21
+CIF-0900004,BO-1,Shu Fen Pillai,100.0,direct,CN,1985-01-06
+CIF-0900004,BO-2,Nadia Menon,0.0,direct,IN,1990-09-18
+CIF-0900006,BO-1,Shu Fen Goh,100.0,direct,CN,1994-09-16
+CIF-0900010,BO-1,Nadia Abdullah,100.0,direct,MY,1976-06-10
+CIF900011,BO-1,Yi Xuan Teo,100.0,direct,IN,1980-02-26
+CIF900013,BO-1,Arjun Menon,100.0,direct,MY,1992-08-04
+CIF-0900015,BO-1,Shu Fen Goh,100.0,direct,MY,1966-12-06
+CIF-0900016,BO-1,Daniel Chua,100.0,direct,MY,2000-05-12
+CIF900018,BO-1,Cheryl Lim,100.0,direct,SG,1998-06-23
+CIF900018,BO-2,Farhan Lee,0.0,direct,SG,1961-06-26
+CIF900019,BO-1,Zhi Wei Chua,100.0,direct,MY,1989-09-19
+CIF900021,BO-1,Hafiz Wong,33.3,direct,MY,1960-11-06
+CIF900021,BO-2,Shu Fen Koh,66.7,direct,CN,1985-04-08
+CIF-0900024,BO-1,Cheryl Tan,40.0,direct,MY,1988-02-01
+CIF-0900024,BO-2,Cheryl Ong,60.0,direct,CN,1965-06-17
+CIF-0900025,BO-1,Yi Xuan Rahman,60.0,direct,CN,1964-11-16
+CIF-0900025,BO-2,Ravi Abdullah,40.0,direct,IN,1976-04-19
+900029,BO-1,Shu Fen Fernandez,100.0,direct,IN,1973-07-10
+900029,BO-2,Marcus Teo,0.0,direct,SG,1965-10-09
+CIF900030,BO-1,Hafiz Lee,100.0,direct,SG,1995-01-17
+CIF-0900033,BO-1,Siti Tan,40.0,direct,CN,1984-10-16
+CIF-0900033,BO-2,Farhan Teo,60.0,direct,IN,1975-10-16
+CIF900035,BO-1,Rachel Lim,100.0,direct,CN,1996-09-08
+900036,BO-1,Arjun Abdullah,100.0,direct,CN,1999-09-25
+CIF-0900039,BO-1,Hui Min Wong,100.0,direct,SG,1993-07-04
+900042,BO-1,Priya Lee,33.3,direct,IN,1973-10-15
+900042,BO-2,Marcus Teo,66.7,direct,SG,1969-02-19
+CIF900043,BO-1,Siti Ong,100.0,direct,CN,1991-07-09
+CIF900043,BO-2,Mei Xin Lim,0.0,direct,MY,1981-07-27
+CIF900045,BO-1,Shu Fen Tan,100.0,direct,CN,1975-11-17
+CIF900046,BO-1,Rachel Rahman,60.0,direct,SG,1990-09-28
+CIF900046,BO-2,Yi Xuan Pillai,40.0,direct,IN,1962-04-10
+CIF-0900047,BO-1,Hui Min Menon,100.0,direct,MY,1998-04-14
+CIF-0900049,BO-1,Priya Koh,40.0,direct,IN,1983-08-06
+CIF-0900049,BO-2,Daniel Menon,60.0,direct,CN,1989-01-17
+CIF950000,BO-1,Rachel Nair,60.0,direct,CN,1975-01-11
+CIF950000,BO-2,Kavya Abdullah,40.0,direct,IN,1968-07-02
+950003,BO-1,Priya Goh,100.0,direct,IN,1999-08-08
+950003,BO-2,Nadia Ismail,0.0,direct,MY,1997-03-10
+CIF1008300,BO-1,Adrian Drummond,28.5,direct,SG,1958-07-06
+CIF1008300,BO-2,Toh Li Ting,46.2,direct,SG,1997-06-14
+CIF-1018030,BO-1,Shakirah binte Zainal,44.2,direct,MY,1965-05-08
+CIF-1018030,BO-2,Cheng Zhi Wen,48.9,direct,MY,1969-10-14
+CIF-1040065,BO-1,Kamarul bin Zulkarnain,29.2,direct,SG,1954-08-02
+CIF-1040065,BO-2,Heng Yen Xuan,28.4,direct,SG,1965-10-13
+CIF-1040065,BO-3,Leong Xiu Chye,27.9,direct,SG,1981-12-09
+CIF-1064586,BO-1,Devi d/o Chandran,27.9,direct,MY,1989-05-11
+CIF-1064586,BO-2,Loh Boon Yang,49.2,indirect via Seagrove Capital Holdings Pte Ltd (0.81 x 60.8% = 49.2%),AU,2001-12-26
+CIF-1087329,BO-1,Goh Beng Huat,27.0,direct,SG,1972-01-22
+CIF-1087329,BO-2,Chew Lay Heng,28.3,direct,SG,1970-02-07
+CIF-1087329,BO-3,Koh Kok Yu,27.4,direct,SG,1981-12-20
+CIF-1105226,BO-1,Shahrul bin Mansor,28.2,direct,SG,1963-04-25
+CIF-1105226,BO-2,Sng Ming Yi,35.3,direct,SG,1988-03-19
+CIF1165317,BO-1,Sng Shu Hui,27.0,direct,SG,1985-12-01
+CIF1165317,BO-2,Ng Bee Xin,26.6,direct,SG,1987-04-12
+CIF1165317,BO-3,Yap Liang Wen,33.6,direct,SG,1959-09-27
+CIF-1171329,BO-1,Amirah binte Yaakob,26.0,direct,SG,1979-04-11
+CIF-1171329,BO-2,Foo Xin Yao,28.3,indirect via Brightline Builders Pte. Ltd. (0.86 x 32.9% = 28.3%),SG,1984-07-25
+CIF-1171329,BO-3,Vijay s/o Shanmugam,26.2,direct,SG,1991-12-06
+1176457,BO-1,Lee Poh Kai,41.2,direct,SG,1978-08-25
+1176457,BO-2,Koh Xiu Juan,26.0,direct,SG,2003-12-02
+1176457,BO-3,Ng Guo Kim,26.6,direct,SG,1995-05-24
+CIF-1196356,BO-1,Wee Kok An,46.6,direct,SG,1971-04-23
+CIF-1196356,BO-2,Mohan s/o Krishnan,42.9,direct,SG,1992-09-08
+CIF-1211809,BO-1,Ong Zhi Kim,58.7,direct,SG,1965-01-14
+CIF-1211809,BO-2,Khoo Kai Xiang,31.0,indirect via Bluehaven Apparel Supplies Pte. Ltd. (0.89 x 34.8% = 31.0%),SG,1993-07-08
+CIF1223382,BO-1,Lau Liang Leng,59.4,direct,MY,2000-07-25
+CIF1223382,BO-2,Chew Gek Huat,32.9,direct,GB,1996-10-06
+1260451,BO-1,Chia Hui Ling,51.9,direct,SG,1966-09-26
+1260451,BO-2,Tan Yi Xuan,40.4,direct,SG,1988-08-11
+CIF1270381,BO-1,Pang Cheng Kai,58.8,direct,MY,1994-02-24
+CIF1270381,BO-2,Suresh s/o Nathan,32.9,direct,SG,2000-12-06
+CIF-1284506,BO-1,Loh Pei Kim,53.8,direct,SG,1973-01-28
+CIF-1284506,BO-2,Chan Yong Qiang,29.1,direct,SG,1992-03-03
+CIF1290686,BO-1,Chew Wei Peng,27.2,direct,SG,1955-12-24
+CIF1290686,BO-2,Low Xiu Moi,38.8,direct,SG,2003-12-27
+CIF-1342372,BO-1,Iskandar bin Nasir,27.6,direct,SG,1965-07-05
+CIF-1342372,BO-2,Pravin s/o Sivalingam,28.5,indirect via Clearwater Stevedoring Pte Ltd (0.83 x 34.3% = 28.5%),SG,1977-07-28
+CIF-1342372,BO-3,Koh Zhi Kai,27.8,direct,SG,1958-05-16
+CIF-1347889,BO-1,Yap Jia Wen,27.1,direct,PH,1977-04-25
+CIF-1347889,BO-2,Rajesh s/o Arumugam,26.0,direct,SG,2003-04-24
+CIF-1347889,BO-3,Tay Boon Ping,26.2,direct,SG,1961-07-24
+CIF1372828,BO-1,Sng Pei Herng,36.7,direct,SG,1997-03-20
+CIF1372828,BO-2,Wong Hock Seng,32.3,direct,SG,1973-06-28
+CIF1375448,BO-1,Ong Beng Huat,32.6,direct,CN,1976-05-22
+CIF1375448,BO-2,Teo Siew Cheng,26.3,indirect via Tembusu Port Services Pte Ltd (0.81 x 32.5% = 26.3%),SG,1984-10-22
+CIF1375448,BO-3,Tan Xin Hoon,28.2,direct,SG,1971-06-07
+CIF-1378898,BO-1,Wee Jian Quan,47.2,direct,GB,2002-04-15
+CIF-1378898,BO-2,Low Xiu Song,31.4,direct,SG,1994-04-02
+CIF1419254,BO-1,Tan Poh Kuan,31.7,direct,SG,1954-08-08
+CIF1419254,BO-2,Yap Kai Xuan,46.2,direct,SG,1955-11-11
+CIF-1419359,BO-1,Koh Kai Wen,26.1,direct,SG,1981-04-06
+CIF-1419359,BO-2,Anitha d/o Jayabalan,26.5,direct,SG,1995-07-15
+CIF-1419359,BO-3,Haikal bin Jamil,26.3,direct,SG,1995-07-18
+1430150,BO-1,Low Ah Leng,36.9,direct,SG,1999-04-13
+1430150,BO-2,Iskandar bin Rashid,53.6,direct,MY,1979-02-04
+CIF1430779,BO-1,Kavitha d/o Ramasamy,28.3,direct,SG,1987-08-06
+CIF1430779,BO-2,Nur Aisyah binte Sulaiman,53.5,direct,SG,1967-03-27
+CIF-1500026,BO-1,Imogen Farrell,26.6,direct,SG,1997-08-19
+CIF-1500026,BO-2,Lee Xiu Yu,29.5,direct,ID,2003-12-02
+CIF-1500026,BO-3,Low Jia Har,26.4,direct,SG,2001-06-09
+CIF1515599,BO-1,Loh Shu Hui,30.1,direct,SG,1988-03-03
+CIF1515599,BO-2,Low Wei Lun,54.8,direct,SG,1990-04-07
+CIF-1553659,BO-1,Phua Kai Wen,30.8,direct,SG,1992-10-04
+CIF-1553659,BO-2,Teo Poh Ting,33.2,direct,SG,1972-05-04
+CIF-1553659,BO-3,Chia Boon Neo,28.7,direct,SG,1966-12-18
+CIF-1591981,BO-1,Neo Poh Shan,26.6,direct,MY,1998-03-05
+CIF-1591981,BO-2,Kumar s/o Jayabalan,26.1,direct,SG,1973-09-02
+CIF-1591981,BO-3,Leong Teck Choo,26.3,direct,CN,1986-04-19
+CIF-1593725,BO-1,Fauzi bin Yusof,26.5,direct,SG,1990-03-26
+CIF-1593725,BO-2,Foo Sock Seng,38.2,direct,SG,1980-07-22
+CIF1597941,BO-1,Koh Hui En,34.6,direct,SG,1964-10-09
+CIF1597941,BO-2,Low Gek De,26.1,direct,SG,1960-09-17
+CIF1597941,BO-3,Toh Su Seng,32.9,direct,IN,1995-06-07
+CIF1642645,BO-1,Phua Xin Yu,32.6,direct,SG,1969-05-04
+CIF1642645,BO-2,Pang Soon Juan,60.1,direct,SG,1968-08-19
+CIF-1659628,BO-1,Callum Beaumont-Reed,39.6,direct,SG,1961-05-26
+CIF-1659628,BO-2,Chua Kai Xuan,52.6,direct,SG,1979-12-06
+CIF1677644,BO-1,Laura Draycott,46.5,direct,SG,2001-01-12
+CIF1677644,BO-2,Chia Soon Xin,46.8,direct,IN,1997-05-24
+1809765,BO-1,Tay Guo Hui,46.9,direct,SG,2002-09-20
+1809765,BO-2,Tay Pei Neo,31.8,direct,SG,1986-09-24
+CIF-1829167,BO-1,Ganesh s/o Letchmanan,27.4,direct,MY,2003-10-11
+CIF-1829167,BO-2,Chia Ming Fang,27.3,indirect via Summitline Freight Services Pte Ltd (0.85 x 32.1% = 27.3%),SG,1989-04-13
+CIF-1829167,BO-3,Chan Xin Moi,26.3,direct,SG,1986-08-17
+CIF1838057,BO-1,Quek Bee Choo,36.6,direct,SG,1998-03-28
+CIF1838057,BO-2,Ho Yong Ping,28.1,direct,SG,1956-06-17
+CIF1838057,BO-3,Neo Yen Ling,26.4,direct,SG,2000-04-12
+CIF-1839718,BO-1,Vasanth s/o Vellu,26.1,direct,SG,1961-11-05
+CIF-1839718,BO-2,Heng Boon Keong,26.3,direct,SG,1958-08-13
+CIF-1839718,BO-3,Kamarul bin Wahab,27.2,direct,SG,1966-07-23
+CIF1856286,BO-1,Husna binte Nasir,26.1,direct,SG,2000-01-06
+CIF1856286,BO-2,Sim Yong Herng,26.1,direct,SG,1987-01-01
+CIF1856286,BO-3,Ahmad Danial bin Wahab,26.6,direct,SG,1974-12-20
+CIF-1856363,BO-1,Soh Chin Ping,27.4,direct,SG,1954-10-19
+CIF-1856363,BO-2,Shahrul bin Osman,28.6,direct,SG,1983-04-08
+CIF-1856363,BO-3,Koh Yi Lian,26.2,direct,SG,1975-09-12
+CIF1857053,BO-1,Kamarul bin Saad,33.2,direct,SG,1981-08-11
+CIF1857053,BO-2,Balqis binte Hassan,45.6,direct,SG,1998-10-21
+1900518,BO-1,Tay Lay Keong,40.5,direct,SG,1999-01-01
+1900518,BO-2,Phua Xin Lian,47.4,direct,SG,1986-05-11
+CIF1936061,BO-1,Wee Xin Yi,26.3,direct,SG,1968-01-17
+CIF1936061,BO-2,Kwek Teck Meng,26.1,direct,SG,1959-04-09
+CIF1936061,BO-3,Leong Poh Shan,26.8,direct,SG,1988-12-23
+CIF-1943813,BO-1,Seah Soon Seng,54.6,direct,MY,1994-08-19
+CIF-1943813,BO-2,Jeyaraj s/o Subramaniam,27.7,direct,SG,1996-11-20
+CIF-1945370,BO-1,Chia Ming De,26.7,direct,SG,1976-01-24
+CIF-1945370,BO-2,Soh Zhen Yu,31.0,direct,SG,1976-06-01
+CIF-1945370,BO-3,Zarina binte Hashim,35.8,direct,MY,1966-03-08
+CIF-1988655,BO-1,Lim Jia Hao,27.7,direct,SG,1984-08-05
+CIF-1988655,BO-2,Zulaikha binte Hamid,26.1,direct,SG,2000-11-27
+CIF-1988655,BO-3,Quek Geok Lin,26.7,direct,SG,1978-07-16
+2059810,BO-1,Marlina binte Karim,40.0,direct,SG,1968-01-27
+2059810,BO-2,Wee Ah Yun,37.9,direct,SG,2000-11-16
+CIF2078930,BO-1,Sim Kai Xuan,27.7,direct,AU,1969-04-23
+CIF2078930,BO-2,Ang Pei Yi,27.0,direct,SG,1972-12-07
+CIF2078930,BO-3,Ng Kai Neo,27.6,direct,MY,1989-05-16
+CIF-2091885,BO-1,Phua Zhi En,26.6,direct,SG,1972-05-20
+CIF-2091885,BO-2,Neo Xin Hui,26.7,direct,SG,1980-12-21
+CIF-2091885,BO-3,Chew Lay Peng,37.7,direct,SG,1999-07-14
+CIF-2115413,BO-1,Pang Cheng Siong,38.4,direct,SG,1998-04-17
+CIF-2115413,BO-2,Ng Ming Hui,41.4,direct,GB,1998-06-18
+CIF2131801,BO-1,Teo Chin Hui,28.6,direct,SG,1985-11-20
+CIF2131801,BO-2,Thiru s/o Chandran,56.0,direct,MY,1979-09-22
+CIF-2137368,BO-1,Goh Yong Quan,38.9,direct,SG,1972-05-07
+CIF-2137368,BO-2,Khoo Jia Yang,34.2,direct,SG,1975-01-23
+CIF-2155577,BO-1,Shanti d/o Krishnamurthy,26.7,direct,SG,1977-11-28
+CIF-2155577,BO-2,Chan Zhen Min,28.7,direct,SG,1966-05-02
+CIF-2155577,BO-3,Chan Cheng Wen,31.6,direct,SG,1990-04-02
+CIF2161650,BO-1,Lim Xiu Peng,42.1,direct,SG,1978-09-13
+CIF2161650,BO-2,Pang Su Siong,27.0,indirect via Golden Meadow Freight Services Pte. Ltd. (0.72 x 37.5% = 27.0%),SG,2000-10-15
+CIF-2163980,BO-1,Quek Wei Lun,39.9,direct,SG,1978-07-28
+CIF-2163980,BO-2,Loh Wei Choo,39.4,direct,SG,1987-01-25
+CIF-2170079,BO-1,Koh Hui Wai,27.5,direct,SG,1990-09-07
+CIF-2170079,BO-2,Wee Li Ping,46.4,direct,SG,1967-05-26
+2245930,BO-1,Seah Ming Min,28.2,direct,SG,2002-04-25
+2245930,BO-2,Tay Shu Qiang,26.8,indirect via Vantagepoint Holidays Pte. Ltd. (0.76 x 35.3% = 26.8%),SG,1997-07-05
+2245930,BO-3,Wong Kah Seng,28.6,direct,SG,1983-11-10
+CIF2264074,BO-1,Lim Teck Meng,44.3,direct,SG,1960-09-26
+CIF2264074,BO-2,Phua Bee Choo,26.7,indirect via Orchid Vale Property Consultants Pte. Ltd. (0.81 x 33.0% = 26.7%),IN,1995-06-21
+CIF2287629,BO-1,Lakshmi d/o Kandasamy,45.8,direct,SG,1986-03-11
+CIF2287629,BO-2,Amirah binte Karim,27.6,direct,SG,1974-09-04
+CIF-2303533,BO-1,Low Yen Wen,28.9,direct,GB,1987-12-20
+CIF-2303533,BO-2,Yeo Zhen Hao,63.2,direct,SG,1973-08-20
+CIF-2322090,BO-1,Tan Li Cher,26.4,direct,SG,1977-06-19
+CIF-2322090,BO-2,Tay Siew Lian,26.0,direct,SG,1984-09-09
+CIF-2322090,BO-3,Amirul Hakim bin Rashid,26.3,direct,SG,1987-03-14
+CIF2334877,BO-1,Leong Wei Lun,26.6,direct,SG,1975-02-25
+CIF2334877,BO-2,Chan Su Lin,26.4,direct,SG,1995-03-26
+CIF2334877,BO-3,Leong Hock Wen,26.5,direct,SG,1961-02-21
+2342107,BO-1,Danish Irfan bin Mansor,52.1,direct,SG,1989-12-14
+2342107,BO-2,Seah Kok Teik,32.5,indirect via Lioncrest Partners PAC Pte Ltd (0.89 x 36.5% = 32.5%),SG,1969-01-18
+2355934,BO-1,Toh Pei Wen,46.8,direct,SG,1964-01-15
+2355934,BO-2,Teo Sock Guan,31.8,direct,SG,1988-07-12
+CIF2363171,BO-1,Phua Shu En,28.6,direct,SG,1954-12-07
+CIF2363171,BO-2,Naresh s/o Kandasamy,30.0,direct,SG,1968-08-27
+CIF2363171,BO-3,Yap Chin Ping,30.4,direct,SG,1988-01-05
+CIF-2369485,BO-1,Goh Jian Xuan,44.7,direct,AU,1976-07-28
+CIF-2369485,BO-2,Ho Jian Hong,31.3,direct,SG,1997-07-09
+CIF-2400491,BO-1,Chan Hui De,30.5,direct,MY,1977-02-04
+CIF-2400491,BO-2,Wee Kai Xuan,26.1,direct,SG,1986-01-11
+CIF-2400491,BO-3,Chew Kah Yao,26.6,direct,SG,1962-10-27
+CIF2453833,BO-1,Chan Jia Xin,47.1,direct,SG,1959-06-25
+CIF2453833,BO-2,Lim Yong Zhen,37.0,direct,SG,1995-02-16
+CIF-2461205,BO-1,Phua Ming Herng,54.4,direct,SG,1985-05-05
+CIF-2461205,BO-2,Toh Wei Eng,39.3,direct,SG,1959-02-03
+2463442,BO-1,Pravin s/o Letchmanan,26.4,direct,SG,1966-05-14
+2463442,BO-2,Helmi bin Hamid,26.8,direct,SG,1986-07-26
+2463442,BO-3,Claire Calloway,27.8,direct,SG,1964-02-23
+2463442,BO-4,Vasanth s/o Doraisamy,0.0,control (board/veto arrangements per the shareholders' agreement; no registrable shareholding),SG,1997-04-24
+CIF2493169,BO-1,Loh Cheng Peng,38.6,direct,SG,2004-02-15
+CIF2493169,BO-2,Seah Yen Juan,46.9,direct,SG,1993-10-06
+CIF2523776,BO-1,Ang Gek Peng,30.4,direct,MY,1992-08-15
+CIF2523776,BO-2,Neo Xiu Seng,55.1,direct,SG,1988-11-24
+CIF-2532744,BO-1,Tan Pei Har,60.6,direct,SG,1990-09-17
+CIF-2532744,BO-2,Heng Li Ting,33.1,direct,PH,1998-03-02
+CIF-2552039,BO-1,Laura Callister,61.8,direct,SG,1956-02-24
+CIF-2552039,BO-2,Foo Soon Choo,32.0,direct,MY,1987-01-07
+CIF-2561034,BO-1,Pang Hock Xuan,32.3,direct,SG,1995-09-22
+CIF-2561034,BO-2,Teo Boon Yang,59.5,direct,SG,1996-02-20
+CIF2588500,BO-1,Poh Jian Choo,43.6,direct,SG,1962-11-02
+CIF2588500,BO-2,Yamuna d/o Thirumalai,29.7,indirect via Windmere Capital Holdings Pte. Ltd. (0.73 x 40.7% = 29.7%),SG,1982-11-24
+CIF-2597268,BO-1,Phua Zhi Kai,34.2,direct,SG,1981-03-04
+CIF-2597268,BO-2,Sng Zhi Hao,52.4,direct,SG,1955-01-03
+CIF-2601660,BO-1,Toh Beng Seng,35.5,direct,SG,1995-04-12
+CIF-2601660,BO-2,Ong Siew Xuan,47.0,direct,SG,1988-09-17
+CIF-2630230,BO-1,Foo Kai Lun,39.8,direct,MY,1980-08-10
+CIF-2630230,BO-2,Khairul Imran bin Abdullah,44.0,direct,AU,2001-06-13
+CIF-2630746,BO-1,Chong Hui Min,30.2,direct,SG,1985-07-09
+CIF-2630746,BO-2,Yap Bee Ling,50.6,direct,SG,1966-09-10
+CIF-2631590,BO-1,Ong Chin Min,37.3,direct,SG,1974-12-08
+CIF-2631590,BO-2,Heng Ming Peng,41.2,direct,SG,1984-06-19
+CIF2647808,BO-1,Dinesh s/o Krishnan,26.4,direct,SG,1968-06-25
+CIF2647808,BO-2,Sng Chin Lun,26.6,direct,SG,1972-09-08
+CIF2647808,BO-3,Lachlan Marchbanks,26.5,direct,SG,1958-02-26
+CIF2679924,BO-1,Ho Sock Wai,46.6,direct,SG,1963-01-23
+CIF2679924,BO-2,Wong Zhen Wen,38.1,direct,MY,1998-08-16
+CIF2722062,BO-1,Chong Ming Yun,27.4,direct,SG,1984-12-13
+CIF2722062,BO-2,Heng Siew Xuan,50.1,direct,SG,2003-02-08
+CIF2732896,BO-1,Leong Kai Lun,28.5,direct,SG,1961-03-14
+CIF2732896,BO-2,Tay Yong Qiang,62.9,direct,SG,1976-07-18
+2737482,BO-1,Neo Xiu Choo,42.0,direct,MY,1955-02-22
+2737482,BO-2,Chia Liang Quan,42.8,indirect via Angsana Management Consultants Pte. Ltd. (0.86 x 49.8% = 42.8%),SG,1980-01-04
+CIF-2757606,BO-1,Toh Zhi Kai,61.1,direct,SG,2004-07-02
+CIF-2757606,BO-2,Yeo Sock Kai,32.4,direct,SG,1999-12-22
+CIF2761751,BO-1,Pang Ming Peng,48.3,direct,SG,1993-06-28
+CIF2761751,BO-2,Lee Guo Hui,32.3,direct,SG,2002-02-21
+CIF-2779212,BO-1,Khoo Wei Sheng,27.6,direct,SG,1958-06-25
+CIF-2779212,BO-2,Faridah binte Saad,36.2,direct,SG,1969-01-01
+CIF-2784920,BO-1,Ho Su Lin,26.4,direct,SG,1975-10-06
+CIF-2784920,BO-2,Ho Jia Wen,26.6,direct,SG,1996-08-01
+CIF-2784920,BO-3,Aina Sofea binte Karim,26.2,direct,SG,1972-01-25
+CIF-2827418,BO-1,Chia Yi Hao,29.9,direct,CN,1994-04-16
+CIF-2827418,BO-2,Koh Jian Yang,26.6,direct,SG,1969-05-28
+CIF-2827418,BO-3,Wee Zhi Hao,27.1,direct,SG,1992-08-23
+CIF-2856932,BO-1,Lee Siew Hao,28.8,direct,SG,1975-02-05
+CIF-2856932,BO-2,Cheng Shu Hui,26.5,direct,SG,1967-05-07
+CIF-2856932,BO-3,Seah Yong Kai,33.0,direct,SG,1996-05-04
+CIF2865301,BO-1,Yeo Kah Teik,30.5,direct,SG,1987-07-17
+CIF2865301,BO-2,Grant Harrington,51.6,direct,SG,1975-07-23
+CIF2893283,BO-1,Yeo Yi Xuan,36.0,direct,IN,1973-01-16
+CIF2893283,BO-2,Heng Li Qi,26.7,direct,SG,1964-05-20
+CIF2893283,BO-3,Renuka d/o Chandran,30.9,direct,SG,1990-08-25
+2904474,BO-1,Goh Hui Yun,36.9,direct,SG,1996-12-05
+2904474,BO-2,Soh Su Yun,26.6,direct,SG,1975-03-14
+2904474,BO-3,Danish Irfan bin Talib,27.9,direct,SG,1962-02-23
+CIF2945705,BO-1,Suhaila binte Ibrahim,26.1,direct,SG,1957-10-23
+CIF2945705,BO-2,Pang Jia Wen,26.2,direct,IN,1978-06-07
+CIF2945705,BO-3,Jeyaraj s/o Rajendran,26.4,direct,SG,2002-08-11
+CIF2957739,BO-1,Chan Mei Song,30.1,direct,SG,1962-01-17
+CIF2957739,BO-2,Greta Marchbanks,33.3,direct,SG,1971-02-20
+CIF2957739,BO-3,Sng Chee Meng,27.4,direct,SG,1963-04-08
+CIF-2987794,BO-1,Heng Xin Yi,26.2,direct,SG,1996-08-23
+CIF-2987794,BO-2,Kate Holloway,26.5,direct,SG,1992-02-20
+CIF-2987794,BO-3,Tay Geok Yao,27.8,direct,SG,1972-11-24
+CIF-2987794,BO-4,Pang Zhi Herng,0.0,control (board/veto arrangements per the shareholders' agreement; no registrable shareholding),SG,1976-07-06
+3003807,BO-1,Yeo Jun Wei,33.1,direct,SG,1975-06-15
+3003807,BO-2,Goh Zhen Hao,43.5,direct,SG,1998-07-23
+CIF3018643,BO-1,Seah Cheng Har,27.7,direct,SG,1977-05-07
+CIF3018643,BO-2,Tan Jian Wen,26.1,direct,SG,1984-09-05
+CIF3018643,BO-3,Teo Pei Wen,26.3,direct,SG,2002-10-08
+3042420,BO-1,Radha d/o Rajendran,27.8,direct,SG,1957-12-19
+3042420,BO-2,Sofiah binte Hamid,65.8,direct,SG,1957-05-10
+3061535,BO-1,Ang Siew Hui,34.0,direct,SG,2005-02-10
+3061535,BO-2,Yamuna d/o Chandran,26.9,direct,SG,2005-09-01
+CIF3081393,BO-1,Heng Chee Chye,27.1,direct,SG,1982-11-03
+CIF3081393,BO-2,Khoo Beng Eng,50.3,direct,SG,1981-11-22
+CIF-3098094,BO-1,Toh Kai Lun,41.2,direct,MY,1996-11-25
+CIF-3098094,BO-2,Chua Yen Fang,51.9,direct,MY,1962-08-24
+CIF-3123000,BO-1,Leong Soon Choo,30.9,direct,SG,1988-07-28
+CIF-3123000,BO-2,Mohamed Ridzwan bin Jamil,26.2,direct,SG,1970-02-13
+CIF-3123000,BO-3,Yap Teck Jie,27.1,direct,SG,1980-08-09
+CIF-3138652,BO-1,Goh Poh Lun,33.5,direct,SG,1984-07-03
+CIF-3138652,BO-2,Ang Gek Guan,50.8,direct,SG,2001-08-15
+CIF-3146041,BO-1,Chan Yong Jie,43.1,direct,GB,1978-02-04
+CIF-3146041,BO-2,Hari s/o Kandasamy,35.0,direct,SG,1954-11-26
+CIF-3166740,BO-1,Soh Wei Hoon,30.8,direct,SG,1991-01-19
+CIF-3166740,BO-2,Pang Kai Wen,30.1,indirect via Eastgate Mini-Mart Pte Ltd (0.89 x 33.8% = 30.1%),SG,1979-02-07
+CIF-3166740,BO-3,Khoo Hui Ping,27.6,direct,SG,1958-01-11
+CIF3201828,BO-1,Naresh s/o Letchmanan,26.1,direct,SG,1962-10-16
+CIF3201828,BO-2,Neo Zhi Hao,26.2,direct,MY,1972-06-05
+CIF3201828,BO-3,Ng Pei Lun,26.3,direct,SG,1987-06-02
+CIF3209049,BO-1,Chew Sock Keong,43.8,direct,SG,1981-10-09
+CIF3209049,BO-2,Chua Beng Huat,42.3,indirect via Selat View Management Consultants Pte. Ltd. (0.89 x 47.5% = 42.3%),CN,1965-11-14
+CIF-3213983,BO-1,Neo Sock Lin,35.1,direct,SG,1965-01-14
+CIF-3213983,BO-2,Heng Sock Xiang,27.0,direct,SG,1999-12-01
+CIF-3213983,BO-3,Valli d/o Govindasamy,29.5,direct,MY,1981-12-20
+CIF-3222315,BO-1,Toh Wei Sheng,38.4,direct,PH,1991-12-22
+CIF-3222315,BO-2,Chia Li Fang,53.7,direct,SG,1968-09-13
+CIF3235190,BO-1,Andrew Harrington,41.9,direct,SG,1967-07-09
+CIF3235190,BO-2,Ang Kai Wen,39.4,direct,SG,1980-09-09
+3246173,BO-1,Imran bin Latif,37.6,direct,SG,2005-08-07
+3246173,BO-2,Shahrul bin Hamid,55.2,direct,SG,1955-10-17
+CIF3283000,BO-1,Lau Teck Meng,26.3,direct,SG,1978-08-11
+CIF3283000,BO-2,Neo Kai Lun,26.1,direct,SG,1979-01-16
+CIF3283000,BO-3,Goh Jia Xin,26.2,direct,PH,2001-10-23
+CIF-3300369,BO-1,Chua Mei Lin,33.5,direct,SG,1956-02-09
+CIF-3300369,BO-2,Khoo Mei Song,32.1,direct,SG,2001-09-22
+CIF-3300369,BO-3,Radha d/o Letchmanan,27.3,direct,MY,1995-12-19
+CIF-3316382,BO-1,Ong Gek Yun,27.1,direct,SG,1989-04-16
+CIF-3316382,BO-2,Suhaila binte Ismail,55.9,direct,SG,1980-10-01
+CIF3316978,BO-1,Phua Hock Min,59.3,direct,SG,1997-05-05
+CIF3316978,BO-2,Nadiah binte Kassim,34.3,direct,SG,1963-01-08
+CIF3336477,BO-1,Rafidah binte Razak,28.0,direct,SG,1969-05-08
+CIF3336477,BO-2,Marcus Draycott,30.3,direct,CN,1965-01-13
+CIF3336477,BO-3,Goh Jun Hao,26.2,direct,SG,1959-05-01
+3338719,BO-1,Goh Pei Wei,37.1,direct,SG,2003-09-04
+3338719,BO-2,Toh Hui Kim,32.6,direct,SG,1962-01-07
+CIF-3339292,BO-1,Komala d/o Pillai,27.6,direct,SG,1960-11-26
+CIF-3339292,BO-2,Rohana binte Jaafar,28.7,indirect via Island Ridge Technologies Pte. Ltd. (0.87 x 33.0% = 28.7%),SG,2004-06-28
+CIF-3339292,BO-3,Aqilah binte Zulkarnain,26.6,direct,SG,1964-04-26
+CIF-3359993,BO-1,Lim Chee Seng,55.0,direct,SG,1967-10-22
+CIF-3359993,BO-2,Susan Lim Mei Ling,31.5,indirect via Meadowvale Family Holdings Pte Ltd (holds 70% of Meadowvale; Meadowvale holds 45% of the Customer: 70% x 45% = 31.5%),SG,1971-05-30
+CIF3368205,BO-1,Cheng Wei Jie,46.1,direct,SG,1987-11-19
+CIF3368205,BO-2,Lau Wan Wen,32.2,indirect via Oakfield Circuit Supplies Pte. Ltd. (0.80 x 40.2% = 32.2%),SG,1974-12-19
+CIF3370090,BO-1,Pang Kah Seng,31.2,direct,MY,1995-12-06
+CIF3370090,BO-2,Sng Guo Quan,61.4,direct,SG,1967-11-17
+CIF-3376638,BO-1,Ng Zhi Wei,35.0,direct,SG,1981-01-24
+CIF-3376638,BO-2,Chong Jia Kai,57.2,direct,PH,1988-08-14
+CIF-3406990,BO-1,Koh Hui Min,43.0,direct,SG,1997-02-20
+CIF-3406990,BO-2,Koh Jian Hong,32.1,direct,SG,1982-02-10
+CIF-3422453,BO-1,Toh Geok Fang,26.2,direct,SG,1998-03-15
+CIF-3422453,BO-2,Foo Cheng Hui,26.2,direct,SG,1976-01-26
+CIF-3422453,BO-3,Siti Nurhaliza binte Omar,26.3,direct,ID,1957-09-11
+CIF-3436654,BO-1,Ganesh s/o Perumal,35.5,direct,SG,1977-06-13
+CIF-3436654,BO-2,Valli d/o Ganesan,28.2,direct,ID,2001-03-22
+CIF-3436654,BO-3,Phua Geok Lin,26.4,direct,SG,1980-08-08
+CIF-3484973,BO-1,Heng Shu Feng,26.4,direct,SG,1957-03-23
+CIF-3484973,BO-2,Yap Jia Xin,63.3,direct,SG,1991-02-26
+3556080,BO-1,Chen Wei Liang,40.0,direct,SG,1971-09-14
+3556080,BO-2,Ng Bee Choo,27.2,indirect via Verlantis Capital Holdings Pte Ltd (holds 80% of Verlantis; Verlantis holds 34% of the Customer: 80% x 34% = 27.2%),SG,1968-02-27
+3556080,BO-3,Rajan s/o Kumaravel,26.0,direct,SG,1979-11-03
+CIF-3557340,BO-1,Foo Geok Ming,31.3,direct,IN,1966-01-12
+CIF-3557340,BO-2,Yap Yen Yi,32.0,direct,SG,1994-09-16
+CIF-3557340,BO-3,Teo Bee Qi,27.5,direct,MY,2000-09-05
+CIF-3615485,BO-1,Teo Yong Fang,31.9,direct,SG,1994-08-27
+CIF-3615485,BO-2,Zarina binte Bakar,61.3,direct,CN,1996-07-14
+CIF3660842,BO-1,Wee Kai Yu,39.2,direct,SG,1987-10-20
+CIF3660842,BO-2,Chia Jun Juan,26.7,direct,SG,2000-06-15
+CIF3660842,BO-3,Tan Xin Lian,26.7,direct,SG,1961-09-07
+3724919,BO-1,Sng Kah Seng,31.8,direct,SG,1970-04-17
+3724919,BO-2,Ang Zhen Yu,60.6,direct,SG,1972-03-02
+CIF3726582,BO-1,Renuka d/o Shanmugam,30.8,direct,CN,1968-12-17
+CIF3726582,BO-2,Ang Kah Siong,31.0,indirect via Island Ridge Toy Trading Pte. Ltd. (0.86 x 36.1% = 31.0%),SG,2002-05-02
+CIF-3728430,BO-1,Ong Hui Zhen,53.4,direct,SG,1970-03-03
+CIF-3728430,BO-2,Yap Geok Sheng,32.6,direct,SG,1980-08-14
+CIF3737266,BO-1,Vasanth s/o Rajendran,47.3,direct,PH,1986-11-25
+CIF3737266,BO-2,Geetha d/o Krishnan,46.3,direct,SG,1988-08-22
+CIF-3739726,BO-1,Chew Kah Yun,33.2,direct,SG,1967-01-26
+CIF-3739726,BO-2,Foo Pei Yu,29.1,direct,MY,1990-01-09
+CIF-3739726,BO-3,Heng Poh Min,31.0,direct,SG,1995-08-15
+CIF-3761003,BO-1,Leong Cheng Kai,31.2,direct,SG,1993-05-25
+CIF-3761003,BO-2,Wee Teck Hao,30.5,indirect via Seagrove Mini-Mart Pte. Ltd. (0.88 x 34.7% = 30.5%),SG,1982-12-25
+CIF-3761003,BO-3,Wong Yi Cher,26.6,direct,SG,1956-07-24
+CIF3779779,BO-1,Tay Kok Wai,38.7,direct,AU,1995-05-04
+CIF3779779,BO-2,Seah Jian Hong,29.0,direct,SG,1999-07-20
+CIF3787636,BO-1,Syed Harith bin Karim,26.9,direct,SG,1961-04-08
+CIF3787636,BO-2,Rafidah binte Hamid,62.3,direct,SG,1960-01-28
+CIF3798878,BO-1,Radha d/o Raman,47.9,direct,SG,1991-02-13
+CIF3798878,BO-2,Ng Wan Hoon,36.2,direct,SG,1977-11-14
+3866360,BO-1,Geetha d/o Jayabalan,32.5,direct,SG,1961-09-07
+3866360,BO-2,Sarah Fairbanks,45.9,direct,SG,1975-05-25
+CIF3895647,BO-1,Muhammad Danish bin Talib,33.8,direct,SG,1989-04-06
+CIF3895647,BO-2,Soh Zhi Yang,51.6,direct,MY,1967-09-12
+CIF-3898980,BO-1,Yap Yi Ling,27.7,direct,SG,1981-08-13
+CIF-3898980,BO-2,Tan Xiu Ming,30.6,direct,SG,1991-06-27
+CIF-3898980,BO-3,Lee Soon Cheng,26.3,direct,SG,1997-05-20
+CIF-3905105,BO-1,Anand s/o Sivalingam,35.4,direct,SG,1991-05-14
+CIF-3905105,BO-2,Sng Kai Wen,44.2,direct,SG,2005-10-25
+3910462,BO-1,Phua Kok Lun,29.8,direct,SG,2005-09-07
+3910462,BO-2,Yap Li Ting,26.4,direct,SG,1958-01-27
+3910462,BO-3,Munirah binte Salleh,31.2,direct,SG,1967-04-08
+CIF3914893,BO-1,Deepa d/o Rajendran,26.4,direct,SG,1999-05-05
+CIF3914893,BO-2,Wee Hock Huat,58.8,indirect via Cedarview Holidays Pte. Ltd. (0.87 x 67.6% = 58.8%),PH,1989-07-24
+3950628,BO-1,Nirmala d/o Balakrishnan,56.4,direct,MY,1981-05-12
+3950628,BO-2,Chua Kai Xiang,35.5,direct,SG,1971-04-08
+3960420,BO-1,Phua Hui Kim,51.3,direct,SG,1973-01-19
+3960420,BO-2,Loh Yong Lin,34.8,direct,SG,1974-08-14
+CIF-3972504,BO-1,Hafiz bin Latif,35.2,direct,SG,2001-04-22
+CIF-3972504,BO-2,Phua Wei Wen,58.0,direct,SG,1960-01-12
+CIF3999439,BO-1,Soh Yong En,26.6,direct,SG,1971-02-14
+CIF3999439,BO-2,Yap Su Juan,26.1,direct,SG,1990-07-12
+CIF3999439,BO-3,Loh Xiu Neo,26.6,direct,SG,1959-12-11
+CIF-4001626,BO-1,Chan Hui An,61.1,direct,SG,1990-06-05
+CIF-4001626,BO-2,Teo Xiu Yun,27.1,direct,SG,1988-10-02
+CIF-4020093,BO-1,Seah Mei Ping,43.9,direct,MY,2000-06-15
+CIF-4020093,BO-2,Tay Hock Peng,42.6,direct,SG,1989-05-02
+CIF-4065768,BO-1,Cheng Jia Quan,28.0,direct,GB,1997-06-03
+CIF-4065768,BO-2,Koh Ming Wei,27.8,direct,SG,2000-04-20
+CIF-4065768,BO-3,Cheng Mei Qi,28.6,direct,SG,1971-11-05
+CIF-4069373,BO-1,Pang Sock Herng,26.9,direct,SG,1993-06-02
+CIF-4069373,BO-2,Tan Kai Wen,29.5,direct,SG,1971-06-08
+CIF-4069373,BO-3,Devi d/o Arumugam,27.1,direct,GB,1992-07-21
+CIF-4069524,BO-1,Chan Pei En,37.0,direct,SG,1990-06-05
+CIF-4069524,BO-2,Leong Ming Wei,45.2,indirect via Casuarina Freight Services Pte. Ltd. (0.83 x 54.4% = 45.2%),SG,1993-07-06
+CIF-4069909,BO-1,Ong Su Juan,35.9,direct,SG,1987-06-14
+CIF-4069909,BO-2,Teo Jia Wen,35.0,direct,SG,1967-09-01
+CIF4072542,BO-1,Phua Kok Hoon,29.4,direct,SG,1980-09-14
+CIF4072542,BO-2,Goh Siew Guan,27.4,direct,SG,1963-12-08
+CIF4072542,BO-3,Ng Ming Lin,33.8,direct,SG,1984-06-05
+CIF-4073766,BO-1,Yap Zhi Herng,56.8,direct,SG,1963-10-04
+CIF-4073766,BO-2,Chong Kai Xiang,30.3,direct,ID,1968-08-12
+CIF-4096742,BO-1,Koh Xin Yao,39.3,direct,MY,1966-12-02
+CIF-4096742,BO-2,Yeo Jia Wen,26.4,direct,ID,1991-06-08
+CIF-4096742,BO-3,Marlina binte Rashid,26.3,direct,GB,1970-03-24
+CIF-4096742,BO-4,Chen Soo Kim,0.0,control (board/veto arrangements per the shareholders' agreement; no registrable shareholding),SG,1975-11-26
+CIF4105619,BO-1,Lim Xin Yi,38.9,direct,SG,2000-12-25
+CIF4105619,BO-2,Chua Teck Song,27.2,direct,SG,1977-05-24
+CIF4105619,BO-3,Bronwyn Sanders,26.3,direct,PH,1963-12-05
+CIF4105619,BO-4,Chen Xin Hui,0.0,control (board/veto arrangements per the shareholders' agreement; no registrable shareholding),SG,1964-06-04
+CIF-4144856,BO-1,Sng Xin Ling,33.3,direct,SG,1981-06-04
+CIF-4144856,BO-2,Azhar bin Hashim,57.3,direct,SG,1979-08-22
+4159622,BO-1,Chong Liang Wai,27.2,direct,SG,1957-12-07
+4159622,BO-2,Muhammad Danish bin Abdullah,30.3,direct,SG,1972-07-15
+4159622,BO-3,Khoo Ming Fang,29.4,direct,SG,1967-09-04
+4186610,BO-1,Sarah Callister,26.4,direct,SG,1964-04-02
+4186610,BO-2,Phua Yen Eng,28.9,direct,SG,2004-08-18
+4243256,BO-1,Malathi d/o Ganesan,29.8,direct,ID,1989-03-24
+4243256,BO-2,Soh Hock Lian,36.7,direct,GB,1980-06-14
+4254902,BO-1,Izzati binte Zainal,33.7,direct,SG,1958-11-19
+4254902,BO-2,Low Yen Chye,26.9,direct,SG,1971-08-27
+4254902,BO-3,Munirah binte Omar,26.4,direct,SG,1986-01-13
+4254902,BO-4,Chan Yew Kong,0.0,control (board/veto arrangements per the shareholders' agreement; no registrable shareholding),SG,1969-08-12
+CIF-4257473,BO-1,Lim Guo Wei,32.8,direct,SG,1958-11-10
+CIF-4257473,BO-2,Yeo Su Lin,26.1,direct,SG,1963-04-02
+CIF-4257473,BO-3,Foo Ming Xun,26.5,direct,SG,1999-08-25
+CIF-4271467,BO-1,Qistina binte Latif,32.8,direct,SG,1962-07-02
+CIF-4271467,BO-2,Gan Cheng Xi,44.0,direct,SG,2004-12-18
+CIF4325744,BO-1,Logan s/o Doraisamy,40.9,direct,SG,1960-08-07
+CIF4325744,BO-2,Amirul Hakim bin Aziz,28.9,direct,SG,1976-08-02
+CIF-4360441,BO-1,Tan Yen Ping,28.6,direct,SG,1992-01-16
+CIF-4360441,BO-2,Seah Kok De,32.4,direct,SG,1999-09-02
+CIF-4360441,BO-3,Ramesh s/o Arumugam,27.3,direct,SG,1981-10-01
+4369555,BO-1,Chew Siew Xiang,27.5,direct,GB,1956-07-08
+4369555,BO-2,Goh Boon Guan,26.5,direct,SG,1956-09-28
+4369555,BO-3,Chua Su Zhen,27.5,direct,SG,2002-10-07
+CIF4388977,BO-1,Chong Soon Ping,48.3,direct,SG,1984-04-22
+CIF4388977,BO-2,Heng Liang Yun,40.8,direct,SG,1997-01-08
+CIF-4398247,BO-1,Phua Yen Ling,51.1,direct,SG,1983-10-19
+CIF-4398247,BO-2,Ang Ming Xun,35.7,direct,SG,2000-06-26
+CIF4401303,BO-1,Poh Jia Siong,28.4,direct,IN,1969-12-08
+CIF4401303,BO-2,Leong Boon Heng,28.1,direct,SG,1973-01-10
+CIF4401303,BO-3,Muhammad Danish bin Wahab,26.3,direct,MY,1973-06-22
+CIF-4411403,BO-1,Poh Jun Kim,44.6,direct,SG,1991-06-13
+CIF-4411403,BO-2,Foo Chee Meng,27.8,direct,SG,1955-07-10
+CIF-4416446,BO-1,Wong Siew Fang,51.9,direct,SG,1996-02-18
+CIF-4416446,BO-2,Sng Hui Min,27.1,direct,SG,1975-11-23
+4423273,BO-1,Pang Zhen Seng,28.6,direct,SG,1965-08-28
+4423273,BO-2,Heng Kai Feng,56.6,direct,SG,1971-03-21
+4451431,BO-1,Yap Zhen Qi,32.4,direct,SG,1978-05-19
+4451431,BO-2,Wong Zhi Meng,30.1,direct,SG,1981-12-05
+4451431,BO-3,Chan Yen Ling,27.7,direct,SG,1985-05-08
+CIF-4472322,BO-1,Gan Siew Lian,31.2,direct,SG,1999-09-08
+CIF-4472322,BO-2,Ong Beng En,38.3,direct,GB,1977-12-03
+CIF4500202,BO-1,Leong Yen Lin,26.2,direct,SG,1959-10-16
+CIF4500202,BO-2,Khoo Soon Heng,51.2,direct,SG,1959-06-25
+CIF-4519990,BO-1,Wee Hui Choo,37.9,direct,MY,1984-06-04
+CIF-4519990,BO-2,Chong Jian Song,45.0,direct,SG,1966-10-26
+CIF4531530,BO-1,Gan Kai Xiang,26.1,direct,SG,1989-07-28
+CIF4531530,BO-2,Chan Ming Fang,27.5,direct,GB,1983-09-22
+CIF4531530,BO-3,Soh Jia Song,30.4,direct,SG,1966-04-05
+CIF-4558860,BO-1,Ho Jian Ping,41.5,direct,SG,1977-01-09
+CIF-4558860,BO-2,Poh Soon Heng,47.9,direct,SG,1989-04-14
+CIF-4577756,BO-1,Teo Siew Lian,27.8,direct,PH,1977-04-24
+CIF-4577756,BO-2,Ang Lay Wai,46.2,direct,ID,1978-09-25
+CIF-4585240,BO-1,Rafidah binte Ismail,32.1,direct,SG,1970-02-14
+CIF-4585240,BO-2,Helen Lawson,30.7,direct,SG,1984-11-22
+CIF-4585240,BO-3,Haikal bin Yusof,31.1,direct,SG,1966-11-08
+CIF-4585240,BO-4,Phua Mei Lin,0.0,control (board/veto arrangements per the shareholders' agreement; no registrable shareholding),SG,1983-02-23
+CIF-4623586,BO-1,Toh Kah Seng,26.9,direct,SG,1954-09-22
+CIF-4623586,BO-2,Ong Zhen Lun,26.5,direct,SG,1965-02-18
+CIF-4623586,BO-3,Goh Beng De,26.2,direct,SG,1978-10-10
+CIF-4697614,BO-1,Tamilselvan s/o Rajendran,47.2,direct,PH,2000-06-18
+CIF-4697614,BO-2,Khoo Pei Yun,45.4,direct,SG,1973-09-26
+CIF-4716080,BO-1,Leong Bee Heng,29.1,direct,SG,1986-12-23
+CIF-4716080,BO-2,Foo Pei Wen,49.4,direct,PH,1978-12-26
+CIF4731134,BO-1,Sim Hock Yang,26.8,direct,SG,2000-05-04
+CIF4731134,BO-2,Lau Yi Ling,52.6,direct,SG,1963-05-12
+CIF4804809,BO-1,Mohamed Ridzwan bin Zainal,26.2,direct,SG,1986-04-18
+CIF4804809,BO-2,Neo Jia Hao,27.5,direct,SG,1986-06-24
+CIF4804809,BO-3,Teo Xin Yi,26.4,direct,SG,1996-10-16
+CIF-4833838,BO-1,Tan Zhi Hao,30.5,direct,SG,1982-03-23
+CIF-4833838,BO-2,Koh Beng Qi,58.4,direct,SG,1998-10-13
+CIF-4840392,BO-1,Neo Xin Yao,49.1,direct,MY,2001-01-19
+CIF-4840392,BO-2,Yeo Chee Meng,42.8,direct,SG,1976-06-22
+CIF-4840575,BO-1,Marlina binte Talib,30.8,direct,MY,1956-04-17
+CIF-4840575,BO-2,Ganesh s/o Subramaniam,51.9,direct,SG,1974-02-12
+CIF4920551,BO-1,Norazmi bin Aziz,26.5,direct,SG,1957-08-17
+CIF4920551,BO-2,Ng Bee Choo,39.5,direct,SG,1997-06-19
+4955333,BO-1,Ang Xiu Moi,35.2,direct,SG,1989-06-22
+4955333,BO-2,Toh Xin Yao,45.0,direct,MY,1961-05-19
+CIF-4976888,BO-1,Quek Li Min,34.6,direct,SG,2002-01-01
+CIF-4976888,BO-2,Phua Yi Hao,29.6,direct,SG,1981-02-24
+CIF-4976888,BO-3,Neo Yi Ling,28.6,direct,SG,1985-06-06
+CIF-4976888,BO-4,Amirul Hakim bin Osman,0.0,control (board/veto arrangements per the shareholders' agreement; no registrable shareholding),ID,1956-07-21
+CIF-4990354,BO-1,Cheng Bee Choo,30.9,direct,SG,1968-01-06
+CIF-4990354,BO-2,Ho Poh Sheng,32.8,direct,MY,1958-04-18
+5046302,BO-1,Goh Geok Lin,26.7,direct,SG,1970-09-17
+5046302,BO-2,Wee Kai Wen,26.1,direct,SG,1996-04-10
+5046302,BO-3,Gan Geok Song,27.4,direct,GB,2001-05-05
+CIF5073106,BO-1,Poh Hui Min,38.0,direct,SG,1971-01-26
+CIF5073106,BO-2,Mohan s/o Arumugam,53.7,direct,SG,2000-11-28
+5076210,BO-1,Vani d/o Krishnan,27.2,direct,SG,1980-12-25
+5076210,BO-2,Ang Yi Wen,27.7,direct,SG,1973-11-10
+5076210,BO-3,Koh Xin Teik,26.2,direct,SG,1965-01-27
+5076539,BO-1,Priya d/o Letchmanan,26.2,direct,AU,1987-06-21
+5076539,BO-2,Ho Xin Huat,26.0,direct,SG,1974-04-27
+5076539,BO-3,Cheng Zhen Yu,26.5,direct,SG,1991-11-19
+CIF-5078930,BO-1,Chan Hui Ling,44.9,direct,SG,1981-01-14
+CIF-5078930,BO-2,Ang Jia Wen,26.8,direct,SG,2000-11-01
+CIF-5082790,BO-1,Lim Zhi Kai,29.9,direct,SG,1987-08-03
+CIF-5082790,BO-2,Sim Kah Heng,27.5,indirect via Crestwell Property Consultants Pte. Ltd. (0.78 x 35.3% = 27.5%),SG,1996-09-19
+CIF-5091504,BO-1,Sim Xin Yun,34.3,direct,SG,2002-06-27
+CIF-5091504,BO-2,Soh Ah Kuan,51.7,direct,SG,2002-08-10
+CIF5107649,BO-1,Neo Kah Ting,27.0,direct,SG,1997-11-27
+CIF5107649,BO-2,Chia Jian Choo,26.1,direct,SG,1962-06-09
+CIF5107649,BO-3,Kwek Wan Yang,26.3,direct,SG,1963-06-18
+CIF-5178613,BO-1,Gan Sock Cher,31.8,direct,SG,1991-04-15
+CIF-5178613,BO-2,Haikal bin Rashid,42.3,direct,SG,1956-09-02
+CIF5180077,BO-1,Balqis binte Omar,45.3,direct,SG,2005-01-26
+CIF5180077,BO-2,Foo Su Choo,35.1,direct,MY,1955-01-06
+CIF-5192636,BO-1,Ho Zhen Yu,27.2,direct,SG,1997-07-13
+CIF-5192636,BO-2,Sharmila d/o Doraisamy,26.4,direct,SG,2003-10-04
+CIF-5192636,BO-3,Yap Shu Hoon,26.2,direct,SG,1980-11-11
+CIF-5214358,BO-1,Chong Pei Eng,36.9,direct,SG,2004-12-19
+CIF-5214358,BO-2,Wong Xin Yi,46.9,direct,SG,1962-11-07
+CIF-5221141,BO-1,Gan Cheng Herng,26.1,direct,SG,1967-04-03
+CIF-5221141,BO-2,Farah Nadia binte Ramli,26.8,direct,SG,1979-07-12
+CIF-5221141,BO-3,Leong Kai Feng,33.9,direct,SG,1978-10-15
+CIF-5244720,BO-1,Sim Xin Lin,49.2,direct,SG,1989-10-24
+CIF-5244720,BO-2,Aqil bin Karim,33.2,direct,SG,2003-06-02
+CIF5246489,BO-1,Chan Yi Teik,33.9,direct,SG,1955-04-27
+CIF5246489,BO-2,Tan Xiu Juan,40.1,direct,SG,1960-04-23
+CIF-5286455,BO-1,Neo Beng Shan,28.7,direct,SG,1959-02-18
+CIF-5286455,BO-2,Koh Lay Quan,26.1,direct,SG,1964-12-03
+CIF-5286455,BO-3,Seah Gek Fang,29.0,direct,SG,1963-11-24
+5290008,BO-1,Chia Li Ping,30.2,direct,MY,1990-12-01
+5290008,BO-2,Ang Xin Ming,26.3,direct,SG,1989-01-04
+5290008,BO-3,Ho Eng Huat,26.7,direct,SG,1989-07-14
+5290008,BO-4,Rohana binte Yusof,0.0,control (board/veto arrangements per the shareholders' agreement; no registrable shareholding),MY,1965-03-10
+CIF-5376880,BO-1,Toh Chin Wai,36.1,direct,SG,1994-02-27
+CIF-5376880,BO-2,Seah Kok Yang,57.3,direct,SG,2005-02-24
+CIF5409154,BO-1,Chong Liang Wei,27.8,direct,SG,1964-05-24
+CIF5409154,BO-2,Tan Zhen Huat,64.0,direct,SG,1955-04-04
+CIF-5419967,BO-1,Komala d/o Subramaniam,32.2,direct,SG,1992-04-18
+CIF-5419967,BO-2,Toh Sock Ling,55.5,direct,SG,1996-08-12
+CIF-5463068,BO-1,Koh Jun Wei,28.0,direct,SG,1966-09-13
+CIF-5463068,BO-2,Taufik bin Jamil,26.1,direct,SG,1985-07-03
+CIF-5463068,BO-3,Low Yen En,39.0,direct,IN,1973-12-21
+5477531,BO-1,Sim Zhi Kai,43.6,direct,SG,1984-12-18
+5477531,BO-2,Foo Bee Choo,34.9,indirect via Windmere Novelty Trading Pte. Ltd. (0.88 x 39.7% = 34.9%),SG,1993-10-18
+CIF-5499892,BO-1,Koh Yong Qiang,32.8,direct,SG,2003-03-25
+CIF-5499892,BO-2,Ho Chee Meng,45.6,indirect via Palmgrove Holidays Pte Ltd (0.84 x 54.3% = 45.6%),SG,1981-05-06
+5501470,BO-1,Neo Zhi Wei,33.9,direct,SG,1977-09-01
+5501470,BO-2,Fiona Lockhart,52.8,direct,SG,1973-07-20
+CIF-5506753,BO-1,Gan Hock Meng,42.7,direct,MY,1963-03-18
+CIF-5506753,BO-2,Shakirah binte Wahab,43.9,direct,SG,1974-02-25
+CIF-5507811,BO-1,Shahrul bin Abdullah,26.8,direct,MY,1954-09-26
+CIF-5507811,BO-2,Poh Bee Yi,33.2,direct,MY,1994-07-17
+CIF-5507811,BO-3,Toh Wei Har,26.4,direct,SG,1982-03-26
+CIF-5507811,BO-4,Heng Mei Ling,0.0,control (board/veto arrangements per the shareholders' agreement; no registrable shareholding),SG,1989-03-05
+CIF-5524238,BO-1,Poh Siew Teik,40.8,direct,CN,1973-03-23
+CIF-5524238,BO-2,Phua Chee Shan,39.4,direct,SG,2001-11-27
+CIF-5546218,BO-1,Soh Soon Heng,26.7,direct,MY,1964-07-14
+CIF-5546218,BO-2,Tay Mei Neo,56.1,direct,SG,1996-04-26
+5561856,BO-1,Teo Teck Guan,39.6,direct,SG,1969-09-20
+5561856,BO-2,Goh Hock Choo,53.9,direct,SG,1985-07-01
+CIF-5580435,BO-1,Yap Zhi Ping,51.6,direct,SG,1964-03-16
+CIF-5580435,BO-2,Yap Su Huat,42.2,direct,SG,1995-05-05
+CIF-5581780,BO-1,Meena d/o Jayabalan,28.1,direct,MY,1961-06-25
+CIF-5581780,BO-2,Chew Yi Ling,26.4,direct,MY,1980-03-12
+CIF-5581780,BO-3,Heng Kai Xuan,26.7,direct,SG,1983-11-17
+CIF-5618887,BO-1,Wong Chee Yi,41.0,direct,SG,1973-06-16
+CIF-5618887,BO-2,Tan Geok Lin,36.4,direct,SG,1972-05-04
+CIF5625064,BO-1,Mohan s/o Nathan,31.5,direct,SG,1963-11-13
+CIF5625064,BO-2,Ang Pei Leng,26.8,indirect via Riverstone Freight Services Pte Ltd (0.83 x 32.3% = 26.8%),MY,1997-08-02
+CIF5638537,BO-1,Quek Jun Hao,28.9,direct,MY,1981-09-28
+CIF5638537,BO-2,Teo Wan Wen,64.3,direct,SG,1976-01-20
+5641819,BO-1,Yap Liang Fang,47.0,direct,SG,1985-11-27
+5641819,BO-2,Khoo Wei Jie,43.6,direct,MY,1986-07-04
+CIF-5706473,BO-1,Chua Chin Hui,26.4,direct,SG,2001-10-25
+CIF-5706473,BO-2,Ho Geok An,58.9,direct,SG,1970-12-17
+CIF5732157,BO-1,Chong Soon Heng,48.7,direct,SG,1974-10-19
+CIF5732157,BO-2,Komala d/o Krishnan,31.0,direct,SG,1993-04-20
+CIF5759842,BO-1,Kwek Beng Ming,47.1,direct,SG,1974-12-19
+CIF5759842,BO-2,Chew Zhi Wei,27.6,direct,SG,1971-04-07
+5760254,BO-1,Poh Zhi Heng,35.6,direct,SG,1983-11-23
+5760254,BO-2,Low Guo Yu,43.5,direct,SG,1969-03-24
+CIF-5855027,BO-1,Pang Bee Yun,51.8,direct,SG,2000-02-16
+CIF-5855027,BO-2,Ng Wan Hao,38.9,direct,SG,1954-04-23
+CIF-5859941,BO-1,Kwek Mei Lin,50.1,direct,SG,1990-02-07
+CIF-5859941,BO-2,Aqil bin Talib,28.1,direct,MY,1978-04-12
+CIF-5868047,BO-1,Siti Zubaidah binte Latif,37.7,direct,SG,1996-07-20
+CIF-5868047,BO-2,Yap Li Hoon,40.7,direct,SG,1996-04-11
+5891672,BO-1,Soh Kok Wai,26.4,direct,SG,1982-08-23
+5891672,BO-2,Aina Sofea binte Mansor,64.7,direct,MY,1996-06-06
+CIF-5900372,BO-1,Pravin s/o Krishnamurthy,28.1,direct,SG,1957-11-13
+CIF-5900372,BO-2,Soh Kok Qi,34.8,direct,SG,1989-07-07
+CIF-5900372,BO-3,Goh Zhen Lin,29.6,direct,SG,1956-08-14
+CIF5902897,BO-1,Seah Geok Kim,48.9,direct,SG,1971-10-12
+CIF5902897,BO-2,Chong Xiu Juan,29.6,direct,SG,1962-12-02
+5928737,BO-1,Teo Yi Hui,30.8,direct,SG,2001-05-23
+5928737,BO-2,Low Poh Har,48.1,indirect via Simei Grove Property Consultants Pte. Ltd. (0.90 x 53.5% = 48.1%),GB,2003-07-28
+5954240,BO-1,Low Hock Wei,30.5,direct,SG,1971-04-24
+5954240,BO-2,Kwek Zhen Juan,31.3,direct,SG,2002-11-23
+5954240,BO-3,Lim Kah Sheng,26.3,direct,SG,2003-04-11
+CIF-5972637,BO-1,Fauzi bin Saad,45.4,direct,MY,1978-05-25
+CIF-5972637,BO-2,Kwek Kok Juan,47.4,direct,SG,1976-12-12
+5973131,BO-1,Amirul Hakim bin Rahman,26.0,direct,SG,1975-12-25
+5973131,BO-2,Quek Kok Heng,26.2,direct,SG,1993-03-08
+5973131,BO-3,Chong Sock Yang,27.3,direct,SG,1998-07-05
+CIF-6024721,BO-1,Chua Teck Herng,29.7,direct,SG,1980-09-10
+CIF-6024721,BO-2,Quek Hock De,47.3,direct,SG,1957-01-05
+CIF-6034233,BO-1,Soh Siew Lian,26.6,direct,MY,1969-09-01
+CIF-6034233,BO-2,Chan Yen Siong,54.9,direct,SG,2002-05-27
+6056653,BO-1,Low Xiu Yao,30.2,direct,SG,1975-08-03
+6056653,BO-2,Soh Lay Zhen,30.4,direct,SG,1964-09-08
+6058221,BO-1,Siti Nurhaliza binte Salleh,28.5,direct,SG,1972-04-12
+6058221,BO-2,Loh Li Juan,26.0,direct,SG,1981-03-09
+6058221,BO-3,Low Siew Ting,26.3,direct,SG,1954-06-17
+CIF-6073881,BO-1,Lim Wan Ling,27.4,direct,SG,1981-03-06
+CIF-6073881,BO-2,Seah Ming Fang,29.4,direct,SG,1972-11-25
+CIF-6073881,BO-3,Adrian Ravensworth,28.2,direct,SG,1968-02-16
+CIF-6125362,BO-1,Sim Ming Wei,26.2,direct,MY,1983-10-10
+CIF-6125362,BO-2,Lau Bee Wei,26.1,direct,CN,2001-10-08
+CIF-6125362,BO-3,Gan Jian Hong,26.6,direct,SG,1993-04-26
+CIF6128969,BO-1,Lau Xin Yi,29.2,direct,SG,1973-11-03
+CIF6128969,BO-2,Chua Jia Cheng,26.0,direct,SG,1994-12-07
+CIF6128969,BO-3,Ng Jia Neo,26.5,direct,SG,2002-10-09
+CIF6158887,BO-1,Quek Liang Cher,30.8,direct,SG,1982-03-23
+CIF6158887,BO-2,Lim Soon Lian,27.4,direct,SG,1989-03-08
+CIF6158887,BO-3,Neo Bee Wei,26.2,direct,MY,1979-06-06
+CIF-6167233,BO-1,Wee Xin Yao,40.3,direct,SG,1957-04-27
+CIF-6167233,BO-2,Toh Poh Sheng,30.1,indirect via Merbau Associates Pte. Ltd. (0.83 x 36.3% = 30.1%),MY,1960-10-28
+6179215,BO-1,Koh Zhi Hao,27.1,direct,SG,1996-11-07
+6179215,BO-2,Soh Wan Kai,26.3,indirect via Orchid Vale Provision Shop Pte Ltd (0.79 x 33.3% = 26.3%),MY,1973-10-15
+6179215,BO-3,Chia Kok Min,28.2,direct,SG,1970-11-06
+CIF6200077,BO-1,Koh Xiu En,26.1,direct,SG,2004-09-17
+CIF6200077,BO-2,Heng Zhi Neo,26.7,direct,SG,2002-04-10
+CIF6200077,BO-3,Priya d/o Velu,26.4,direct,SG,1954-12-26
+CIF6200862,BO-1,Izzati binte Nasir,27.9,direct,MY,1988-10-01
+CIF6200862,BO-2,Chia Beng Sheng,48.1,direct,SG,1975-03-02
+CIF-6228378,BO-1,Foo Beng Siong,27.8,direct,SG,1968-06-19
+CIF-6228378,BO-2,Zulaikha binte Jaafar,64.6,direct,SG,1982-12-09
+6235577,BO-1,Wee Hui Yun,26.9,direct,SG,1958-02-27
+6235577,BO-2,Yap Boon Juan,26.2,direct,MY,2004-10-28
+6235577,BO-3,Lau Chee Feng,27.0,direct,SG,1967-01-11
+CIF6264139,BO-1,Wong Zhi Peng,26.4,direct,SG,1989-11-03
+CIF6264139,BO-2,Wee Pei Shan,31.6,direct,ID,1994-07-08
+CIF6264139,BO-3,Gan Bee Yun,28.4,direct,SG,1994-10-12
+CIF6276594,BO-1,Yap Geok Song,45.7,direct,SG,1983-12-03
+CIF6276594,BO-2,Nadiah binte Rahman,33.5,direct,CN,1983-08-13
+6291220,BO-1,Ng Zhi Kuan,26.0,direct,SG,1981-01-27
+6291220,BO-2,Foo Jia Hao,27.2,indirect via Vantagepoint Convenience Retail Pte Ltd (0.85 x 32.0% = 27.2%),SG,1985-11-07
+6291220,BO-3,Heng Yen Yang,26.6,direct,SG,1981-11-23
+6326187,BO-1,Cheng Yong Lun,32.5,direct,SG,1990-01-17
+6326187,BO-2,Foo Cheng Ming,52.0,direct,SG,1990-02-09
+CIF-6328504,BO-1,Sng Li Ping,26.6,direct,SG,2002-09-04
+CIF-6328504,BO-2,Yap Chin Hoon,32.0,indirect via Straitline Port Services Pte Ltd (0.85 x 37.6% = 32.0%),AU,1967-10-26
+CIF-6330704,BO-1,Wee Pei Keong,27.5,direct,SG,1959-02-25
+CIF-6330704,BO-2,Chan Yen Hao,26.4,direct,SG,2004-07-23
+CIF-6330704,BO-3,Wee Mei Kai,26.4,direct,SG,1983-11-03
+CIF6331899,BO-1,Sim Hui Zhen,28.1,direct,SG,1959-07-07
+CIF6331899,BO-2,Ahmad Danial bin Mansor,28.6,direct,SG,1990-04-23
+CIF6331899,BO-3,Yeo Su Guan,27.0,direct,SG,1970-11-27
+6346111,BO-1,Loh Beng Kai,35.5,direct,SG,1956-09-22
+6346111,BO-2,Yeo Geok Xuan,27.5,direct,SG,1991-01-26
+6346111,BO-3,Toh Wan Ling,27.0,direct,SG,1992-02-26
+CIF6389010,BO-1,Pang Li Meng,30.9,direct,SG,1981-03-18
+CIF6389010,BO-2,Quek Zhi Wei,38.1,direct,SG,1962-05-20
+CIF6401147,BO-1,Goh Kok Qiang,26.4,direct,SG,2004-07-17
+CIF6401147,BO-2,Quek Mei Xiang,26.7,direct,SG,1996-09-09
+CIF6401147,BO-3,Izzati binte Hamid,26.3,direct,SG,1967-01-08
+CIF-6401201,BO-1,Aina Sofea binte Ramli,38.8,direct,SG,1990-12-06
+CIF-6401201,BO-2,Hari s/o Govindasamy,26.6,direct,SG,1959-07-02
+6487236,BO-1,Toh Hui Min,28.1,direct,SG,1954-06-03
+6487236,BO-2,Ridhwan bin Jamil,41.7,direct,MY,1986-08-04
+CIF-6511987,BO-1,Heng Kai Peng,28.0,direct,SG,1954-02-17
+CIF-6511987,BO-2,Chong Jun Siong,39.7,indirect via Amberline Digital Labs Pte Ltd (0.75 x 52.9% = 39.7%),SG,1962-11-14
+CIF-6516795,BO-1,Chong Kai Wen,38.7,direct,SG,1988-12-01
+CIF-6516795,BO-2,Sharmila d/o Velu,26.1,direct,SG,1955-05-03
+CIF-6516795,BO-3,Gan Sock Cheng,29.2,direct,SG,1967-02-03
+CIF-6575396,BO-1,Loh Mei Huat,49.9,direct,SG,1979-05-04
+CIF-6575396,BO-2,Khoo Kok Wai,37.5,direct,SG,1958-11-23
+CIF-6577571,BO-1,Soh Chee Guan,35.0,direct,SG,1961-03-08
+CIF-6577571,BO-2,Hakim bin Kassim,57.5,direct,SG,1987-05-08
+CIF-6577963,BO-1,Phua Pei Leng,42.4,direct,SG,1967-07-04
+CIF-6577963,BO-2,Gan Hui Min,41.4,direct,SG,2004-12-11
+CIF-6578129,BO-1,Imogen Mercer,45.0,direct,SG,1969-10-27
+CIF-6578129,BO-2,Lakshmi d/o Shanmugam,34.1,direct,SG,1979-06-03
+CIF6605623,BO-1,Quek Lay Qi,27.5,direct,SG,1957-07-26
+CIF6605623,BO-2,Yap Bee Wai,32.3,direct,SG,1963-04-06
+CIF-6637765,BO-1,Selvam s/o Thirumalai,28.0,direct,SG,1991-02-22
+CIF-6637765,BO-2,Ganesh s/o Sivalingam,27.2,direct,SG,1973-08-07
+CIF-6637765,BO-3,Tan Guo Herng,29.3,direct,SG,1954-07-21
+CIF6666998,BO-1,Chua Teck Heng,47.6,direct,SG,1983-09-04
+CIF6666998,BO-2,Chia Su Lin,31.6,indirect via Tanjong Crest Builders Pte. Ltd. (0.83 x 38.1% = 31.6%),SG,1978-07-18
+CIF6667599,BO-1,Koh Su Lin,40.4,direct,MY,2000-08-21
+CIF6667599,BO-2,Neo Wan Ling,45.6,direct,SG,1960-07-24
+CIF-6673158,BO-1,Seah Xin Yao,29.2,direct,SG,1966-05-12
+CIF-6673158,BO-2,Chia Zhi Song,28.2,direct,SG,1983-02-01
+CIF6681150,BO-1,Kwek Kah Min,27.9,direct,SG,1998-03-03
+CIF6681150,BO-2,Koh Soon Xuan,28.3,direct,SG,1969-03-27
+CIF6681150,BO-3,Chia Li Ting,28.8,direct,SG,1972-09-03
+CIF-6693784,BO-1,Hafiz bin Karim,37.3,direct,SG,1989-06-21
+CIF-6693784,BO-2,Nadiah binte Zulkarnain,50.4,direct,SG,1977-08-06
+CIF6735952,BO-1,Seah Soon Moi,32.9,direct,MY,1960-11-25
+CIF6735952,BO-2,Foo Cheng Yao,51.1,indirect via Northbay Shipping Services Pte Ltd (0.87 x 58.7% = 51.1%),SG,1982-02-02
+CIF6739576,BO-1,Poh Kah Xiang,26.4,direct,SG,1985-06-19
+CIF6739576,BO-2,Wee Jun Herng,29.6,direct,SG,1983-02-16
+CIF6739576,BO-3,Leong Wan Xuan,28.7,direct,SG,1998-07-11
+CIF-6758043,BO-1,Teo Mei Wen,40.3,direct,SG,1996-10-18
+CIF-6758043,BO-2,Low Jia Hao,46.2,direct,SG,1979-03-15
+CIF6760272,BO-1,Pang Beng Ming,26.7,direct,SG,1999-05-12
+CIF6760272,BO-2,Loh Hui Yu,26.0,direct,SG,1983-12-22
+CIF6760272,BO-3,Lau Jian Xiang,26.2,direct,SG,1990-02-12
+CIF6760272,BO-4,Foo Geok Choo,0.0,control (board/veto arrangements per the shareholders' agreement; no registrable shareholding),SG,1980-01-26
+CIF-6762524,BO-1,Danish Irfan bin Hashim,57.8,direct,SG,1977-04-25
+CIF-6762524,BO-2,Nabil bin Sulaiman,29.5,direct,SG,1990-09-21
+CIF6770980,BO-1,Lau Soon Cher,42.8,direct,SG,1962-01-20
+CIF6770980,BO-2,Kwek Siew Lian,45.9,direct,MY,2003-05-17
+CIF-6809462,BO-1,Ho Cheng Xi,36.4,direct,SG,1956-04-14
+CIF-6809462,BO-2,Lim Mei Lin,57.6,direct,SG,2001-02-22
+CIF-6834397,BO-1,Ang Yong Kim,48.0,direct,SG,1965-06-05
+CIF-6834397,BO-2,Ho Geok Cher,38.9,direct,SG,1977-05-23
+CIF-6855565,BO-1,Tay Kok De,30.7,direct,SG,1970-01-25
+CIF-6855565,BO-2,Ang Xin Yi,27.0,direct,SG,1995-04-08
+CIF-6861711,BO-1,Neo Teck Peng,37.7,direct,SG,1985-03-11
+CIF-6861711,BO-2,Cheng Kai Hao,50.5,direct,SG,1975-07-01
+CIF6898613,BO-1,Sharmila d/o Chandran,26.4,direct,SG,1997-01-10
+CIF6898613,BO-2,Ho Poh Eng,27.0,indirect via Marina Crest Valuation Services Pte Ltd (0.84 x 32.1% = 27.0%),SG,1975-07-17
+CIF6898613,BO-3,Chong Bee Ping,26.8,direct,SG,1995-07-05
+6916002,BO-1,Quek Hock Seng,37.3,direct,SG,1959-07-15
+6916002,BO-2,Koh Mei Song,26.3,direct,SG,1968-08-21
+6916002,BO-3,Cheng Kah Xuan,26.2,direct,AU,2000-01-17
+CIF6922178,BO-1,Cheng Sock Cheng,48.8,direct,AU,1981-03-20
+CIF6922178,BO-2,Phua Zhi Wei,35.7,direct,SG,1976-12-19
+CIF6935538,BO-1,Leong Xiu Heng,43.6,direct,SG,1962-02-10
+CIF6935538,BO-2,Ang Gek Qiang,36.0,direct,MY,1991-08-26
+CIF-6942342,BO-1,Ng Zhi Kai,54.0,direct,SG,1987-10-13
+CIF-6942342,BO-2,Chan Sock Feng,30.5,direct,SG,1993-11-28
+CIF-6970165,BO-1,Yeo Teck Shan,33.5,direct,SG,1985-08-15
+CIF-6970165,BO-2,Balaji s/o Letchmanan,26.1,direct,IN,1988-03-04
+CIF-6970165,BO-3,Sim Xiu Xin,26.2,direct,MY,1971-03-12
+CIF6982227,BO-1,Kwek Chin Leng,27.5,direct,SG,1986-11-06
+CIF6982227,BO-2,Foo Ming Fang,52.3,direct,SG,1959-09-20
+CIF-6992277,BO-1,Tay Cheng Meng,30.5,direct,SG,1978-12-06
+CIF-6992277,BO-2,Munirah binte Zainal,46.7,direct,SG,1955-07-20
+CIF-7024948,BO-1,Sofiah binte Yusof,27.7,direct,SG,1979-05-11
+CIF-7024948,BO-2,Heng Lay Huat,43.3,indirect via Changi Point Kitchen Pte. Ltd. (0.88 x 49.2% = 43.3%),SG,1964-01-28
+CIF-7042001,BO-1,Khairul Imran bin Ibrahim,26.4,direct,SG,2005-08-06
+CIF-7042001,BO-2,Chua Yi Ling,26.1,direct,SG,1964-12-09
+CIF-7042001,BO-3,Hari s/o Raman,26.3,direct,SG,2003-01-06
+CIF-7043273,BO-1,Chan Liang Wei,31.5,direct,PH,1998-01-12
+CIF-7043273,BO-2,Kwek Wei Jie,25.9,indirect via Island Ridge Software Pte. Ltd. (0.81 x 32.0% = 25.9%),SG,2001-12-23
+CIF-7043273,BO-3,Quek Yen Ling,26.3,direct,SG,1999-11-18
+CIF-7064030,BO-1,Khoo Kok Moi,32.2,direct,SG,1996-07-20
+CIF-7064030,BO-2,Sng Ming Yang,28.6,indirect via Oakfield Capital Holdings Pte. Ltd. (0.83 x 34.4% = 28.6%),SG,2003-08-19
+CIF7065870,BO-1,Balaji s/o Jayabalan,38.1,direct,SG,1958-04-13
+CIF7065870,BO-2,Ong Xiu Ling,54.6,direct,SG,1974-11-17
+7072318,BO-1,Sng Chin Ling,40.5,direct,SG,1959-02-13
+7072318,BO-2,Pang Jian Yun,37.7,direct,SG,1960-04-27
+CIF-7088081,BO-1,Sng Hui Guan,42.4,direct,SG,1990-05-25
+CIF-7088081,BO-2,Kwek Bee Zhen,44.8,direct,GB,1971-05-12
+CIF7108686,BO-1,Lau Sock Fang,46.8,direct,SG,1978-06-01
+CIF7108686,BO-2,Poh Pei Hao,44.7,direct,MY,1959-04-27
+CIF-7111360,BO-1,Sim Jun Kim,36.1,direct,SG,1974-09-18
+CIF-7111360,BO-2,Pang Li Ping,26.7,direct,SG,1997-06-07
+CIF-7111360,BO-3,Lau Kai Feng,27.3,direct,SG,1976-05-05
+7112841,BO-1,Quek Ah Teik,26.4,direct,MY,1994-01-17
+7112841,BO-2,Goh Zhi Lun,27.8,direct,MY,1975-12-18
+7112841,BO-3,Soh Ming Yi,28.6,direct,SG,2002-04-04
+CIF-7145811,BO-1,Koh Shu Yu,47.8,direct,SG,1998-04-20
+CIF-7145811,BO-2,Lau Yi De,32.1,direct,SG,2005-04-18
+7171383,BO-1,Pang Kok Chye,34.0,direct,SG,1994-04-21
+7171383,BO-2,Teo Teck Eng,26.2,indirect via Coralbay Technologies Pte. Ltd. (0.81 x 32.4% = 26.2%),SG,1988-05-18
+CIF7219849,BO-1,Teo Zhi Herng,29.9,direct,SG,1955-06-17
+CIF7219849,BO-2,Wong Yi Ling,51.3,direct,SG,1984-08-12
+CIF-7226249,BO-1,Marcus Yeo Jin Han,60.0,direct,SG,1984-06-02
+CIF-7226249,BO-2,Farhana binte Rashid,40.0,direct,SG,1986-12-17
+CIF-7244596,BO-1,Geetha d/o Chandran,54.3,direct,PH,1961-01-28
+CIF-7244596,BO-2,Yeo Shu Hui,29.7,direct,SG,1996-02-21
+CIF7265454,BO-1,Rafidah binte Saad,50.3,direct,SG,1959-02-24
+CIF7265454,BO-2,Goh Yong Song,34.6,direct,SG,2000-06-13
+7266005,BO-1,Chan Xiu Cher,53.5,direct,SG,2004-01-18
+7266005,BO-2,Imran bin Jaafar,38.4,direct,SG,1993-05-18
+CIF-7269356,BO-1,Sumathi d/o Vellu,47.8,direct,MY,1965-06-15
+CIF-7269356,BO-2,Ang Soon Heng,30.2,direct,MY,1970-11-08
+CIF-7285325,BO-1,Poh Jia Har,32.0,direct,SG,2003-01-11
+CIF-7285325,BO-2,Indrani d/o Shanmugam,28.6,direct,SG,2004-03-21
+CIF-7285325,BO-3,Manoj s/o Ramasamy,26.5,direct,SG,1973-07-18
+CIF-7298325,BO-1,Soh Yong Xiang,51.1,direct,MY,1987-01-14
+CIF-7298325,BO-2,Phua Wan Ling,33.2,direct,SG,1966-03-17
+7305801,BO-1,Chan Wei Sheng,26.1,direct,SG,1995-03-10
+7305801,BO-2,Phua Kai Teik,51.7,indirect via Orchid Vale Technologies Pte Ltd (0.85 x 60.8% = 51.7%),SG,1968-11-28
+CIF-7312570,BO-1,Cheng Liang Qi,52.5,direct,SG,1957-09-27
+CIF-7312570,BO-2,Sim Lay Sheng,34.6,direct,SG,1992-06-01
+7329159,BO-1,Ho Wan Cheng,26.1,direct,SG,2001-02-13
+7329159,BO-2,Poh Beng Siong,66.7,direct,SG,1971-12-16
+CIF-7334040,BO-1,Quek Mei Ting,51.7,direct,SG,1996-04-01
+CIF-7334040,BO-2,Yeo Bee Yao,37.2,direct,IN,1994-01-07
+CIF7359969,BO-1,Komala d/o Balakrishnan,32.0,direct,SG,2001-01-20
+CIF7359969,BO-2,Lee Kah Har,52.4,direct,IN,1954-02-10
+CIF7370886,BO-1,Vanessa Galloway,44.3,direct,SG,2004-05-12
+CIF7370886,BO-2,Yap Yong Ping,35.7,direct,SG,1974-05-24
+CIF-7415745,BO-1,Qistina binte Hassan,38.5,direct,SG,1974-01-18
+CIF-7415745,BO-2,Marlina binte Omar,27.0,indirect via Golden Meadow F&B Pte Ltd (0.83 x 32.5% = 27.0%),SG,2003-11-14
+CIF-7469459,BO-1,Wong Jun Kai,47.9,direct,SG,2000-02-05
+CIF-7469459,BO-2,Suresh s/o Sivalingam,39.7,indirect via Stonebridge Builders Pte. Ltd. (0.89 x 44.6% = 39.7%),AU,1986-02-02
+CIF-7471012,BO-1,Wee Poh Song,27.2,direct,PH,1982-01-08
+CIF-7471012,BO-2,Duncan Ashworth,25.7,indirect via Highpoint Consulting Pte. Ltd. (0.80 x 32.1% = 25.7%),SG,1999-05-05
+CIF-7471012,BO-3,Leong Kai Wen,26.2,direct,SG,1999-10-19
+CIF-7508310,BO-1,Sng Jia Hao,29.1,direct,SG,1967-11-12
+CIF-7508310,BO-2,Ng Siew Lun,50.3,direct,SG,1959-10-21
+CIF-7524327,BO-1,Tay Bee Yu,26.6,direct,SG,1995-09-23
+CIF-7524327,BO-2,Teo Bee Xuan,26.5,direct,SG,1981-09-28
+CIF-7524327,BO-3,Quek Geok Qi,26.5,direct,SG,1966-01-26
+CIF7551462,BO-1,Heng Jia Wen,35.0,direct,SG,1963-08-04
+CIF7551462,BO-2,Aqil bin Ismail,29.9,direct,SG,1957-01-10
+CIF7551462,BO-3,Poh Zhi Shan,27.9,direct,SG,1980-09-22
+CIF7639571,BO-1,Nur Aiman bin Jamil,50.8,direct,MY,1986-03-19
+CIF7639571,BO-2,Aqil bin Jamil,40.6,direct,GB,1961-09-19
+CIF7655928,BO-1,Yeo Li Ting,42.1,direct,SG,1991-02-17
+CIF7655928,BO-2,Mohan s/o Ganesan,44.2,direct,SG,1991-01-04
+7667142,BO-1,Yeo Beng Yi,52.6,direct,SG,1997-08-01
+7667142,BO-2,Hafiz bin Yaakob,30.4,direct,SG,1987-01-28
+CIF7672945,BO-1,Laura Norwood,32.6,direct,SG,2003-11-05
+CIF7672945,BO-2,Leong Sock Cher,48.9,direct,SG,2003-12-10
+CIF-7682099,BO-1,Lau Hui Ling,29.4,direct,ID,1962-04-25
+CIF-7682099,BO-2,Yeo Mei Lin,53.5,direct,SG,1979-05-19
+CIF-7689423,BO-1,Kwek Hui Yu,58.4,direct,SG,2004-07-23
+CIF-7689423,BO-2,Yeo Sock Hui,27.2,direct,SG,1956-03-06
+CIF7738568,BO-1,Amirah binte Sulaiman,26.9,direct,SG,1961-04-21
+CIF7738568,BO-2,Wong Soon Heng,26.0,direct,SG,1982-01-12
+CIF7738568,BO-3,Kumar s/o Ganesan,26.3,direct,ID,1966-11-10
+CIF-7778099,BO-1,Lau Shu Wen,39.7,direct,SG,1988-08-06
+CIF-7778099,BO-2,Yeo Pei Wen,39.7,direct,SG,1969-12-03
+CIF-7781260,BO-1,Chia Gek Heng,27.1,direct,SG,2002-08-01
+CIF-7781260,BO-2,Shahrul bin Ibrahim,58.8,direct,SG,1988-04-21
+7782607,BO-1,Chong Li Yun,41.7,direct,SG,1995-12-10
+7782607,BO-2,Seah Hui Min,37.3,direct,IN,1974-06-11
+CIF-7791084,BO-1,Seah Chin Fang,26.7,direct,GB,1978-04-28
+CIF-7791084,BO-2,Chong Lay Chye,26.6,direct,SG,1969-02-07
+CIF-7791084,BO-3,Wong Bee Peng,27.0,direct,SG,1995-09-07
+7830307,BO-1,Loh Jun Wei,42.1,direct,SG,1982-04-26
+7830307,BO-2,Rafidah binte Osman,41.7,direct,SG,1995-01-27
+CIF7875855,BO-1,Sng Chin Yun,34.8,direct,SG,1955-06-06
+CIF7875855,BO-2,Quek Guo Kai,30.6,direct,GB,1973-03-10
+CIF-7884601,BO-1,Sim Yi Xuan,50.0,direct,SG,1993-06-15
+CIF-7884601,BO-2,Aqil bin Bakar,36.5,direct,MY,1959-04-02
+CIF-7933542,BO-1,Soh Zhi Song,26.7,direct,SG,1966-06-08
+CIF-7933542,BO-2,Foo Cheng Xi,27.1,direct,SG,1977-05-28
+CIF-7933542,BO-3,Faridzuan bin Rahman,26.3,direct,SG,1961-02-24
+CIF-8004785,BO-1,Heng Xin Teik,27.5,direct,SG,1979-06-09
+CIF-8004785,BO-2,Cheng Wan Teik,28.2,indirect via Pan-Straits Consulting Pte Ltd (0.88 x 32.0% = 28.2%),SG,2001-07-25
+CIF-8004785,BO-3,Koh Zhi Lin,26.3,direct,SG,1989-02-11
+CIF-8006327,BO-1,Khairul Imran bin Wahab,34.0,direct,CN,1991-04-11
+CIF-8006327,BO-2,Mohan s/o Shanmugam,59.9,direct,SG,1987-04-14
+CIF-8011714,BO-1,Yeo Poh Neo,28.2,direct,SG,1994-12-03
+CIF-8011714,BO-2,Chua Teck Meng,33.5,direct,SG,1970-11-18
+CIF8027913,BO-1,Heng Ming Xun,27.8,direct,ID,1991-06-18
+CIF8027913,BO-2,Low Geok Heng,47.2,direct,SG,1964-07-03
+CIF8033343,BO-1,Loh Lay Xuan,40.8,direct,ID,2004-09-20
+CIF8033343,BO-2,Heng Cheng Hoon,51.5,direct,SG,1964-02-08
+CIF8050077,BO-1,Selvam s/o Muthu,36.0,direct,GB,1973-10-12
+CIF8050077,BO-2,Ng Chee Wai,58.0,direct,SG,1974-08-21
+8101632,BO-1,Low Cheng Xi,53.3,direct,SG,1995-07-13
+8101632,BO-2,Chia Zhen Song,36.5,direct,PH,1986-01-07
+CIF-8105359,BO-1,Amirah binte Mansor,28.8,direct,SG,1958-01-01
+CIF-8105359,BO-2,Sim Wan Qi,50.3,direct,SG,1981-03-01
+CIF8113081,BO-1,Lim Cheng Kim,40.4,direct,SG,1973-10-24
+CIF8113081,BO-2,Sarah Osborne,41.0,direct,SG,1954-09-25
+8113983,BO-1,Low Xiu Jie,50.9,direct,CN,1992-12-27
+8113983,BO-2,Seah Wan Ling,41.5,direct,SG,1993-05-24
+CIF-8115214,BO-1,Anna Harrington,31.8,direct,SG,1999-05-07
+CIF-8115214,BO-2,Teo Ming Yao,61.3,direct,SG,2002-07-12
+CIF8120224,BO-1,Low Kai Feng,26.3,direct,SG,1968-04-21
+CIF8120224,BO-2,Husna binte Hashim,27.7,indirect via Pan-Straits Agri Trading Pte. Ltd. (0.86 x 32.2% = 27.7%),SG,2001-01-19
+CIF8120224,BO-3,Ang Cheng Jie,26.3,direct,SG,1978-05-15
+CIF8122295,BO-1,Nadiah binte Ibrahim,37.8,direct,SG,1974-12-20
+CIF8122295,BO-2,Ho Gek Wen,36.2,direct,GB,1973-10-09
+8140401,BO-1,Helmi bin Idris,56.5,direct,SG,2000-11-14
+8140401,BO-2,Heng Poh Heng,36.6,direct,IN,1966-12-23
+8163682,BO-1,Ho Shu Wei,34.7,direct,CN,1993-08-12
+8163682,BO-2,Leong Geok Lin,31.4,indirect via Northbay Logistics Pte. Ltd. (0.79 x 39.7% = 31.4%),MY,1981-04-13
+CIF8164410,BO-1,Nur Aiman bin Razak,31.8,direct,SG,1971-09-03
+CIF8164410,BO-2,Ong Chin Wen,29.1,direct,SG,1990-10-02
+CIF8164410,BO-3,Chua Poh Cheng,29.8,direct,SG,1964-12-06
+CIF-8193026,BO-1,Yap Hui Yang,47.5,direct,SG,1989-04-01
+CIF-8193026,BO-2,Pang Xiu Juan,39.0,direct,IN,1989-08-06
+CIF8198750,BO-1,Pang Kok Yi,49.6,direct,SG,1974-04-06
+CIF8198750,BO-2,Naresh s/o Muthu,28.3,direct,SG,2001-07-28
+CIF-8206916,BO-1,Lakshmi d/o Arumugam,53.9,direct,GB,1985-12-12
+CIF-8206916,BO-2,Soh Yi Cher,33.1,direct,SG,1961-06-05
+8227538,BO-1,Neo Zhi Herng,60.2,direct,SG,1955-03-22
+8227538,BO-2,Chan Siew Lian,26.9,direct,IN,1971-12-08
+CIF8265724,BO-1,Ong Jian Song,27.7,direct,SG,1957-07-05
+CIF8265724,BO-2,Chia Liang Wei,26.0,direct,SG,1982-06-16
+CIF8265724,BO-3,Sim Bee Zhen,26.6,direct,SG,1984-03-22
+CIF-8266615,BO-1,Loh Kah Ting,31.0,direct,SG,1978-04-04
+CIF-8266615,BO-2,Cheng Zhi Hao,31.6,direct,SG,1958-01-12
+CIF8267131,BO-1,Heng Jian Yun,44.1,direct,MY,1990-05-01
+CIF8267131,BO-2,Kamarul bin Jamil,34.7,indirect via Meadowvale Tours Pte. Ltd. (0.88 x 39.4% = 34.7%),SG,1959-09-03
+8269547,BO-1,Muhammad Irfan bin Omar,42.1,direct,SG,1963-12-21
+8269547,BO-2,Chua Wei Lun,43.2,direct,SG,1995-07-07
+CIF-8295655,BO-1,Nabil bin Saad,36.0,direct,SG,1994-05-26
+CIF-8295655,BO-2,Siti Zubaidah binte Abdullah,29.2,direct,SG,1978-07-17
+CIF8296082,BO-1,Leong Yi Hui,42.7,direct,SG,1966-09-14
+CIF8296082,BO-2,Lim Shu Qiang,46.8,direct,SG,1964-12-06
+CIF8319872,BO-1,Loh Li Seng,37.0,direct,SG,1985-05-13
+CIF8319872,BO-2,Quek Sock Lun,26.0,direct,SG,1984-09-25
+CIF8319872,BO-3,Leong Bee Eng,26.8,direct,MY,1992-08-26
+8324997,BO-1,Loh Jun Zhen,28.1,direct,SG,2001-06-14
+8324997,BO-2,Kwek Jun Wei,26.5,direct,SG,1956-08-23
+8324997,BO-3,Sim Teck Hoon,26.3,direct,SG,1993-05-16
+CIF-8325202,BO-1,Chua Geok Lin,38.7,direct,SG,1961-12-18
+CIF-8325202,BO-2,Sng Pei Wen,53.8,direct,SG,1958-01-08
+CIF-8326437,BO-1,Nadiah binte Rashid,49.7,direct,PH,1979-12-19
+CIF-8326437,BO-2,Koh Geok Kim,28.4,indirect via Windmere Consulting Pte. Ltd. (0.82 x 34.6% = 28.4%),SG,2000-02-20
+8381770,BO-1,Sng Pei Lin,32.6,direct,SG,1956-08-24
+8381770,BO-2,Usha d/o Kandasamy,32.1,direct,SG,2005-03-16
+CIF-8415274,BO-1,Chew Li An,27.2,direct,SG,1991-09-24
+CIF-8415274,BO-2,Hakim bin Ismail,27.8,direct,SG,1976-02-07
+CIF-8415274,BO-3,Ong Hock Moi,27.6,direct,SG,2003-11-12
+CIF8416237,BO-1,Koh Jun Yi,37.5,direct,SG,2000-07-09
+CIF8416237,BO-2,Oliver Ellsworth,42.7,direct,SG,1968-02-19
+CIF8416822,BO-1,Lim Su Huat,34.0,direct,SG,1993-08-11
+CIF8416822,BO-2,Tay Cheng Xin,28.4,direct,ID,1990-10-21
+CIF8416822,BO-3,Farah Nadia binte Salleh,30.1,direct,IN,1959-08-06
+CIF8473705,BO-1,Chia Li Heng,27.2,direct,CN,1998-01-27
+CIF8473705,BO-2,Tay Zhi Seng,41.8,direct,SG,1972-03-15
+CIF-8474098,BO-1,Neo Hock Sheng,28.9,direct,MY,2003-09-14
+CIF-8474098,BO-2,Tan Zhen Quan,51.2,indirect via Bukit View Property Consultants Pte. Ltd. (0.82 x 62.5% = 51.2%),SG,1989-03-26
+CIF-8476397,BO-1,Yeo Kah Moi,26.8,direct,SG,1996-08-04
+CIF-8476397,BO-2,Wee Hui Hoon,32.0,direct,SG,2003-03-25
+CIF-8476397,BO-3,Imran bin Ramli,26.2,direct,SG,1974-04-17
+CIF8496220,BO-1,Phua Geok Juan,29.8,direct,SG,1990-12-10
+CIF8496220,BO-2,Danish Irfan bin Omar,51.4,indirect via Orchid Vale Investments Pte. Ltd. (0.89 x 57.7% = 51.4%),AU,1980-04-25
+8508417,BO-1,Toh Liang Hui,33.3,direct,SG,1978-10-18
+8508417,BO-2,Goh Cheng Han,27.2,direct,SG,1968-02-09
+8508417,BO-3,Neo Shu Yao,26.2,direct,SG,1986-10-14
+8508417,BO-4,Low Poh Sheng,0.0,control (board/veto arrangements per the shareholders' agreement; no registrable shareholding),SG,1954-03-12
+CIF-8525867,BO-1,Chew Liang Wei,28.5,direct,SG,2005-01-05
+CIF-8525867,BO-2,Ang Zhi Hao,26.9,direct,SG,2002-09-22
+CIF-8525867,BO-3,Quek Siew Lian,26.3,direct,SG,1991-04-07
+CIF-8532932,BO-1,Ridhwan bin Hassan,26.1,direct,SG,1993-09-11
+CIF-8532932,BO-2,Foo Geok Lin,27.1,direct,SG,1984-10-25
+CIF-8532932,BO-3,Pang Su Lian,28.7,direct,SG,1985-08-28
+CIF-8534318,BO-1,Poh Kai Xiang,54.2,direct,SG,1993-09-21
+CIF-8534318,BO-2,Gan Wei Hui,39.4,direct,SG,1967-03-02
+8553141,BO-1,Ong Xiu Lian,47.8,direct,SG,1997-07-09
+8553141,BO-2,Azhar bin Yaakob,45.6,direct,SG,1971-05-13
+CIF-8556282,BO-1,Lee Yen Ling,27.1,direct,SG,1986-08-23
+CIF-8556282,BO-2,Munirah binte Abdullah,58.8,direct,SG,1994-10-17
+CIF-8561593,BO-1,Soh Boon Lun,36.0,direct,MY,1986-10-25
+CIF-8561593,BO-2,Khoo Mei Yi,55.7,direct,SG,1962-09-08
+CIF-8577918,BO-1,Wong Jia Ling,56.0,direct,SG,1969-10-20
+CIF-8577918,BO-2,Leong Jian Hong,35.8,direct,SG,1992-05-20
+8592623,BO-1,Low Chin Leng,29.7,direct,SG,1957-01-17
+8592623,BO-2,Poh Jun Hao,51.0,direct,AU,1966-03-21
+CIF-8611178,BO-1,Yap Hui Qi,34.6,direct,GB,1983-06-16
+CIF-8611178,BO-2,Heng Yen Teik,55.7,direct,SG,1960-04-28
+CIF8643859,BO-1,Seah Kai Xiang,30.1,direct,SG,1997-06-07
+CIF8643859,BO-2,Grant Hollingsworth,29.3,direct,SG,1955-09-23
+CIF-8644666,BO-1,Lee Wei Neo,35.5,direct,SG,1961-06-16
+CIF-8644666,BO-2,Kamarul bin Zainal,45.1,direct,SG,1978-10-03
+CIF-8685394,BO-1,Suhaila binte Abdullah,35.4,direct,SG,1978-01-04
+CIF-8685394,BO-2,Soh Beng Huat,38.6,indirect via Casuarina Shipping Services Pte Ltd (0.89 x 43.4% = 38.6%),MY,1967-06-02
+CIF-8705926,BO-1,Loh Soon Ting,26.5,direct,SG,1995-06-27
+CIF-8705926,BO-2,Loh Chin Leng,27.3,direct,SG,1955-09-01
+CIF-8705926,BO-3,Sofiah binte Jamil,26.5,direct,SG,1987-04-06
+CIF-8718326,BO-1,Yap Kai Hoon,26.7,direct,SG,2005-12-16
+CIF-8718326,BO-2,Suhaila binte Aziz,31.3,direct,SG,1975-06-23
+CIF-8718326,BO-3,Sumathi d/o Arumugam,30.3,direct,SG,2005-06-12
+CIF8746254,BO-1,Heng Soon Lin,60.5,direct,MY,2000-01-17
+CIF8746254,BO-2,Khoo Hui Yun,28.4,direct,MY,1964-07-21
+CIF-8787312,BO-1,Ng Su Lin,45.0,direct,SG,1982-02-16
+CIF-8787312,BO-2,Tan Yen Ling,33.3,direct,SG,1966-01-22
+CIF-8790056,BO-1,Phua Ah Choo,45.0,direct,SG,2001-02-26
+CIF-8790056,BO-2,Balaji s/o Subramaniam,45.1,direct,GB,1976-04-23
+CIF8790262,BO-1,Balqis binte Rahman,32.3,direct,SG,1959-10-12
+CIF8790262,BO-2,Pushpa d/o Chandran,26.6,indirect via Lakeside Management Consultants Pte. Ltd. (0.83 x 32.1% = 26.6%),SG,1995-01-26
+CIF8790262,BO-3,Chua Poh An,26.6,direct,SG,1991-02-02
+8813946,BO-1,Prakash s/o Pillai,28.4,direct,MY,1976-12-16
+8813946,BO-2,Kwek Kah Seng,52.7,direct,SG,1989-01-19
+CIF-8857092,BO-1,Haikal bin Mansor,60.2,direct,SG,1993-05-15
+CIF-8857092,BO-2,Low Zhen Hao,27.2,direct,MY,1971-10-28
+CIF-8892604,BO-1,Imogen Lockhart,30.5,direct,CN,1960-09-02
+CIF-8892604,BO-2,Kwek Wan Xiang,52.5,direct,SG,1988-04-12
+CIF-8897036,BO-1,Phua Wei Moi,26.0,direct,MY,1960-12-07
+CIF-8897036,BO-2,Sng Beng Lun,26.4,direct,SG,1971-02-17
+CIF-8897036,BO-3,Toh Bee Juan,26.5,direct,PH,1979-09-19
+CIF8910529,BO-1,Chua Boon Leng,45.0,direct,SG,1977-11-07
+CIF8910529,BO-2,Munirah binte Idris,29.3,direct,SG,2002-01-22
+CIF8920439,BO-1,Chong Zhi Herng,26.1,direct,SG,1988-10-28
+CIF8920439,BO-2,Rosli bin Osman,59.7,direct,PH,1966-10-23
+CIF-8960148,BO-1,Teo Yen Ling,27.9,direct,SG,1997-05-21
+CIF-8960148,BO-2,Poh Sock Herng,26.1,direct,SG,1975-09-22
+CIF-8960148,BO-3,Toh Jun Wei,26.2,direct,SG,1999-04-26
+CIF-8977602,BO-1,Leong Chee Eng,29.9,direct,SG,1980-02-03
+CIF-8977602,BO-2,Teo Wan Ling,38.7,direct,SG,1963-05-21
+CIF-8984742,BO-1,Jonathan Ravensworth,33.9,direct,SG,1963-02-03
+CIF-8984742,BO-2,Ho Soon Heng,26.0,direct,SG,1961-06-12
+CIF-8984742,BO-3,Goh Beng Yao,26.2,direct,SG,1974-06-19
+CIF-8995264,BO-1,Sim Kai Xiang,58.6,direct,SG,1995-11-21
+CIF-8995264,BO-2,Loh Jia Wen,34.2,direct,ID,1994-01-23
+CIF-9011265,BO-1,Balqis binte Talib,26.3,direct,MY,2000-12-21
+CIF-9011265,BO-2,Arun s/o Chandran,52.6,direct,SG,1968-01-17
+9040394,BO-1,Loh Li Zhen,36.1,direct,SG,2004-12-22
+9040394,BO-2,Syafiqah binte Zainal,34.7,direct,MY,1994-07-25
+CIF-9057839,BO-1,Chong Su Lin,55.9,direct,SG,1967-11-03
+CIF-9057839,BO-2,Leong Yi Teik,29.4,direct,SG,1976-09-19
+CIF-9093246,BO-1,Quek Soon Yun,55.6,direct,SG,1967-04-09
+CIF-9093246,BO-2,Sim Boon Huat,33.4,direct,SG,1997-01-28
+CIF9172981,BO-1,Kwek Chin Wen,32.9,direct,SG,1982-07-10
+CIF9172981,BO-2,Amirah binte Latif,27.7,direct,PH,1966-01-10
+CIF9172981,BO-3,Renuka d/o Thirumalai,26.5,direct,SG,1961-07-26
+CIF9203569,BO-1,Ng Geok Seng,27.5,direct,SG,1978-06-04
+CIF9203569,BO-2,Neo Shu Siong,26.3,direct,SG,1996-09-26
+CIF9203569,BO-3,Jeyaraj s/o Ramasamy,28.0,direct,MY,1962-01-27
+CIF9204450,BO-1,Vani d/o Doraisamy,50.3,direct,PH,1984-05-09
+CIF9204450,BO-2,Wong Gek Hui,27.7,indirect via Silverpine Toys & Games Pte Ltd (0.76 x 36.4% = 27.7%),AU,1987-07-19
+9210763,BO-1,Wee Bee Choo,54.4,direct,SG,1966-10-13
+9210763,BO-2,Danish Irfan bin Osman,28.9,direct,SG,1963-03-10
+CIF9216934,BO-1,Syafiqah binte Bakar,27.0,direct,SG,1988-11-02
+CIF9216934,BO-2,Heng Geok Har,26.2,direct,SG,1999-02-18
+CIF9216934,BO-3,Fauzi bin Razak,29.9,direct,SG,1972-08-06
+CIF9309306,BO-1,Quek Xin Yang,26.0,direct,SG,1976-07-14
+CIF9309306,BO-2,Rafidah binte Rahman,26.5,direct,MY,1988-12-13
+CIF9309306,BO-3,Heng Beng Huat,27.2,direct,SG,2001-04-15
+9351543,BO-1,Kwek Chin Lun,37.5,direct,SG,1963-09-23
+9351543,BO-2,Sng Su Juan,41.1,direct,MY,1985-03-05
+CIF-9358071,BO-1,Shanti d/o Velu,45.8,direct,SG,1982-12-28
+CIF-9358071,BO-2,Poh Jian Hong,38.9,direct,SG,1970-04-14
+9399885,BO-1,Ganesh s/o Govindasamy,33.3,direct,SG,1965-12-11
+9399885,BO-2,Siti Nurhaliza binte Mansor,39.2,direct,SG,1964-02-10
+CIF-9410885,BO-1,Muhammad Irfan bin Zulkarnain,28.2,direct,SG,1958-12-19
+CIF-9410885,BO-2,Lau Jia En,30.8,indirect via Golden Meadow Apparel Supplies Pte. Ltd. (0.87 x 35.4% = 30.8%),SG,1999-03-23
+9430861,BO-1,Phua Gek Min,55.9,direct,SG,1966-08-02
+9430861,BO-2,Neo Siew An,28.7,direct,SG,1986-09-16
+CIF9443648,BO-1,Toh Chee Meng,50.5,direct,MY,1959-02-17
+CIF9443648,BO-2,Ho Mei An,40.3,direct,SG,1977-01-25
+9452285,BO-1,Khoo Kai Qi,28.7,direct,SG,1976-11-11
+9452285,BO-2,Ho Sock Ting,26.4,direct,SG,1981-06-04
+9452285,BO-3,Firdaus bin Rashid,30.0,direct,SG,1981-12-10
+CIF-9453961,BO-1,Chong Chin Meng,37.6,direct,SG,1957-08-26
+CIF-9453961,BO-2,Chia Chin Xin,48.1,direct,SG,1957-10-17
+CIF-9474831,BO-1,Khairul Imran bin Nasir,32.8,direct,SG,1957-08-20
+CIF-9474831,BO-2,Seah Ming Wei,31.7,direct,SG,1979-04-18
+CIF-9474831,BO-3,Pang Yong Herng,26.8,direct,SG,1981-12-27
+9486721,BO-1,Teo Kah Wen,31.3,direct,SG,1961-08-23
+9486721,BO-2,Ang Yew Kong,48.4,direct,SG,1980-12-08
+CIF-9531421,BO-1,Benjamin Thorncroft,34.5,direct,SG,1996-02-21
+CIF-9531421,BO-2,Ong Liang Xin,26.2,direct,SG,1976-09-24
+CIF-9531421,BO-3,Sim Beng Har,31.2,direct,SG,1982-11-05
+CIF9574096,BO-1,Cheng Jia Yun,50.1,direct,SG,1960-11-22
+CIF9574096,BO-2,Pravin s/o Rajendran,40.8,direct,SG,1974-11-18
+CIF-9579134,BO-1,Ng Jun Hao,32.2,direct,SG,1975-08-08
+CIF-9579134,BO-2,Malathi d/o Shanmugam,53.5,direct,SG,1984-08-10
+CIF-9671140,BO-1,Ang Teck En,27.6,direct,SG,1980-02-25
+CIF-9671140,BO-2,Sim Liang Wei,28.0,indirect via Oakfield Provision Traders Pte Ltd (0.78 x 35.9% = 28.0%),SG,1957-08-19
+CIF-9677318,BO-1,Yeo Jun Hao,53.9,direct,SG,2005-11-05
+CIF-9677318,BO-2,Chua Shu Ping,28.8,direct,SG,1974-02-25
+CIF9717323,BO-1,Loh Gek Yao,37.4,direct,SG,1993-05-20
+CIF9717323,BO-2,Karthik s/o Raman,33.7,indirect via Tanjong Crest Systems Pte. Ltd. (0.78 x 43.2% = 33.7%),SG,1983-08-10
+CIF-9752047,BO-1,Chua Yong Wen,35.7,direct,SG,1975-08-15
+CIF-9752047,BO-2,Gan Bee Choo,42.8,indirect via Harbour Gate Valuation Services Pte. Ltd. (0.88 x 48.6% = 42.8%),SG,1997-02-14
+9756199,BO-1,Shakirah binte Osman,26.5,direct,SG,1968-02-05
+9756199,BO-2,Sng Soon Heng,27.2,direct,SG,2002-03-17
+9756199,BO-3,Poh Li Hui,26.4,direct,SG,2000-11-22
+CIF9776602,BO-1,Leong Liang Wen,53.4,direct,AU,1959-06-06
+CIF9776602,BO-2,Neo Guo Ping,31.8,indirect via Merbau Strategy Partners Pte. Ltd. (0.81 x 39.2% = 31.8%),SG,1999-10-24
+CIF9795945,BO-1,Sim Ming Ping,33.2,direct,SG,1996-06-19
+CIF9795945,BO-2,Siti Nurhaliza binte Saad,60.7,direct,SG,1963-07-08
+CIF-9822476,BO-1,Vijay s/o Muthu,26.5,direct,SG,1963-03-18
+CIF-9822476,BO-2,Lim Beng Huat,28.5,indirect via Kranji Field Valuation Services Pte. Ltd. (0.89 x 32.0% = 28.5%),SG,1995-07-01
+CIF-9822476,BO-3,Chong Jian Teik,26.2,direct,SG,1954-06-16
+CIF-9846530,BO-1,Lee Hui Ling,27.8,direct,SG,1992-12-21
+CIF-9846530,BO-2,Imran bin Hamid,26.0,direct,MY,2003-12-27
+CIF-9846530,BO-3,Chua Jun Hui,26.3,direct,SG,1965-08-02
+CIF-9849932,BO-1,Lim Kai Xuan,59.8,direct,SG,1981-04-07
+CIF-9849932,BO-2,Leong Cheng Neo,29.1,direct,SG,1997-09-09
+CIF9886861,BO-1,Teo Chee Meng,36.4,direct,SG,1966-01-10
+CIF9886861,BO-2,Sim Siew Yang,49.9,direct,SG,1959-01-18
+CIF-9905367,BO-1,Kwek Kok Min,50.9,direct,SG,1956-03-09
+CIF-9905367,BO-2,Low Yong Wen,34.5,indirect via Sunway Peak Digital Labs Pte. Ltd. (0.84 x 41.1% = 34.5%),SG,2004-08-03
+CIF-9917642,BO-1,Logan s/o Arumugam,30.0,direct,SG,2000-04-20
+CIF-9917642,BO-2,Ho Poh Shan,29.2,direct,SG,2005-04-14
+CIF9941398,BO-1,Wee Kai Lun,28.6,direct,MY,1967-06-02
+CIF9941398,BO-2,Chew Sock Min,26.0,direct,SG,1996-09-24
+CIF9941398,BO-3,Pravin s/o Kandasamy,26.4,direct,SG,1992-06-11
+9958607,BO-1,Chong Gek Qiang,26.2,direct,SG,1954-05-25
+9958607,BO-2,Chew Zhen Moi,31.2,direct,SG,1966-02-26
+9958607,BO-3,Aqilah binte Ibrahim,35.1,direct,SG,1997-01-16

@@ -1,0 +1,4 @@
+review_id,analyst_id,review_date,outcome_code,rationale_text,clauses_cited,checked_by
+VGB-PR-2026-0001,AN-001,2026-02-20,unchanged,"Credits matched to completion account under 5.4; registry extract pulled under 6.6.","5.4,6.6",SU-001
+PR2026-0002,AN-002,2026-03-25,unchanged,"Stable business activity, no anomalies noted.",,SU-002
+VGB-PR-2024-0009,AN-001,2024-02-20,unchanged,"Salary credits consistent with payslips; rating confirmed under 4.3.","4.3",SU-001

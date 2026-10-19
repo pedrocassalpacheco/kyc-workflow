@@ -1,0 +1,8 @@
+PAYSLIP EXTRACT
+--- Page 1 of 1 ---
+Employer   : Silverpine Consumer Brands Pte. Ltd.
+Employee   : Heng Liang Wen
+Designation: Regional Marketing Manager
+Pay period : [illegible]
+Net pay credited by GIR0 : [illegible]
+Remarks    : [illegible]

@@ -1,0 +1,3 @@
+transaction_date,account_number,amount,direction,counterparty_name,counterparty_country
+2026-01-10,0001234567,"3,100.00",credit,Mei Heng Food Pte Ltd,SG
+2026-02-10,0001234567,3100.00,credit,Mei Heng Food Pte Ltd,SG

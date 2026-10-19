@@ -1,0 +1,2 @@
+UNINDEXED DOCUMENT
+This file is in the store but not in doc_index.

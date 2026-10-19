@@ -1,0 +1,448 @@
+Conversation with Sam
+Ended
+Who you talked to
+
+Sam KYC analyst, 5 months in. Department: Operations floor. Reports to Nora. Introduced to you by Nora.
+Your note on the previous conversation
+
+The benchmark is USD 2.40 per review. That's the incumbent vendor's all-in software fee, including their AI assist panel. It doesn't include analyst time, which is a separate cost outside Anna's remit. She needs our figure in the same form, US dollars per review: our model cost plus whatever it costs VGB to run the solution. A range with assumptions is fine. She'll use it to compare against the vendor at renewal. If our real case is analyst productivity, she still needs the per-review figure next to the 2.40. The productivity argument has to go to Grace and Victor, who own the budget and decide whether it's worthwhile. There's no fixed cost ceiling and no budget line Anna has seen.
+
+Contract: Our order form is still with Legal. The sandbox and redacted samples are covered by the existing letter, but anything beyond the proof of concept, including production access, needs the order form signed. Onboarding a model vendor, even through Vertex, would be new for the bank. Ben would approve it technically, then it would go through Vendor Management on paper, and that process hasn't been defined yet.
+
+For us:
+
+For Anna: a USD cost per review covering model tokens plus VGB's run cost, as a range with assumptions
+For Grace and Victor: a separate productivity case on analyst time and QA rework, where the bigger savings probably are
+
+Sam
+
+Oh hey, hi, you must be Pedro, right? Nora said you'd be coming. Sorry, one sec, let me just, yeah, pull a chair up, sorry about the mess here.
+
+You
+
+Yes - this isn't a review of your performance - just a interview to understand what would help you to perform at your best
+
+Sam
+
+Ah, ok, that's good, you had me a bit worried for a second there. Yeah, no, happy to walk through whatever, I've got a case open right now actually if that helps.
+
+You
+
+When you open a new review, how do you decide where to start and which sources to trust?
+
+Sam
+
+Oh, um, so it depends what's up next in the queue, Castellan (the bank's case tool) just gives it to me in order mostly. I start with customer master, see what's changed, then transaction summary to check nothing weird's moved. Screening comes back separate, sometimes it's slow to load, sorry, the system's a bit laggy in the mornings. Sources I trust, I guess whatever's in the document store, if it's an original sighted document that's the gold one, versus like a payslip the customer just emails in. Sorry, I'm going on a bit, was that the kind of thing you meant?
+
+You
+
+how do you spot a weird transaction summary?
+
+Sam
+
+Mostly it's turnover not matching what's declared, the system flags it for me actually, 4.7(b), if credits are way off what the customer said their income is. Or a big one-off payment I don't recognise, like a lump sum from somewhere new. Then I'd RFI for the source of it, ask the branch to chase the customer.
+
+You
+
+what is the customer master?
+
+Sam
+
+That's just the main customer record, name, address, occupation, declared income, ownership if it's a company. It's where I check if anything's changed since last cycle, like a new shareholder or they moved jobs.
+
+You
+
+Where does your time go on a typical file, and what's the hardest part?
+
+Sam
+
+Most of it's chasing, RFIs taking forever to come back, or screening throwing up names and me having to check if it's actually the same person. A low takes me maybe fifty, fifty-five minutes, which I think is slow, Nora does one in half an hour. Hardest part's probably 5.4, source of funds, and the ownership clause, 6.6, I never feel sure I've read them right.
+
+You
+
+what is rfi?
+
+Sam
+
+Request for information, it's a template in Castellan, goes out to the branch to chase the customer for documents or answers. Fills itself in from the case fields mostly, I don't write it from scratch or anything.
+
+You
+
+But isn't that stable? Once it is on the record the branch has to update it? I would think this is automatically if the customer record changes
+
+Sam
+
+Hm, not really, no. Customer master doesn't always pick things up automatically, like if a company's ownership changes somewhere official, it doesn't just appear in our system. That's part of why we're meant to check manually, it can go stale.
+
+You
+
+can you explain 5.4, source of funds, and the ownership clause, 6.6, I never feel sure I've read them right.
+
+Sam
+
+Honestly, 5.4 I read as, you need to show where the money actually came from, not just that it matches what's declared.
+
+From the system: Sam shares a screen with you: Castellan, the case tool, with a live case open.
+
+Sam
+
+Okay, so, I'll just do him like I normally would and say what I'm doing? It comes up on your side a screen at a time, read it however you like. Save the questions till he's submitted, if that's all right, or I lose my place.
+
+Sam
+
+So this is PR-88301, Mr Lim, priority banking, high risk mostly because the money comes in from overseas and there was a thing on the joint account years ago. I'll just do it how I normally do.
+
+Sam
+
+Sorry, nobody tells me much down here, so say if I'm off. Customer tab first: sales director, been with us since forever, nothing weird.
+
+On the shared screen:
+
+Sam opens Documents
+opens Employer confirmation letter · PDF, 1 page · uploaded by RM Tan H. L. 11 Jun
+Sam
+
+Documents. Twelve things, most of it old. Employer letter's here, the RM actually got it this time. I'll show you, proper letterhead, signed by their HR.
+
+On the shared screen: Sam closes Employer confirmation letter · PDF, 1 page · uploaded by RM Tan H. L. 11 Jun.
+
+Sam
+
+That plus six months of salary credits is my source of funds, basically. RM's email is on file too, she wants it closed this week.
+
+Sam
+
+Commission statement I asked for three weeks ago. RM says don't hold the file for it and QA never asks anyway. That's documents, basically.
+
+On the shared screen: Sam opens Screening.
+
+Sam
+
+Screening. Ran it just before you sat down. Same two as last time, some guy in Malaysia born in sixty-one and a company with the same initials.
+
+On the shared screen:
+
+Sam clicks Carry forward on LIM Kok Wee, b.1961, MY
+clicks Carry forward on LIM K W Holdings Sdn Bhd
+Sam
+
+Carry forward, carry forward. Done.
+
+On the shared screen:
+
+Sam clicks Refer to RM on Straits Marine Logistics
+clicks Mark false positive on LIM Kok Wei, b.1979, MY
+Sam
+
+Then two new ones. The employer one goes to the RM to comment, that's not on him. And the PEP is some politician in Malaysia, wrong birth year, wrong guy. Screening done.
+
+On the shared screen:
+
+Sam opens Source of funds
+clicks KYC Assist: Generate
+Sam
+
+Source of funds, the five point four one. Salary lines up nicely, and don't tell Nora but I use the assist thing for the write-up.
+
+On the shared screen:
+
+Sam clicks Insert into narrative
+types into Reviewer narrative (17 words)
+Sam
+
+She hates it. But it's a decent first draft, and typing it from scratch is ten minutes I don't have.
+
+Sam
+
+There. Change a couple of words so it reads like me and nobody's the wiser.
+
+On the shared screen: Sam opens Ownership.
+
+Sam
+
+Ownership. He's an individual, so six point six doesn't really apply. I think. The RM added some family company in Feb, estate planning thing. Moving on.
+
+On the shared screen:
+
+Sam opens Rationale
+types into Overall rationale (37 words)
+types into Recommendation (9 words)
+Sam
+
+Rationale is basically a summary of the tabs. The checker reads this bit first, and QA if they pull it, so I keep it tidy.
+
+On the shared screen:
+
+Sam opens Submit
+clicks Submit for checking
+Sam
+
+And submit. Thirty-eight minutes, which is fast for a high, I'm quite pleased with that. Most of it is normally waiting for Castellan to load the PDFs.
+
+Sam
+
+That's one, eleven more like him this week. Was that useful? I never know what you lot want to see, so just say.
+
+You
+
+how about ownership change?
+
+On the shared screen: Sam opens Ownership.
+
+Sam
+
+The family holding thing he set up in Feb? No registry extract for it on file, and I didn't run a fresh check on Straits Marine either, that's three years old now. I'm not sure what counts as a change there, six five and six six are the ones I always get stuck on.
+
+You
+
+The clauses field says "optional." How do you treat it?
+
+Sam
+
+If it says optional I leave it blank. Nobody's ever told me which clause goes where, so I just write the summary in plain words and let the checker sort it.
+
+You
+
+When QA sends a file back, what feedback do you get? Is it enough to avoid the same thing next time?
+
+Sam
+
+Usually a line or two in the checklist, like which clause they wanted or what document's missing. Mine come back more than most. Nora keeps a spreadsheet of every overturn, she's a bit scary about it, you'd have to ask her if it's enough.
+
+You
+
+How do you use the Assist panel, and how do you decide whether its paragraph is good enough?
+
+On the shared screen: Sam opens Source of funds.
+
+Sam
+
+I click Generate, it drops a paragraph in, I hit Insert and tack on a line or two of my own so it's not word for word the template. As for good enough, I just read it once for sense, I don't check it line by line against the file.
+
+You
+
+This seems like a good use for AI, no? Take the response and ground it on the source of the data
+
+Sam
+
+Yeah, maybe. Reading it again... 'no anomalies' sits a bit odd next to that one big commission credit, doesn't it. I'd probably tweak that line if I went back in.
+
+You
+
+Most of the floor turned it off. Why have you kept using it?
+
+Sam
+
+Just saves me typing. I've got lows that take me fifty-odd minutes as it is, Nora does one in half that, so anything that gets me through faster I'll take.
+
+You
+
+If this had been waiting when you opened PR-88214, would anything have changed?
+
+Sam
+
+Hm, not sure. 88214 was payslips as the only evidence, and a pasted rationale with no clause on it. A tool checking the words against the file might've caught the missing clause, I don't know if it'd have told me payslips weren't enough on their own.
+
+You
+
+Would you rather have this or a drafted rationale? Why?
+
+Sam
+
+I'd rather something that just tells me what's wrong before I submit, rather than writing nice sentences for me. A draft paragraph still reads fine even when it's wrong, that's sort of the problem.
+
+You
+
+What would you still check yourself?
+
+Sam
+
+Whether the document's actually still valid, dates and that, I don't always check. And the clause number, since I leave that blank myself. Probably the ownership stuff too, I just skip the registry check if it's an individual.
+
+You
+
+What would make you skip reading it?
+
+Sam
+
+When I'm behind. If I've got three or four open and it's late afternoon, I read it once, it sounds right, I move on. That's probably how this one got through, if I'm being straight with you.
+
+You
+
+Do you envision this tool to be sitting side by side with castelan or working as a reviewer of the work before you close the case?
+
+Sam
+
+I'd want the checking one. Something that stops me before I hit submit, not something sat next to Castellan I have to remember to look at. That's not really my call though, that's more a Grace or Nora question.
+
+Part 1 of 15
+
+Next part
+What Sam said during this part:
+
+Okay, so, I'll just do him like I normally would and say what I'm doing? It comes up on your side a screen at a time, read it however you like. Save the questions till he's submitted, if that's all right, or I lose my place.
+
+Castellan · Periodic reviews · PR-88301 · LIM K. W. · Priority · HIGH · status: In progress
+
+Tabs: [Customer]  Documents  Screening  Source of funds  Ownership  Rationale  Submit  Activity
+
+Customer (CIF 0048812-3 · last full review Sep 2023 · due Sep last year · overdue 11 mo)
+
+Name: LIM Kok Wee (individual) · NRIC S****823D
+
+Born / nationality: 12 Mar 1968, Ipoh · Singapore citizen since 1994
+
+Segment: Priority banking since 2009 · customer since 1996
+
+Risk rating: HIGH (78): cross-border income · 2021 STR on joint a/c (closed) · employer sector · PEP: N
+
+Occupation: Regional sales director (ASEAN), Straits Marine Logistics Pte Ltd, since 2014
+
+Declared income: SGD 310,000 p.a. (base 216,000 + commission), declared at 2023 review
+
+Relationship mgr: Tan H. L., Priority, Raffles Place · RM since 2021
+
+Products: SGD current x2 (one joint) · USD current · unit trusts SGD 412k · no credit lines
+
+Linked parties: 5 on profile (see Ownership)
+
+note: Review history (click a line for the summary)
+
+Mar 2019	Priority upgrade re-KYC	RM Chua / KYC Ops	completed (opens)
+Jul 2021	Event review: STR on joint account	FCC / KYC Ops	retain, uplift to HIGH (opens)
+14 Sep 2023	Periodic review	A. Rahman / QA D. Koh	passed QA, HIGH kept (opens)
+20 Sep 2024	Periodic review	backlog programme	deferred: RM attestation only (opens)
+Today	Periodic review (this one)	Sam / checker pool	in progress, queue B7
+
+So this is PR-88301, Mr Lim, priority banking, high risk mostly because the money comes in from overseas and there was a thing on the joint account years ago. I'll just do it how I normally do.
+
+Castellan · Periodic reviews · PR-88301 · LIM K. W. · Priority · HIGH · status: In progress
+
+Tabs: [Customer]  Documents  Screening  Source of funds  Ownership  Rationale  Submit  Activity
+
+Customer (CIF 0048812-3 · last full review Sep 2023 · due Sep last year · overdue 11 mo)
+
+Name: LIM Kok Wee (individual) · NRIC S****823D
+
+Born / nationality: 12 Mar 1968, Ipoh · Singapore citizen since 1994
+
+Segment: Priority banking since 2009 · customer since 1996
+
+▸ Risk rating: HIGH (78): cross-border income · 2021 STR on joint a/c (closed) · employer sector · PEP: N
+
+Occupation: Regional sales director (ASEAN), Straits Marine Logistics Pte Ltd, since 2014
+
+Declared income: SGD 310,000 p.a. (base 216,000 + commission), declared at 2023 review
+
+Relationship mgr: Tan H. L., Priority, Raffles Place · RM since 2021
+
+Products: SGD current x2 (one joint) · USD current · unit trusts SGD 412k · no credit lines
+
+Linked parties: 5 on profile (see Ownership)
+
+note: Review history (click a line for the summary)
+
+Mar 2019	Priority upgrade re-KYC	RM Chua / KYC Ops	completed (opens)
+Jul 2021	Event review: STR on joint account	FCC / KYC Ops	retain, uplift to HIGH (opens)
+14 Sep 2023	Periodic review	A. Rahman / QA D. Koh	passed QA, HIGH kept (opens)
+20 Sep 2024	Periodic review	backlog programme	deferred: RM attestation only (opens)
+Today	Periodic review (this one)	Sam / checker pool	in progress, queue B7
+
+Sorry, nobody tells me much down here, so say if I'm off. Customer tab first: sales director, been with us since forever, nothing weird.
+
+Castellan · Periodic reviews · PR-88301 · LIM K. W. · Priority · HIGH · status: In progress
+
+Tabs: [Customer]  Documents  Screening  Source of funds  Ownership  Rationale  Submit  Activity
+
+Customer (CIF 0048812-3 · last full review Sep 2023 · due Sep last year · overdue 11 mo)
+
+Name: LIM Kok Wee (individual) · NRIC S****823D
+
+Born / nationality: 12 Mar 1968, Ipoh · Singapore citizen since 1994
+
+Segment: Priority banking since 2009 · customer since 1996
+
+Risk rating: HIGH (78): cross-border income · 2021 STR on joint a/c (closed) · employer sector · PEP: N
+
+Occupation: Regional sales director (ASEAN), Straits Marine Logistics Pte Ltd, since 2014
+
+Declared income: SGD 310,000 p.a. (base 216,000 + commission), declared at 2023 review
+
+Relationship mgr: Tan H. L., Priority, Raffles Place · RM since 2021
+
+Products: SGD current x2 (one joint) · USD current · unit trusts SGD 412k · no credit lines
+
+Linked parties: 5 on profile (see Ownership)
+
+note: Review history (click a line for the summary)
+
+Mar 2019	Priority upgrade re-KYC	RM Chua / KYC Ops	completed (opens)
+Jul 2021	Event review: STR on joint account	FCC / KYC Ops	retain, uplift to HIGH (opens)
+14 Sep 2023	Periodic review	A. Rahman / QA D. Koh	passed QA, HIGH kept (opens)
+▸ 20 Sep 2024	Periodic review	backlog programme	deferred: RM attestation only (opens)
+Today	Periodic review (this one)	Sam / checker pool	in progress, queue B7
+
+What Sam said during this part:
+
+Documents. Twelve things, most of it old. Employer letter's here, the RM actually got it this time. I'll show you, proper letterhead, signed by their HR.
+
+Castellan · Periodic reviews · PR-88301 · LIM K. W. · Priority · HIGH · status: In progress
+
+Tabs: Customer✓  [Documents]  Screening  Source of funds  Ownership  Rationale  Submit  Activity
+
+Documents (12 items on file · 1 outstanding request)
+
+Document	Dated	Source	Status
+NRIC (copy)	2009	Onboarding	valid
+Passport (copy)	copy taken 2023	2023 review	expires Nov this year
+▸ Employer confirmation letter	5 Jun	RM upload 11 Jun	received (opens)
+Salary credits Mar to Aug (extract)	auto, today	Core banking feed	6 of 6 (opens)
+Commission statement (last FY)	-	RFI to RM 21 Aug	awaiting RM (20 days)
+Income tax assessment (latest YA)	Apr last year	customer via RM	on file (opens)
+Unit trust statement Aug	auto, 1 Sep	Wealth platform feed	current (opens)
+Registry extract: Straits Marine Logistics	18 Aug 2023	2023 review	on file (opens)
+RM call report	2 Jun	RM Tan H. L.	filed (opens)
+Email: RM Tan to Sam, letter attached	11 Jun	mail capture	filed (opens)
+Email: QA to KYC Ops, evidence reminder	28 Aug	mail capture	filed (opens)
+Prior review pack 2023	14 Sep 2023	Archive	reference (opens)
+Open on top: Employer confirmation letter · PDF, 1 page · uploaded by RM Tan H. L. 11 Jun
+
+STRAITS MARINE LOGISTICS PTE LTD · 8 Marina View #22-04, Singapore 018960 · Co. Reg. No. 200914482K
+
+Dated: 5 June
+
+TO WHOM IT MAY CONCERN: CONFIRMATION OF EMPLOYMENT AND REMUNERATION
+
+We confirm that Mr Lim Kok Wee (NRIC S****823D) has been employed by us since 3 March 2014, currently as Regional Sales Director, ASEAN.
+
+His annual base salary is SGD 216,000, paid monthly. He is in the regional sales commission plan.
+
+His most recent annual commission was paid to him in May through our Malaysian affiliate, SM Logistik (M) Sdn Bhd. Correct as at the date above.
+
+Farah Yusof, Head of Human Resources · signed · hr@straitsmarine.example
+
+Viewer: page 1 of 1 · tagged source-of-funds evidence, clause 5.4, by Sam on 21 Aug
+
+What Sam said during this part:
+
+That plus six months of salary credits is my source of funds, basically. RM's email is on file too, she wants it closed this week.
+
+Castellan · Periodic reviews · PR-88301 · LIM K. W. · Priority · HIGH · status: In progress
+
+Tabs: Customer✓  [Documents]  Screening  Source of funds  Ownership  Rationale  Submit  Activity
+
+Documents (12 items on file · 1 outstanding request)
+
+Document	Dated	Source	Status
+NRIC (copy)	2009	Onboarding	valid
+Passport (copy)	copy taken 2023	2023 review	expires Nov this year
+Employer confirmation letter	5 Jun	RM upload 11 Jun	received (opens)
+Salary credits Mar to Aug (extract)	auto, today	Core banking feed	6 of 6 (opens)
+Commission statement (last FY)	-	RFI to RM 21 Aug	awaiting RM (20 days)
+Income tax assessment (latest YA)	Apr last year	customer via RM	on file (opens)
+Unit trust statement Aug	auto, 1 Sep	Wealth platform feed	current (opens)
+Registry extract: Straits Marine Logistics	18 Aug 2023	2023 review	on file (opens)
+RM call report	2 Jun	RM Tan H. L.	filed (opens)
+▸ Email: RM Tan to Sam, letter attached	11 Jun	mail capture	filed (opens)
+Email: QA to KYC Ops, evidence reminder	28 Aug	mail capture	filed (opens)
+Prior review pack 2023	14 Sep 2023	Archive	reference (opens)

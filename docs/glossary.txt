@@ -1,0 +1,127 @@
+FDE (Forward-deployed engineer)
+An engineer who goes and sits with the customer, works out with them what is worth building, and builds it there; on this engagement that is you.
+MAS (Monetary Authority of Singapore)
+Singapore's banking regulator; it inspects the bank, writes up findings, and comes back to check they were fixed.
+KYC (Know your customer)
+The checks a bank does to be sure who a customer really is and that the money moving through their accounts makes sense for them.
+Periodic review
+The routine re-check of an existing customer that comes round every one to three years depending on how risky the bank rates them.
+MLRO (Money Laundering Reporting Officer)
+The named person at the bank who answers to the regulator for its financial crime controls; Raj is the deputy.
+CDD (Customer due diligence)
+The formal name for the KYC checks themselves; a periodic review is CDD done again on someone who is already a customer.
+FCC / GFCC (Financial Crime Compliance / Group Financial Crime Compliance)
+The part of the bank that deals with money laundering and sanctions; Grace runs its operations floor, and GFCC at group level owns the policy.
+KL (Kuala Lumpur)
+The bank's second operations floor, in Malaysia; Grace's analysts are split between Singapore and KL.
+QA (Financial Crime Quality Assurance)
+The bank's financial crime quality assurance team; each month they pull a sample of reviews the analysts have closed and do them again to see whether they land on the same answer.
+Re-performance
+QA doing a closed review again from the file alone, without asking the analyst anything, to see whether the decision stands up on its own.
+Overturn
+QA's word for a re-performed review they disagreed with; it goes back to the analyst with a slip saying why.
+Rationale
+The few lines an analyst types when closing a review to record what they decided and what they relied on.
+Castellan
+The case management tool every review is opened, worked, signed and checked in. The vendor's KYC Assist panel sits inside its review screen; 'the case tool' and 'the vendor screen' are the same thing.
+CRR (Customer risk rating)
+A customer's risk score under the policy, from 1 (low) to 4 (high); on the floor people still just say low, medium and high.
+RM (Relationship manager)
+The banker who owns the customer relationship; when an analyst needs a document from the customer, the ask goes through the RM.
+SoF (Source of funds)
+Where the money going through this particular account comes from, for example a salary, a business or a sale.
+SoW (Source of wealth)
+How the customer came to have money in the first place, which is a different question from where this account's money comes from.
+RFI (Request for information)
+A formal ask to the customer, sent through the RM, for a document or an explanation; the review stays open while it is outstanding.
+EDD / enhanced review (Enhanced due diligence)
+The deeper look the compliance team takes when an analyst escalates a case rather than closing it themselves.
+PEP (Politically exposed person)
+Someone who holds or has held a prominent public job, or their close family and associates; the bank applies extra checks to them.
+STR (Suspicious transaction report)
+The report the bank files with the authorities when activity on an account looks like it could involve crime; old ones show up in a customer's history.
+UBO / beneficial owner (Ultimate beneficial owner)
+The real person who owns or controls a company once you look through any companies sitting in between.
+ACRA (Accounting and Corporate Regulatory Authority)
+Singapore's company registry; an ACRA extract lists a company's directors and shareholders as they stood on the day it was pulled.
+NRIC (National Registration Identity Card)
+The Singapore identity card; its number is the standard ID on a customer file and is usually shown partly masked.
+TT (Telegraphic transfer)
+Bank shorthand for a wire payment; "inward TT" on a statement means money wired in from an account at another bank.
+YA (Year of assessment)
+The Singapore tax year label on income documents; the YA number is one ahead of the calendar year the income was actually earned in.
+Helios
+The bank's internal gateway for anything that talks to an AI model; Ben's platform team owns and runs it.
+Vertex AI
+Google Cloud's service for running AI models.
+MCP server (Model Context Protocol server)
+A small service that lets an AI agent use one of the bank's systems as a tool, for example to look up a customer record; Ben's team runs a handful inside the network.
+CAB (Change advisory board)
+The change board that has to approve anything new before it runs in production at the bank; it sits every two weeks.
+C1 / C2 (Data classes under VGB-DC-07)
+The bank's own labels for how sensitive a piece of data is, under its data classification policy; C1 is the most restricted.
+Order form
+The commercial paper that makes the engagement billable and unlocks production data. It usually trails the work: the engagement letter gets you in and a sandbox; the order form covers the rest.FDE (Forward-deployed engineer)
+An engineer who goes and sits with the customer, works out with them what is worth building, and builds it there; on this engagement that is you.
+MAS (Monetary Authority of Singapore)
+Singapore's banking regulator; it inspects the bank, writes up findings, and comes back to check they were fixed.
+KYC (Know your customer)
+The checks a bank does to be sure who a customer really is and that the money moving through their accounts makes sense for them.
+Periodic review
+The routine re-check of an existing customer that comes round every one to three years depending on how risky the bank rates them.
+MLRO (Money Laundering Reporting Officer)
+The named person at the bank who answers to the regulator for its financial crime controls; Raj is the deputy.
+CDD (Customer due diligence)
+The formal name for the KYC checks themselves; a periodic review is CDD done again on someone who is already a customer.
+FCC / GFCC (Financial Crime Compliance / Group Financial Crime Compliance)
+The part of the bank that deals with money laundering and sanctions; Grace runs its operations floor, and GFCC at group level owns the policy.
+KL (Kuala Lumpur)
+The bank's second operations floor, in Malaysia; Grace's analysts are split between Singapore and KL.
+QA (Financial Crime Quality Assurance)
+The bank's financial crime quality assurance team; each month they pull a sample of reviews the analysts have closed and do them again to see whether they land on the same answer.
+Re-performance
+QA doing a closed review again from the file alone, without asking the analyst anything, to see whether the decision stands up on its own.
+Overturn
+QA's word for a re-performed review they disagreed with; it goes back to the analyst with a slip saying why.
+Rationale
+The few lines an analyst types when closing a review to record what they decided and what they relied on.
+Castellan
+The case management tool every review is opened, worked, signed and checked in. The vendor's KYC Assist panel sits inside its review screen; 'the case tool' and 'the vendor screen' are the same thing.
+CRR (Customer risk rating)
+A customer's risk score under the policy, from 1 (low) to 4 (high); on the floor people still just say low, medium and high.
+RM (Relationship manager)
+The banker who owns the customer relationship; when an analyst needs a document from the customer, the ask goes through the RM.
+SoF (Source of funds)
+Where the money going through this particular account comes from, for example a salary, a business or a sale.
+SoW (Source of wealth)
+How the customer came to have money in the first place, which is a different question from where this account's money comes from.
+RFI (Request for information)
+A formal ask to the customer, sent through the RM, for a document or an explanation; the review stays open while it is outstanding.
+EDD / enhanced review (Enhanced due diligence)
+The deeper look the compliance team takes when an analyst escalates a case rather than closing it themselves.
+PEP (Politically exposed person)
+Someone who holds or has held a prominent public job, or their close family and associates; the bank applies extra checks to them.
+STR (Suspicious transaction report)
+The report the bank files with the authorities when activity on an account looks like it could involve crime; old ones show up in a customer's history.
+UBO / beneficial owner (Ultimate beneficial owner)
+The real person who owns or controls a company once you look through any companies sitting in between.
+ACRA (Accounting and Corporate Regulatory Authority)
+Singapore's company registry; an ACRA extract lists a company's directors and shareholders as they stood on the day it was pulled.
+NRIC (National Registration Identity Card)
+The Singapore identity card; its number is the standard ID on a customer file and is usually shown partly masked.
+TT (Telegraphic transfer)
+Bank shorthand for a wire payment; "inward TT" on a statement means money wired in from an account at another bank.
+YA (Year of assessment)
+The Singapore tax year label on income documents; the YA number is one ahead of the calendar year the income was actually earned in.
+Helios
+The bank's internal gateway for anything that talks to an AI model; Ben's platform team owns and runs it.
+Vertex AI
+Google Cloud's service for running AI models.
+MCP server (Model Context Protocol server)
+A small service that lets an AI agent use one of the bank's systems as a tool, for example to look up a customer record; Ben's team runs a handful inside the network.
+CAB (Change advisory board)
+The change board that has to approve anything new before it runs in production at the bank; it sits every two weeks.
+C1 / C2 (Data classes under VGB-DC-07)
+The bank's own labels for how sensitive a piece of data is, under its data classification policy; C1 is the most restricted.
+Order form
+The commercial paper that makes the engagement billable and unlocks production data. It usually trails the work: the engagement letter gets you in and a sandbox; the order form covers the rest.

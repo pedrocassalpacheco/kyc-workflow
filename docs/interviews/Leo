@@ -1,0 +1,112 @@
+Conversation with Leo
+Ended
+Who you talked to
+
+Leo Platform engineer on Ben's team (runs Helios, the bank's gateway to AI models day to day). Department: Platform engineering. Reports to Ben Tan. Introduced to you by Ben Tan.
+Leo
+
+Hey, come in, you found 12 ok? Ben said you'd be up. I'm Leo, I keep Helios running day to day.
+
+You
+
+which models are approved through Helios today, specifically which claude versions on Vertex Singapore? Who approves adding one, and how long does that take? Do you have any embedding models on the allowed list?
+
+Leo
+
+Off the top of my head I couldn't give you exact version strings, I'd have to check the gateway config. Adding a model goes through Ben and security review, not just me. No embedding models on there that I know of, it's only ever been used for chat completions.
+
+You
+
+Generally, what models do you allow?
+
+Leo
+
+It's just the one path really, Vertex AI in Singapore, whatever Gemini model is current on there. We don't run anything else behind it, no Claude, no OpenAI, nothing like that. Tool calling on it is the older schema too, not the newer parallel tool-use stuff, so whatever you build has to work around that.
+
+You
+
+Well, I work for anthropic - so unless you are using anthropic models my scope of work will be very limited
+
+Leo
+
+Ah. Yeah, that'd be a problem on our end then, Helios only fronts Vertex, so it's Gemini models or nothing on this path. I don't know if Vertex model garden has a Claude option you could sit behind that, that's more a Ben and procurement conversation than mine.
+
+You
+
+If Vertex Singapore is degraded or unavailable, what happens? Is there a fallback region, or do calls just fail? Has this ever happened?
+
+Leo
+
+Calls just fail as far as I know, there's no fallback region configured, it's pinned to Singapore for the data residency thing. I haven't seen it actually go down in the time I've been watching it, but I wouldn't swear to the SLA numbers, that's more something Ben or our GCP account rep would have.
+
+You
+
+Should our harness call the MCP servers as its own service account, or on behalf of the analyst? If it's on behalf of the analyst, how does their identity reach the MCP servers' RBAC checks and Helios?
+
+Leo
+
+That's a real question, we haven't actually settled it ourselves. My instinct is service account for the harness, with the analyst's case id passed through so there's a record of whose work it's for, rather than trying to impersonate the analyst at the RBAC layer. You should probably ask Ben too, it's partly a security policy call as well.
+
+You
+
+what does setting up a new consumer involve (service accounts, scopes, network access), and how long does it take? does the consumer simply use a PAT to access the mcp server? how is the identity of the use carried from the UI to the tool that does the retrieval?
+
+Leo
+
+For a new consumer it's a security form, a service account gets provisioned, and scopes get set per MCP server, that part usually takes about a week once the form's actually in. It's not a personal PAT, the service account authenticates to Helios and the MCP servers sit behind our internal firewall, so network access is just being inside that boundary. Identity-wise it's whatever the caller passes in the request, case id, caller id, that kind of thing, logged at the gateway. It's not solving who-the-analyst-is for you, that's on whatever you build.
+
+You
+
+Do you have an example of a tool call that takes the user identification into account? Is it a header on the tool call?
+
+Leo
+
+Not that I've seen, no. Today nothing in periodic review calls Helios at all, so there's no existing tool call doing that, you'd be the first. If you did it, I'd expect it as a field in the request payload or a header, either works, but there's no convention set yet because nobody's built it.
+
+You
+
+But helios isn't in between the consumer (e/g/ the agent) and the mcp servers, yes?
+
+Leo
+
+No, different thing. Helios only fronts the model, that's the gateway to Vertex. The MCP servers are separate, your harness calls those directly, inside the network, next to them. Helios never sits between you and customer master or screening or any of that.
+
+You
+
+But there is authentication, not authorization? Or does the mcp servers impersonates the user when calling the system of record?
+
+Leo
+
+Authentication yeah, the service account has to be who it says it is. Authorisation is the scopes on top of that, what that service account's allowed to call. The account has its own access, which is partly why we need to think through how the analyst's identity actually travels with it.
+
+You
+
+But the service account is scoped to the agent itself, not the user of the agent
+
+Leo
+
+Right, exactly, that's the scoping question we haven't nailed. The service account would be scoped to the agent, broadly whatever it needs across those five servers, not narrowed per analyst. So the analyst's identity rides along as data in the call, not as a separate access boundary.
+
+You
+
+What does Helios redact on the way to the model? Could it strip fields the model needs for the review, like names or entity relationships?
+
+Leo
+
+Helios itself doesn't redact anything, it's not inspecting the content, it just passes the request through and logs the metadata around it. If anything's stripped it'd be upstream, like the masked customer view, which does drop names and related-party fields, and that's the one that bit the pilot before.
+
+You
+
+Are guardrails applied at the Helios level?
+
+Leo
+
+No, nothing like that at Helios, it's just the gateway, auth, logging, the call through to Vertex. Any guardrails would have to live in whatever you build on top, there's nothing baked in at that layer today.
+
+You
+
+What gets logged (prompts, responses, tool calls), where is it kept, for how long, and who can read it? Could we use those logs to evaluate and audit the agent?
+
+Leo
+
+Just metadata, caller, timestamp, model, token counts, latency, a request id, kept ninety days, goes to security's monitoring. No prompt or response text, Infosec ruled that out since prompts can carry customer data, so it won't give you content to audit, only that calls happened. I've got to jump, sorry, got another thing on. Good session though, come find me again if you've got more on the gateway side.

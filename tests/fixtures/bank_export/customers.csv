@@ -1,0 +1,4 @@
+customer_ref,customer_type,full_name_and_address,legal_name,risk_rating,onboarding_date,expected_annual_turnover_sgd,declared_business_activity,declared_markets,purpose_of_account,cash_pct_declared,nationality,birth_date,occupation,employer,source_of_funds,is_pep,jurisdiction,incorporation_date,registration_number,ssic_code
+CIF-1000001,individual,,Tan Mei Ling,2,2004-03-12,180000,,SG,receipt of salary and personal expenses,10,SG,1962-02-02,Hawker,Mei Heng Food Pte Ltd,business income,N,,,,
+CIF1000002,entity,,Pelican Ridge Holdings Pte Ltd,1,2015-06-01,50000,investment holding,SG|HK,dividend receipts and administrative payments,0,,,,,investment income,N,SG,2015-05-20,201512345K,64202
+1000003,individual,,Lim Kok Wee,4,1996-02-20,310000,,SG|MY,salary and investments,2,SG,1968-03-12,Regional sales director,Straits Marine Logistics Pte Ltd,salary,N,,,,

@@ -1,0 +1,4 @@
+account_number,customer_ref,product_code,open_date,status
+0001234567,CIF-1000001,current_account,2004-03-12,OPEN
+0007654321,CIF1000002,corporate_current,2015-06-01,OPEN
+9999999999,1000003,priority_current,1996-02-20,OPEN

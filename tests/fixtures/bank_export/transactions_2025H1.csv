@@ -1,0 +1,10 @@
+txn_dt,acct,amt,dr_cr,cpty,cpty_ctry
+2025-01-10,1234567,3100.00,C,Mei Heng Food Pte Ltd,SG
+2025-02-10,1234567,3100.00,C,Mei Heng Food Pte Ltd,SG
+2025-03-10,1234567,3100.00,C,Mei Heng Food Pte Ltd,SG
+2025-04-10,1234567,3100.00,C,Mei Heng Food Pte Ltd,SG
+2025-05-10,1234567,3100.00,C,Mei Heng Food Pte Ltd,SG
+2025-06-10,1234567,3100.00,C,Mei Heng Food Pte Ltd,SG
+2025-03-15,1234567,1500.00,D,Toa Payoh Town Council,SG
+2025-02-03,7654321,12000.00,C,Dividend: Corvin Capital Ltd,VG
+2025-05-06,7654321,9000.00,C,walk-in cash deposits (aggregated),SG

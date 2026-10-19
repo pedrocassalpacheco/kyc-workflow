@@ -1,0 +1,8 @@
+PAYSLIP EXTRACT
+--- Page 1 of 1 ---
+Employer   : [illegible]
+Employee   : Shahrul bin Talib
+Designation: [illegible]
+Pay period : [illegible]
+Net pay credited : [illegible]
+Remarks    : [illegible]

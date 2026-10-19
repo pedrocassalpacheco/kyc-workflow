@@ -1,0 +1,4 @@
+stored_filename,review_id,customer_id,original_filename
+1000001_sof_letter_1.txt,VGB-PR-2026-0001,CIF-1000001,sof-letter-1.txt
+1000002_acra_business_profile_1.txt,PR2026-0002,CIF-1000002,acra-business-profile-1.txt
+1000001_payslip_extract_1.txt,VGB-PR-2024-0009,CIF-1000001,payslip-extract-1.txt

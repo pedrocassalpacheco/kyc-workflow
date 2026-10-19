@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>VGB records · KYC workflow</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<div class="app">
+  <nav class="nav">
+    <div class="brand">VGB records<span class="sub">KYC workflow prototype</span></div>
+    <button class="navbtn active" data-view="chat">Chat</button>
+    <button class="navbtn" data-view="workflow">Workflow</button>
+    <button class="navbtn" data-view="evals">Evals</button>
+    <div class="navfoot" id="status-line">connecting…</div>
+  </nav>
+
+  <main class="main">
+    <section id="view-chat" class="view active">
+      <header class="viewhead">
+        <h1>Chat over the records</h1>
+        <div class="meta" id="chat-meta"></div>
+        <button id="chat-new" class="btn small">New session</button>
+      </header>
+      <div id="messages" class="messages"></div>
+      <div id="examples" class="examples"></div>
+      <form id="chat-form" class="chatform">
+        <textarea id="chat-input" rows="2" placeholder="Ask about a customer's records, e.g. Which accounts does CIF-1004823 hold?"></textarea>
+        <button id="chat-send" class="btn" type="submit">Send</button>
+      </form>
+    </section>
+
+    <section id="view-workflow" class="view">
+      <header class="viewhead"><h1>Evidence pack</h1><div class="meta">the fixed workflow for one review: code counts, Claude reads and compares, the analyst decides</div></header>
+      <form id="pack-form" class="inline">
+        <input id="pack-case" list="demo-reviews" placeholder="review id, e.g. VGB-PR-2026-1173">
+        <datalist id="demo-reviews"></datalist>
+        <label class="chk"><input type="checkbox" id="pack-model" checked> use Claude for the reading steps</label>
+        <button class="btn" type="submit" id="pack-build">Build pack</button>
+      </form>
+      <div id="pack-progress" class="pipeline"></div>
+      <div id="pack-result" class="packview"></div>
+      <section id="check-panel" class="checkpanel" hidden>
+        <h2>Pre-submit check</h2>
+        <p class="muted">The analyst's recorded outcome, clauses and rationale against the pack. Prefilled from the write-up on file when the review is completed.</p>
+        <div class="checkform">
+          <label>Outcome <select id="check-outcome"><option value="unchanged">unchanged (rating confirmed, §4.3)</option><option value="request_info">request_info (RFI, §4.5)</option><option value="escalate">escalate (§4.4)</option></select></label>
+          <label>Clauses cited <input id="check-clauses" placeholder="e.g. 4.3, 5.4"></label>
+          <label>Rationale <textarea id="check-rationale" rows="4"></textarea></label>
+          <button class="btn" id="check-run" type="button">Run check</button>
+        </div>
+        <div id="check-result"></div>
+      </section>
+    </section>
+
+    <section id="view-evals" class="view">
+      <header class="viewhead"><h1>Evaluations</h1></header>
+      <div class="evalrow">
+        <div class="evalcard">
+          <h2>Routing <span class="muted">Ragas ToolCallAccuracy</span></h2>
+          <p class="muted">Does a model pick the right MCP tool and arguments for an analyst's request?</p>
+          <button class="btn" data-eval="routing">Run</button> <span class="evalstate" id="state-routing"></span>
+        </div>
+        <div class="evalcard">
+          <h2>Guardrails <span class="muted">Ragas AspectCritic + Faithfulness</span></h2>
+          <p class="muted">Injection, off-topic, impersonation, fabrication through the real chat.</p>
+          <button class="btn" data-eval="guardrails">Run</button> <span class="evalstate" id="state-guardrails"></span>
+        </div>
+        <div class="evalcard">
+          <h2>Evidence pack <span class="muted">QA sample · Ragas Faithfulness</span></h2>
+          <p class="muted">Overturn recall on the 15 QA overturns, false alarms on the 60 concurred, citations, faithfulness. Runs the first 6 by default here.</p>
+          <button class="btn" data-eval="pack">Run</button> <span class="evalstate" id="state-pack"></span>
+        </div>
+      </div>
+      <div class="charts">
+        <figure class="chart"><figcaption>Routing · mean tool-call accuracy per run</figcaption><div id="chart-routing"></div></figure>
+        <figure class="chart"><figcaption>Guardrails · pass rate per run</figcaption><div id="chart-guardrails"></div></figure>
+        <figure class="chart"><figcaption>Evidence pack · overturn recall per run</figcaption><div id="chart-pack"></div></figure>
+      </div>
+      <details class="tablewrap" open><summary>Runs</summary><table id="eval-table"><thead><tr><th>when</th><th>eval</th><th>model</th><th>score</th><th>passed</th><th>judge tokens</th></tr></thead><tbody></tbody></table></details>
+    </section>
+  </main>
+
+  <aside class="side">
+    <section class="pane costs">
+      <h2>Consumption</h2>
+      <div class="costgrid" id="costs">
+        <div class="cost"><span class="k">turn</span><span class="v" id="c-turn">–</span></div>
+        <div class="cost"><span class="k">this turn in / out</span><span class="v" id="c-turn-tok">–</span></div>
+        <div class="cost"><span class="k">session calls</span><span class="v" id="c-calls">0</span></div>
+        <div class="cost"><span class="k">tool calls</span><span class="v" id="c-tools">0</span></div>
+        <div class="cost"><span class="k">tokens in</span><span class="v" id="c-in">0</span></div>
+        <div class="cost"><span class="k">tokens out</span><span class="v" id="c-out">0</span></div>
+        <div class="cost"><span class="k">cache read</span><span class="v" id="c-cache">0</span></div>
+        <div class="cost"><span class="k">last eval judge</span><span class="v" id="c-judge">–</span></div>
+        <div class="cost"><span class="k">pack in / out</span><span class="v" id="c-pack">–</span></div>
+      </div>
+    </section>
+    <section class="pane logs">
+      <div class="panehead"><h2>Log</h2><input id="log-filter" placeholder="filter, e.g. model_call"><label><input type="checkbox" id="log-warn"> warnings only</label></div>
+      <div id="log" class="log"></div>
+    </section>
+  </aside>
+</div>
+<div id="modal" class="modal" hidden><div class="modalbox"><div class="modalhead"><span id="modal-title"></span><button id="modal-close" class="btn small">close</button></div><pre id="modal-body"></pre></div></div>
+<script src="/static/app.js"></script>
+</body>
+</html>

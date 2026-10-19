@@ -1,0 +1,212 @@
+Who you talked to
+
+Raj Menon Deputy MLRO, Group Compliance. Department: Compliance. Reports to CCO. Your account executive named this person in the handover note.
+Raj Menon
+
+Hi, come in, sit. I haven't met you yet, only heard you've been going round the floor today. So, where do you want to start?
+
+You
+
+Grace suggested I talk to you first - as per Grace - the problem is that delays on KYC reviews are consequential, putting the bank at riskj of action from MAS and jeoperdizing her job - do you agree that this is the problem we are trying to address? That the review process is too slow that creates such delays
+
+Raj Menon
+
+The backlog is real, I won't dispute that. But the finding itself wasn't about speed, it was about evidence: the letter said closing rationales didn't consistently name the clause relied on, so a decision couldn't always be reconstructed. So slower reviews with clean evidence would have failed too. I'd rather we were precise about what MAS actually flagged before we talk about fixing it.
+
+You
+
+So your concerned is less about the slow speed of processing and more about not having proper evidence on the review? (yes./ no please)
+
+Raj Menon
+
+Yes. That's my job, I answer for evidence when MAS comes asking. The backlog matters too, but Grace owns that one.
+
+You
+
+Is the result of the account review submitted to MAS or only the reviews that are flagged as a potential risk?
+
+Raj Menon
+
+Routine reviews aren't sent to MAS at all, they sit in our case system. MAS only sees them when they inspect and pull a sample, which is what happened last time, sixty files.
+
+You
+
+Got - so do they require the evidence for the accounts when they review or is evidence available for every account?
+
+Raj Menon
+
+Evidence should exist for every file, whether or not MAS ever looks at it. We don't know which sixty they'll pick next time, so I can't have it only exist for some.
+
+You
+
+can you provide an example of what the record looks like and the types of eviance we are talking about?
+
+Raj Menon
+
+Medium risk file, right. So the rationale needs to say which clause you're working to, 5.4 for source of funds, then what you actually checked against it, so salary credits matched what they declared, and then who signed off on it. That's the analyst who closed it and the checker. Clause, what you looked at, what you found, names. That's all it needs to be.
+
+You
+
+Is the evidence different for the different risk levels?
+
+Raj Menon
+
+The content is the same idea, clause, check, finding, name. What changes is the sign-off chain. Low and medium get the analyst plus a checker. High also comes to my team before the rating's confirmed.
+
+You
+
+By sign off you mean it passes an internal audit?
+
+Raj Menon
+
+No, sign-off in Castellan (the bank's case tool) is someone putting their name to the decision before it closes. The checker reviews the analyst's work, Compliance confirms the rating on a high. Audit's separate. That's internal audit's job.
+
+You
+
+I don't understand "decision" - I fthought you were simpkying reporting on an accoubt audit and qualifying the risk - MAS is the one who actually takes action
+
+Raj Menon
+
+Sorry, let me be clearer. The decision is ours, the analyst decides the customer's rating still holds, or it needs to change, or we need more information from them. MAS doesn't make that call, they only come in later and check whether our decision was reasonable and evidenced.
+
+You
+
+Make sense - Show us a difficult review where compliance judgment was required.	What made the case ambiguous?
+
+Raj Menon
+
+I don't carry a file with me, that's the floor's job, not mine. But the ones that land on my desk are usually ownership, where the beneficial owner on paper doesn't match what the documents show, or the structure's changed and nobody's sure if it's material enough to re-rate.
+
+You
+
+Who can I talk to to see such file as examples?
+
+Raj Menon
+
+Nora's been doing this seventeen years, so she'll have real ones to show you.
+
+You
+
+Is the risk change decision done automatically by the tool or does a human decide? Is there a mathematicl formula to score the risk? Should I ask Nora?
+
+Raj Menon
+
+A human decides, always. The vendor tool suggests a score and a rating, nobody really uses the suggestion. For how the scoring works mechanically, that's a question for Ben's side or Nora, who actually sits with it every day.
+
+You
+
+If Nora is responsible for the risk rating and evidences, when do you get involved?
+
+Raj Menon
+
+On a high risk file, before the rating's confirmed, my team reviews it. Below that, Nora and her checker own it end to end, I don't see it unless something's escalated to us.
+
+You
+
+Got it - are the artifacts necessary for a risk account different than what is necessary for the others?
+
+Raj Menon
+
+Sorry, when you say risk account, do you mean a high risk file versus low or medium? Or something else?
+
+Raj Menon
+
+I'm sorry, I really do have to run to my next one. Let's pick this up.
+
+From the system: Raj left the conversation.
+
+----
+
+STILL OPEN 
+
+Your last question, whether high-risk files need different evidence. He already said the content is the same, so you only need to confirm.
+Which policy version applies and how the clause gets chosen (Q18)
+Which AI actions he'd allow, require confirmation for, or prohibit (Q20)
+What has to be kept for audit on an AI-assisted review (Q23)
+What would stop a rollout (Q24)
+Which cases to put in the evaluation set (Q25)
+
+
+Raj Menon
+
+Hi, come in. We got cut off last time before you asked about the risk account thing, I think. Where are we picking up?
+
+You
+
+Which AI actions would you allow, require confirmation for, or prohibit? For example: suggest clauses, flag gaps, draft rationale text, suggest a risk rating. (His tracker Q20.)
+
+Raj Menon
+
+Flagging gaps, suggesting a rating, drafting a first pass of the rationale, all fine as a draft. The analyst has to read it, edit it, and put their name on it before it closes. What I would not accept is anything closing a file on its own. Low risk or not, someone signs, every time.
+
+You
+
+What has to be kept for audit on an AI-assisted review? Does a check report stored outside Castellan count as part of the file? (Q23.)
+
+Raj Menon
+
+What matters to me is whether I can reconstruct the file: what was looked at, and why it concluded what it did, for that specific customer. If it sits outside Castellan, it's not part of the record as far as MAS is concerned.
+
+You
+
+What would stop a rollout? (Q24.)
+
+Raj Menon
+
+No named person accountable for a closure, that's one. Evidence I can't reconstruct per file, that's another. And if QA hasn't been brought in and signed off on the approach, I wouldn't support it going anywhere near production.
+
+You
+
+Which version of POL-042 applies, and can we have the text so clause suggestions are based on it? Is there written guidance on 5.4, 6.5 and 6.6? Sam says nobody told him.
+
+Raj Menon
+
+Version 4.2, that's current. The text will be in the data pack Ben's team gives you, I'd rather not hand out my own copy. If a clause reads ambiguous to you, bring it here and we can go through the wording together.
+
+You
+
+Is keeping customer data in Singapore an MAS rule or internal policy? Would Claude on a regional endpoint in asia-southeast1 meet it?
+
+Raj Menon
+
+Good question. We've got our own classification policy. Data on sanctioned paths has to stay inside our Google Cloud boundary in Singapore. MAS cares about outsourcing controls and notification, not the cloud brand, so a different vendor region wouldn't automatically fail with them. But it would fail with us. That boundary is board approved.
+
+Document: Data classification policy VGB-DC-07 (extract)
+
+You
+
+Is it acceptable to close a high-risk file with a source-of-funds RFI still outstanding because the RM asked? Sam's live case did exactly that.
+
+Raj Menon
+
+No, it isn't. A high risk file with an outstanding RFI on source of funds shouldn't be confirmed, RM pressure or not. If that happened on Sam's case, that's something QA or I need to look at directly, not something I'd want baked into a design.
+
+You
+
+Which cases should be in the evaluation set: ownership changes, cross-border income, stale documents, screening carry-forwards? (Q25.)
+
+Raj Menon
+
+I'd want ownership changes and anything with a stale document in there, those get argued over. Screening carry-forwards too, that's where I worry the evidence thins out fastest. I don't have a number on which category overturns most though, nobody's actually counted.
+
+You
+
+The risk scoring weightings: Nora says Grace's team configured them with you. Do you have them? I am thinking that we don't really to understand how to calculate it since the case management tool is available via an MCP server and it would calculate the risk
+
+Raj Menon
+
+The weightings are in the vendor module, that's Grace's side. I wasn't involved in configuring it, so my team didn't set it together with hers.
+
+You
+
+To confirm: high-risk files need the same evidence content (clause, check, finding, names), with your team's sign-off added?
+
+Raj Menon
+
+That's right. Same content, clause cited, check documented, finding stated. On a high, it goes through my team before the rating's confirmed. That's the extra step.
+
+
+Data classification policy VGB-DC-07 (extract)
+Group Compliance · Board-approved · extract
+
+3.1 Customer-identifying data (Class C1) may be processed only on sanctioned platforms operated within the Bank's approved cloud boundary (currently Google Cloud, asia-southeast1) and accessed via approved gateways. 3.4 De-identified or masked derivatives of C1 data may be classified C2 subject to Data Office approval; C2 data may be processed on additional approved platforms by exception. 5.2 Outsourced or third-party processing of C1 data is a material outsourcing arrangement for the purposes of the Bank's MAS outsourcing register: it requires prior notification through Group Compliance, a completed technology risk assessment against the MAS Technology Risk Management Guidelines, and Data Office sign-off before any data is transferred. 5.3 The approved cloud boundary in 3.1 is set by the Data Office and reviewed annually; a change to it is a Board matter.

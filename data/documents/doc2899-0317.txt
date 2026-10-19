@@ -1,0 +1,10 @@
+PAYSLIP EXTRACT
+--- Page 1 of 1 ---
+Ernployer: [illegible]
+Ernployee: Laura Pennington
+Pay period: [illegible]
+Basic pay: [illegible]
+Allowances: [illegible]
+Deductions: [illegible]
+Net pay credited to bank account: [illegible]
+[illegible]

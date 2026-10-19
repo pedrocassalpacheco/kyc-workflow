@@ -1,0 +1,4 @@
+case_id,customer_ref,case_type,alert_type,opened_dt,closed_dt,outcome,narrative
+CM-2024-0001,CIF-1000001,periodic_review,,2024-08-01,2024-08-20,no_further_action,Periodic review completed; rating confirmed.
+CM-2026-0002,1000003,rfi,,2026-08-21,,rfi_issued,RFI to RM for commission statement; awaiting response.
+CM-2025-0003,CIF1000002,rfi,,2025-04-01,2025-05-15,rfi_issued,RFI issued for updated ACRA profile. Customer stated they would not provide further ownership information.

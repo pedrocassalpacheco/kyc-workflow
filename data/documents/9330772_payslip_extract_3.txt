@@ -1,0 +1,8 @@
+PAYSLIP EXTRACT
+--- Page 1 of 1 ---
+Employer   : Straitline Interiors Pte. Ltd.
+Employee   : Phua Cheng Xuan
+Designation: Interior designer
+Pay period : [illegible]
+Net pay credited by GIR0 : [illegible]
+Remarks    : [illegible]

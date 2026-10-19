@@ -1,0 +1,223 @@
+Conversation with Grace Lim
+Ended
+Who you talked to
+
+Grace Lim Head of Financial Crime Operations. Department: Operations (exec). Reports to Victor Ong. Your account executive named this person in the handover note.
+Grace Lim
+
+Hi. Thanks for making the time. Aaron said you would rather hear it from me than from him, which suits me. So. Where do you want to start?
+
+You
+
+The actual process differs from the documented process.	Show us a recent periodic review from queue entry to closure.
+
+Grace Lim
+
+I can give you the shape of it, but I'm not the one sitting in Castellan (the bank's case tool) all day. Nora on the floor could walk you through an actual file end to end, that's her world. What do you mean, differs from documented, differs how?
+
+From the system: You can now talk to Nora from the client staff list.
+
+You
+
+Evidence collection and waiting may consume more time than final judgment.	Where did the analyst spend active time, and where did the case wait?
+
+Grace Lim
+
+I couldn't break it down like that for you, I'd be guessing. The thirty-eight minutes in my deck is the vendor's number from their time and motion study, a couple of years old now. Nora would actually know where the time goes, she's been doing this seventeen years.
+
+You
+
+MAS flagged a backlog of periodic KYC reviews. The backlog exposes VGB’s growth plans to further scrutiny. Grace wants a working proof of concept that can be demonstrated to leadership and open a larger engagement. The requested “agent” is not defined. Stakeholders did not agree on the target capability, scope or proof.Data access is only described as possible. Runtime, region, security and integration constraints remain unknown. - would you say this is fair assessment ?
+
+Grace Lim
+
+Yeah, that's fair, more or less. We haven't agreed among ourselves what this thing actually is yet, that's on us, not you. What I want out of it is simple though: backlog gone before MAS comes back, and my analysts checking work instead of assembling files.
+
+You
+
+Who are the stake holders and in what order to want me to speak with them?
+
+Grace Lim
+
+No fixed order, but I'd start with Raj, he'll tell you what compliance needs and he won't budge on it. Then Nora on the floor for how the work actually goes, Dan for QA, and Ben's side for what the system can do. Anna's worth a few minutes on cost too.
+
+From the system: You can now talk to Dan Koh from the client staff list.
+
+From the system: You can already talk to Raj and Nora and Ben and Anna.
+
+You
+
+Are you the executive sponsor for this project? Do you have a budget in mind? This appears to be regulatory related, so failure to meet the requirements carries a very high consequence. Have you quantified it?
+
+Grace Lim
+
+I'm the one who asked for this, yes, it sits with me day to day. Budget and the bigger call go through Victor, my boss, once I've got something to show him. I haven't put a number on failure it's more that the backlog is the thing that'll get me fired if it isn't down before the next visit.
+
+You
+
+I certainly don't want you fired, but the consequence of the backlog being behind probably affects more than you current employmeent,no?
+
+Grace Lim
+
+Fair, yeah. It's the bank's growth plans under scrutiny too, not just me, MAS doesn't love seeing this unresolved. But I live with it day to day, so it tends to come out as mine.
+
+You
+
+can you explain what a kyc review is?
+
+Grace Lim
+
+Sure, roughly: every so often we have to go back to an existing customer and recheck who they are, where their money comes from, who owns the business, whether anything's changed. Low risk every three years, medium every two, high every year. The backlog is reviews that are overdue for that recheck.
+
+You
+
+Is this done for all accounts or just specific ones?
+
+Grace Lim
+
+All of them, every customer gets reviewed on that cycle, it's not optional or risk-selected, MAS expects everyone to be recertified on schedule. Most of ours come out low or medium risk, maybe mid eighties percent, the rest are elevated or high.
+
+You
+
+What is the cycle?
+
+Grace Lim
+
+Low risk every thirty six months, medium every twenty four, high every twelve. That's the policy, same as I just said.
+
+You
+
+You didn't say that before - so low risk get more reviews than medium and high? doesn't make sense
+
+Grace Lim
+
+I did say it, two minutes ago. And it's the other way round, high risk gets reviewed most often, every year, because that's where the risk is. Low risk waits three years between reviews.
+
+You
+
+you said "Low risk every thirty six months, medium every twenty four, high every twelve. That's the policy, same as I just said." from this I gather low risk account get review every 6 months whereas medium get review ever twenty four
+
+Grace Lim
+
+No, sorry, let me say it slowly. Low is every thirty six months, so once every three years. Medium is every twenty four months, so once every two years. High is every twelve months, once a year.
+
+You
+
+Better - can you explain how review happens nowadays? Who is involved, what are the inputs, the actions, and the outcomes
+
+Grace Lim
+
+Broadly: an analyst opens the case in our case tool, pulls together the customer's documents, transaction pattern, screening results, decides if the risk rating still holds, writes a rationale, and closes it. A second analyst checks it before it's confirmed, and high risk also goes through Raj's team.
+
+You
+
+how is the risk calculate?
+
+Grace Lim
+
+There's a score that comes out of the vendor's module on screen as a number, but people actually work with the band. Low, medium or high. I couldn't tell you what's in the formula, that's the vendor's model.
+
+Grace Lim
+
+I'm sorry, I really do have to run to my next one. Let's pick this up.
+
+MAS inspection letter · finding 4.3 (extract)
+Monetary Authority of Singapore · Inspection of AML/CFT controls · Veridian Global Bank Ltd · extract forwarded by Grace Lim
+
+Finding 4.3 (High). The Bank has not completed periodic customer due diligence reviews within the intervals required by its own Customer Risk Rating Policy. At the inspection date approximately 47,000 reviews were overdue, of which c. 84% relate to customers rated low or medium risk.
+
+4.3(b). In a sample of 60 completed low and medium risk reviews, the closing rationale did not consistently reference the policy provision relied upon. In 17 of 60 the rationale recorded a conclusion without identifying the applicable clause. The Bank should ensure review outcomes are evidenced such that the basis of each decision can be reconstructed.
+
+Required action. A remediation plan within 60 days; backlog cleared and evidencing standard demonstrated at re-inspection in twelve months.
+
+Grace Lim
+
+Hey, you're back. How's it going, who've you managed to catch since we spoke?
+
+You
+
+hat should the agent hand the analyst: an evidence pack plus a pre-submit check, or a drafted rationale? Is a draft acceptable if every sentence cites its source? (Deferred by Ben, Nora and Sam.)
+
+Grace Lim
+
+I don't mind which, as long as it's fast for them and Raj is happy with it. A draft's fine by me if it's sourced properly, but that's Raj's call.
+
+You
+
+Would you make a clean check report a condition of the checker accepting a file? Without Castellan write access, that's the only way the check can't be skipped.
+
+Grace Lim
+
+Yes, that I'd push for. If it's not a hard stop people will skip it when they're busy, I've seen it happen with other checklists.
+
+You
+
+How many reviews are in the backlog, split by risk tier, and when is MAS's next visit?
+
+Grace Lim
+
+Backlog's about forty seven thousand. I don't have it split by tier off the top of my head, but it'll roughly track our normal mix, mostly low and medium. Twelve months till they're back, that's the number I live with.
+
+You
+
+How many customer of each risk category are there?
+
+Grace Lim
+
+Across the book, low and medium together are about eighty-four percent of what comes up for review each year. Highs are a small slice, but they eat the most time per file.
+
+You
+
+Can you give me an actual figure?
+
+Grace Lim
+
+Roughly, about three hundred and thirty thousand reviews a year in total, and eighty-four percent of those are low or medium. Exact split by count I'd have to check, I don't carry it that precisely.
+
+You
+
+Which review types are in scope for the POC: low and medium only, or high too? Should we include the 2024 reviews deferred on an RM attestation alone?
+
+Grace Lim
+
+Start with low and medium, that's most of the backlog and where I need movement. Highs would be amazing if you can get there, but don't let that hold up the rest.
+
+You
+
+Who can provide redacted or synthetic test cases, and by when? (Deferred by Nora.
+
+Grace Lim
+
+That's Ben's side, he controls what gets pulled and in what shape. I can lean on him if it's dragging, but ask him directly first.
+
+You
+
+Should the output also serve the checker, and Raj's team on high-risk files, or only the analyst?
+
+Grace Lim
+
+If it helps the checker too, even better, that's less time per file either way. Raj's team on highs, I'd leave that to him, he'll have views on what Compliance needs to see.
+
+You
+
+Is there written guidance for analysts on which clause applies where? If not, is producing it part of this work?
+
+Grace Lim
+
+There's a training deck the floor uses, but no, nobody's written out clause by clause what applies where. If you're building that as part of this, I won't say no.
+
+You
+
+Who in your team configured the vendor's risk weightings? Raj says he wasn't involved, so it sits with you. (Low priority: the MCP server returns the score.)
+
+Grace Lim
+
+I'd have to check, that'll be from years back, before my time running this. Might be my systems team, might've been set by the vendor directly. Anna would know who signed off on it.
+
+You
+
+Who owns the agent day to day after handover: the prompts, the evaluations, and changes when policy changes?
+
+Grace Lim
+
+That's a platform question really, Ben's team runs everything that touches Castellan under change control. I'd want someone named for it before this goes anywhere, Raj will ask the same. Sorry, I've got to run, I'm properly late now. Good stuff though, keep going, send me what you've got.

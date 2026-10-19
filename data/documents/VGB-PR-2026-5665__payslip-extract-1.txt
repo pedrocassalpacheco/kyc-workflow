@@ -1,0 +1,8 @@
+PAYSLIP EXTRACT
+--- Page 1 of 1 ---
+Employer   : Crestwell Infrastructure Pte. Ltd.
+Employee   : Leong Xin Shan
+Designation: Civil engineer
+Pay period : [illegible]
+Net pay credited by GIR0 : [illegible]
+Remarks    : [illegible]
