@@ -1,5 +1,7 @@
 # VGB KYC review workflow
 
+Repository: https://github.com/pedrocassalpacheco/kyc-workflow
+
 An AI-supported workflow for Veridian Global Bank's periodic KYC reviews. It
 prepares the evidence for a low or medium risk review before an analyst
 opens the file and checks the analyst's recorded outcome before it is
@@ -35,7 +37,7 @@ pack. It runs on a laptop with one API key.
 ### Steps
 
 ```bash
-git clone <this repo> && cd kyc-workflow
+git clone https://github.com/pedrocassalpacheco/kyc-workflow.git && cd kyc-workflow
 uv sync                                   # installs everything from uv.lock
 cp .env.example .env                      # then put your ANTHROPIC_API_KEY in .env
 make test                                 # 151 offline tests, no key needed (one live test is opt-in)

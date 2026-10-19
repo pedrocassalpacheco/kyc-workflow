@@ -33,5 +33,3 @@ Thumbs.db
 # The original data pack archive: its contents are unzipped in data/
 data/*.zip
 
-# rendered write-up intermediate
-docs/writeup.html
